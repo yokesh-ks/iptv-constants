@@ -4,6 +4,6 @@
   "categoryId": "general",
   "streamUrl": "http://202.164.50.194:8000/play/a054/index.m3u8",
   "tvgId": "AssamTalks.in@SD",
-  "isActive": true,
-  "language": "as"
+  "isActive": false,
+  "language": "assamese"
 }

@@ -4,6 +4,6 @@
   "categoryId": "lifestyle",
   "streamUrl": "http://202.164.50.194:8000/play/a025/index.m3u8",
   "tvgId": "FoodFood.in@SD",
-  "isActive": true,
-  "language": "en"
+  "isActive": false,
+  "language": "english"
 }

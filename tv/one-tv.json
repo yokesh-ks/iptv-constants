@@ -4,6 +4,6 @@
   "categoryId": "entertainment",
   "streamUrl": "http://137.59.86.218:1935/live/onetv/playlist.m3u8",
   "tvgId": "OneTV.in@SD",
-  "isActive": true,
-  "language": "hi"
+  "isActive": false,
+  "language": "hindi"
 }

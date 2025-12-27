@@ -4,6 +4,6 @@
   "categoryId": "entertainment",
   "streamUrl": "http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8",
   "tvgId": "RealTV.in@SD",
-  "isActive": true,
-  "language": "hi"
+  "isActive": false,
+  "language": "hindi"
 }

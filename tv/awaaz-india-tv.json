@@ -4,6 +4,6 @@
   "categoryId": "entertainment",
   "streamUrl": "http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
   "tvgId": "AwaazIndiaTV.in@SD",
-  "isActive": true,
-  "language": "hi"
+  "isActive": false,
+  "language": "hindi"
 }

@@ -4,6 +4,6 @@
   "categoryId": "news",
   "streamUrl": "http://livestream.rajtv.tv/cluster1/Content/Channel/RajNews/HLS/master.m3u8",
   "tvgId": "RajNews.in@SD",
-  "isActive": true,
-  "language": "hi"
+  "isActive": false,
+  "language": "hindi"
 }

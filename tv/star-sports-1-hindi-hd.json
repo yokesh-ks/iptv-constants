@@ -4,6 +4,6 @@
   "categoryId": "entertainment",
   "streamUrl": "http://66.102.120.18:8000/play/a072/index.m3u8",
   "tvgId": "StarSports1Hindi.in@HD",
-  "isActive": true,
-  "language": "hi"
+  "isActive": false,
+  "language": "hindi"
 }

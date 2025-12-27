@@ -4,6 +4,6 @@
   "categoryId": "general",
   "streamUrl": "http://202.164.50.194:8000/play/a03j/index.m3u8",
   "tvgId": "APN.in@SD",
-  "isActive": true,
-  "language": "en"
+  "isActive": false,
+  "language": "english"
 }

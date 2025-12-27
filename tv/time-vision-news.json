@@ -4,6 +4,6 @@
   "categoryId": "news",
   "streamUrl": "http://rtmp.logichost.in:1935/timevision/timevision/playlist.m3u8",
   "tvgId": "TimeVisionNews.in@SD",
-  "isActive": true,
-  "language": "hi"
+  "isActive": false,
+  "language": "hindi"
 }

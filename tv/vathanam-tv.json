@@ -4,6 +4,6 @@
   "categoryId": "entertainment",
   "streamUrl": "http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8",
   "tvgId": "",
-  "isActive": true,
-  "language": "hi"
+  "isActive": false,
+  "language": "hindi"
 }

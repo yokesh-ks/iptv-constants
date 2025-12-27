@@ -4,6 +4,6 @@
   "categoryId": "general",
   "streamUrl": "http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8",
   "tvgId": "NCV.in@SD",
-  "isActive": true,
+  "isActive": false,
   "language": "unknown"
 }

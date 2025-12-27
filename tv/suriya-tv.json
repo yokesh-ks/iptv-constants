@@ -4,6 +4,6 @@
   "categoryId": "entertainment",
   "streamUrl": "http://103.140.254.2:3500/live/3394.m3u8",
   "tvgId": "SuriyaTV.in@SD",
-  "isActive": true,
-  "language": "hi"
+  "isActive": false,
+  "language": "hindi"
 }

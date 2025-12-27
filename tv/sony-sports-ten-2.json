@@ -4,6 +4,6 @@
   "categoryId": "entertainment",
   "streamUrl": "http://66.102.120.18:8000/play/a01y/index.m3u8",
   "tvgId": "SonySportsTen2.in@SD",
-  "isActive": true,
-  "language": "hi"
+  "isActive": false,
+  "language": "hindi"
 }

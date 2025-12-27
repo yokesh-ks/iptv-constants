@@ -8,7 +8,7 @@
     "attributes": {
       "tvg-id": "4TVNews.in@SD"
     },
-    "language": "te"
+    "language": "english"
   },
   {
     "id": "6-tv-telugu",
@@ -19,7 +19,7 @@
     "attributes": {
       "tvg-id": "6TVTelugu.in@SD"
     },
-    "language": "en"
+    "language": "telugu"
   },
   {
     "id": "7s-music",
@@ -30,7 +30,7 @@
     "attributes": {
       "tvg-id": "7SMusic.in@SD"
     },
-    "language": "en"
+    "language": "tamil"
   },
   {
     "id": "9x-jalwa",
@@ -41,7 +41,7 @@
     "attributes": {
       "tvg-id": "9XJalwa.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "9x-jalwa",
@@ -52,7 +52,7 @@
     "attributes": {
       "tvg-id": "9XJalwa.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "9x-jhakaas",
@@ -63,7 +63,7 @@
     "attributes": {
       "tvg-id": "9XJhakaas.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "9x-jhakaas",
@@ -74,7 +74,7 @@
     "attributes": {
       "tvg-id": "9XJhakaas.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "9x-tashan",
@@ -85,7 +85,7 @@
     "attributes": {
       "tvg-id": "9XTashan.in@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "9x-tashan",
@@ -96,7 +96,7 @@
     "attributes": {
       "tvg-id": "9XTashan.in@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "9xm",
@@ -107,7 +107,7 @@
     "attributes": {
       "tvg-id": "9XM.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "9xm",
@@ -118,7 +118,7 @@
     "attributes": {
       "tvg-id": "9XM.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "10-tv",
@@ -129,7 +129,7 @@
     "attributes": {
       "tvg-id": "10TV.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "99tv",
@@ -140,7 +140,7 @@
     "attributes": {
       "tvg-id": "99TV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "flix",
@@ -151,7 +151,7 @@
     "attributes": {
       "tvg-id": "Andflix.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "flix",
@@ -162,7 +162,7 @@
     "attributes": {
       "tvg-id": "Andflix.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "pictures",
@@ -184,7 +184,7 @@
     "attributes": {
       "tvg-id": "AndpriveHD.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "xplor-hd",
@@ -206,7 +206,7 @@
     "attributes": {
       "tvg-id": "AajTak.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "aaj-tak",
@@ -217,7 +217,7 @@
     "attributes": {
       "tvg-id": "AajTak.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "aaj-tak",
@@ -228,7 +228,7 @@
     "attributes": {
       "tvg-id": "AajTak.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "aaj-tak",
@@ -239,7 +239,7 @@
     "attributes": {
       "tvg-id": "AajTak.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "aakaash-aath",
@@ -250,7 +250,7 @@
     "attributes": {
       "tvg-id": "AakaashAath.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "aamar-bangla",
@@ -261,7 +261,7 @@
     "attributes": {
       "tvg-id": "AamarBangla.in@SD"
     },
-    "language": "en"
+    "language": "bengali"
   },
   {
     "id": "aaryaa-tv",
@@ -272,7 +272,7 @@
     "attributes": {
       "tvg-id": "AaryaaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "aastha",
@@ -283,7 +283,7 @@
     "attributes": {
       "tvg-id": "Aastha.in@SD"
     },
-    "language": "hi"
+    "language": "english"
   },
   {
     "id": "aastha-bhajan",
@@ -294,7 +294,7 @@
     "attributes": {
       "tvg-id": "AasthaBhajan.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "aastha-kannada",
@@ -305,7 +305,7 @@
     "attributes": {
       "tvg-id": "AasthaKannada.in@SD"
     },
-    "language": "kn"
+    "language": "kannada"
   },
   {
     "id": "aastha-prime-1",
@@ -316,7 +316,7 @@
     "attributes": {
       "tvg-id": "AasthaPrime1.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "aastha-tamil",
@@ -327,7 +327,7 @@
     "attributes": {
       "tvg-id": "AasthaTamil.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "aastha-telugu",
@@ -338,7 +338,7 @@
     "attributes": {
       "tvg-id": "AasthaTelugu.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "aathavan-tv",
@@ -349,7 +349,7 @@
     "attributes": {
       "tvg-id": "AathavanTV.uk@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "abn-andhra-jyoti",
@@ -360,7 +360,7 @@
     "attributes": {
       "tvg-id": "ABNAndhraJyoti.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "abp-ananda",
@@ -371,7 +371,7 @@
     "attributes": {
       "tvg-id": "ABPAnanda.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "abp-asmita",
@@ -382,7 +382,7 @@
     "attributes": {
       "tvg-id": "ABPAsmita.in@SD"
     },
-    "language": "gu"
+    "language": "gujarati"
   },
   {
     "id": "abp-ganga",
@@ -393,7 +393,7 @@
     "attributes": {
       "tvg-id": "ABPGanga.in@SD"
     },
-    "language": "hi"
+    "language": "tamil"
   },
   {
     "id": "abp-ganga",
@@ -405,7 +405,7 @@
       "tvg-id": "ABPGanga.in@SD",
       "vlc-opts": "ttp-referrer=https://distro.tv/; ttp-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
     },
-    "language": "hi"
+    "language": "tamil"
   },
   {
     "id": "abp-majha",
@@ -428,7 +428,7 @@
       "tvg-id": "ABPNews.in@SD",
       "vlc-opts": "ttp-referrer=https://cdn.abplive.com"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "abp-news",
@@ -439,7 +439,7 @@
     "attributes": {
       "tvg-id": "ABPNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "abp-sanjha",
@@ -450,7 +450,7 @@
     "attributes": {
       "tvg-id": "ABPSanjha.in@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "abzy-dhakad",
@@ -461,7 +461,7 @@
     "attributes": {
       "tvg-id": "AbzyDhakad.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "abzy-dhakad",
@@ -472,7 +472,7 @@
     "attributes": {
       "tvg-id": "AbzyDhakad.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "abzy-movies",
@@ -505,7 +505,7 @@
     "attributes": {
       "tvg-id": "AKDCalcuttaNews.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "alankar-tv",
@@ -516,7 +516,7 @@
     "attributes": {
       "tvg-id": "AlankarTV.in@SD"
     },
-    "language": "or"
+    "language": "odia"
   },
   {
     "id": "amrita-tv",
@@ -527,7 +527,7 @@
     "attributes": {
       "tvg-id": "AmritaTV.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "anaadi-tv",
@@ -538,7 +538,7 @@
     "attributes": {
       "tvg-id": "AnaadiTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "ananda-barta",
@@ -549,7 +549,7 @@
     "attributes": {
       "tvg-id": "AnandaBarta.in@SD"
     },
-    "language": "en"
+    "language": "bengali"
   },
   {
     "id": "anandham-tv",
@@ -560,7 +560,7 @@
     "attributes": {
       "tvg-id": "AnandhamTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "anb-news",
@@ -571,7 +571,7 @@
     "attributes": {
       "tvg-id": "ANBNews.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "angel-tv",
@@ -582,7 +582,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@India"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-africa",
@@ -593,7 +593,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@Africa"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-america",
@@ -604,7 +604,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@America"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-arabia",
@@ -615,7 +615,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@Arabia"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-australia",
@@ -626,7 +626,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@Australia"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-chinese",
@@ -637,7 +637,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@Chinese"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-europe",
@@ -648,7 +648,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@Europe"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-fareast",
@@ -659,7 +659,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@FarEast"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-hebrew",
@@ -670,7 +670,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@Hebrew"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-indo-china",
@@ -681,7 +681,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@IndoChina"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-indonesia",
@@ -692,7 +692,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@Indonesia"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-portuguese",
@@ -703,7 +703,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@Portuguese"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-russian",
@@ -714,7 +714,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@Russian"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "angel-tv-spanish",
@@ -725,7 +725,7 @@
     "attributes": {
       "tvg-id": "AngelTV.in@Spanish"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "animax",
@@ -780,7 +780,7 @@
     "attributes": {
       "tvg-id": "ANNNews.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "apn",
@@ -791,7 +791,7 @@
     "attributes": {
       "tvg-id": "APN.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "apna-punjab-tv",
@@ -802,7 +802,7 @@
     "attributes": {
       "tvg-id": "ApnaPunjabTV.ca@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "aradana-tv",
@@ -813,7 +813,7 @@
     "attributes": {
       "tvg-id": "AradanaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "argus-news",
@@ -824,7 +824,7 @@
     "attributes": {
       "tvg-id": "ArgusNews.in@SD"
     },
-    "language": "or"
+    "language": "english"
   },
   {
     "id": "asianet-hd",
@@ -835,7 +835,7 @@
     "attributes": {
       "tvg-id": "Asianet.in@HD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "asianet-news",
@@ -846,7 +846,7 @@
     "attributes": {
       "tvg-id": "AsianetNews.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "asianet-suvarna-news",
@@ -858,7 +858,7 @@
       "tvg-id": "AsianetSuvarnaNews.in@SD",
       "vlc-opts": "ttp-referrer=https://dashboard.videograph.ai/; ttp-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
     },
-    "language": "kn"
+    "language": "kannada"
   },
   {
     "id": "assam-talks",
@@ -869,7 +869,7 @@
     "attributes": {
       "tvg-id": "AssamTalks.in@SD"
     },
-    "language": "as"
+    "language": "assamese"
   },
   {
     "id": "awaaz-india-tv",
@@ -880,7 +880,7 @@
     "attributes": {
       "tvg-id": "AwaazIndiaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "awakening-tv",
@@ -891,7 +891,7 @@
     "attributes": {
       "tvg-id": "AwakeningTV.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "ayush-tv",
@@ -902,7 +902,7 @@
     "attributes": {
       "tvg-id": "AyushTV.in@SD"
     },
-    "language": "en"
+    "language": "kannada"
   },
   {
     "id": "b4u-bhojpuri",
@@ -913,7 +913,7 @@
     "attributes": {
       "tvg-id": "B4UBhojpuri.in@SD"
     },
-    "language": "bh"
+    "language": "bhojpuri"
   },
   {
     "id": "b4u-bhojpuri",
@@ -924,7 +924,7 @@
     "attributes": {
       "tvg-id": "B4UBhojpuri.in@SD"
     },
-    "language": "bh"
+    "language": "bhojpuri"
   },
   {
     "id": "b4u-kadak",
@@ -957,7 +957,7 @@
     "attributes": {
       "tvg-id": "B4UMovies.in@India"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "b4u-movies-india",
@@ -968,7 +968,7 @@
     "attributes": {
       "tvg-id": "B4UMovies.in@India"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "b4u-music",
@@ -979,7 +979,7 @@
     "attributes": {
       "tvg-id": "B4UMusic.in@India"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "b4u-music",
@@ -990,7 +990,7 @@
     "attributes": {
       "tvg-id": "B4UMusic.in@India"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "bada-khabar",
@@ -1001,7 +1001,7 @@
     "attributes": {
       "tvg-id": "BadaKhabar.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "balle-balle",
@@ -1034,7 +1034,7 @@
     "attributes": {
       "tvg-id": "BhakthiTV.in@SD"
     },
-    "language": "en"
+    "language": "telugu"
   },
   {
     "id": "bharat24",
@@ -1046,7 +1046,7 @@
       "tvg-id": "Bharat24.in@SD",
       "vlc-opts": "ttp-referrer=https://cdn.ottlive.co.in/bharat24/embed.html; ttp-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "bharat-express",
@@ -1057,7 +1057,7 @@
     "attributes": {
       "tvg-id": "BharatExpress.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "bhojpuri-cinema",
@@ -1068,7 +1068,7 @@
     "attributes": {
       "tvg-id": "BhojpuriCinema.in@SD"
     },
-    "language": "ru"
+    "language": "bhojpuri"
   },
   {
     "id": "big-magic",
@@ -1079,7 +1079,7 @@
     "attributes": {
       "tvg-id": "BigMagic.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "big-tv",
@@ -1090,7 +1090,7 @@
     "attributes": {
       "tvg-id": "BIGTV.in@SD"
     },
-    "language": "hi"
+    "language": "english"
   },
   {
     "id": "blessing-tv-tamil",
@@ -1101,7 +1101,7 @@
     "attributes": {
       "tvg-id": "AaseervathamTV.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "brio-tv",
@@ -1112,7 +1112,7 @@
     "attributes": {
       "tvg-id": "BrioTV.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "ccv",
@@ -1134,7 +1134,7 @@
     "attributes": {
       "tvg-id": "ChannelDivya.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "channel-win",
@@ -1145,7 +1145,7 @@
     "attributes": {
       "tvg-id": "ChannelWIN.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "channel-y",
@@ -1156,7 +1156,7 @@
     "attributes": {
       "tvg-id": "ChannelY.ca@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "chardikla-gurbaani-tv",
@@ -1167,7 +1167,7 @@
     "attributes": {
       "tvg-id": "ChardiklaGurbaaniTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "chardikla-time-tv",
@@ -1178,7 +1178,7 @@
     "attributes": {
       "tvg-id": "ChardiklaTimeTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "chardikla-time-tv-north-america",
@@ -1189,7 +1189,7 @@
     "attributes": {
       "tvg-id": "ChardiklaTimeTVNorthAmerica.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "chithiram",
@@ -1200,7 +1200,7 @@
     "attributes": {
       "tvg-id": "Chithiram.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "cnbc-awaaz",
@@ -1233,7 +1233,7 @@
     "attributes": {
       "tvg-id": "CNBCTV18.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "colors",
@@ -1244,7 +1244,7 @@
     "attributes": {
       "tvg-id": "Colors.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "colors-cineplex",
@@ -1255,7 +1255,7 @@
     "attributes": {
       "tvg-id": "ColorsCineplex.in@HD"
     },
-    "language": "hi"
+    "language": "english"
   },
   {
     "id": "colors-cineplex-bollywood",
@@ -1266,7 +1266,7 @@
     "attributes": {
       "tvg-id": "ColorsCineplexBollywood.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "colors-cineplex-superhits",
@@ -1277,7 +1277,7 @@
     "attributes": {
       "tvg-id": "ColorsCineplexSuperhits.in@SD"
     },
-    "language": "hi"
+    "language": "english"
   },
   {
     "id": "colors-infinity",
@@ -1288,7 +1288,7 @@
     "attributes": {
       "tvg-id": "ColorsInfinity.in@HD"
     },
-    "language": "hi"
+    "language": "english"
   },
   {
     "id": "colors-rishtey-asia",
@@ -1299,7 +1299,7 @@
     "attributes": {
       "tvg-id": "ColorsRishteyAsia.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "ctvn-akd-plus",
@@ -1310,7 +1310,7 @@
     "attributes": {
       "tvg-id": "CTVNAKDPlus.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "ctvn-akd-plus",
@@ -1321,7 +1321,7 @@
     "attributes": {
       "tvg-id": "CTVNAKDPlus.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "cvr-english",
@@ -1332,7 +1332,7 @@
     "attributes": {
       "tvg-id": "CVREnglish.in@SD"
     },
-    "language": "unknown"
+    "language": "english"
   },
   {
     "id": "cvr-health",
@@ -1343,7 +1343,7 @@
     "attributes": {
       "tvg-id": "CVRHealth.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "cvr-om-spiritual",
@@ -1365,7 +1365,7 @@
     "attributes": {
       "tvg-id": "DangalTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "darshan-24",
@@ -1398,7 +1398,7 @@
     "attributes": {
       "tvg-id": "DDAssam.in@SD"
     },
-    "language": "as"
+    "language": "assamese"
   },
   {
     "id": "dd-assam",
@@ -1409,7 +1409,7 @@
     "attributes": {
       "tvg-id": "DDAssam.in@SD"
     },
-    "language": "as"
+    "language": "assamese"
   },
   {
     "id": "dd-bangla",
@@ -1420,7 +1420,7 @@
     "attributes": {
       "tvg-id": "DDBangla.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "dd-bharati",
@@ -1431,7 +1431,7 @@
     "attributes": {
       "tvg-id": "DDBharati.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "dd-bihar",
@@ -1442,7 +1442,7 @@
     "attributes": {
       "tvg-id": "DDBihar.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "dd-chandana",
@@ -1453,7 +1453,7 @@
     "attributes": {
       "tvg-id": "DDChandana.in@SD"
     },
-    "language": "kn"
+    "language": "kannada"
   },
   {
     "id": "dd-chhattisgarh",
@@ -1519,7 +1519,7 @@
     "attributes": {
       "tvg-id": "DDIndia.in@SD"
     },
-    "language": "en"
+    "language": "hindi"
   },
   {
     "id": "dd-jharkhand",
@@ -1530,7 +1530,7 @@
     "attributes": {
       "tvg-id": "DDJharkhand.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "dd-kashir",
@@ -1563,7 +1563,7 @@
     "attributes": {
       "tvg-id": "DDMadhyaPradesh.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "dd-malayalam",
@@ -1574,7 +1574,7 @@
     "attributes": {
       "tvg-id": "DDMalayalam.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "dd-manipur",
@@ -1629,7 +1629,7 @@
     "attributes": {
       "tvg-id": "DDNational.in@HD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "dd-news",
@@ -1640,7 +1640,7 @@
     "attributes": {
       "tvg-id": "DDNews.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "dd-odia",
@@ -1651,7 +1651,7 @@
     "attributes": {
       "tvg-id": "DDOdia.in@SD"
     },
-    "language": "or"
+    "language": "odia"
   },
   {
     "id": "dd-podhigai",
@@ -1673,7 +1673,7 @@
     "attributes": {
       "tvg-id": "DDPunjabi.in@SD"
     },
-    "language": "en"
+    "language": "punjabi"
   },
   {
     "id": "dd-rajasthan",
@@ -1684,7 +1684,7 @@
     "attributes": {
       "tvg-id": "DDRajasthan.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "dd-sahyadri",
@@ -1695,7 +1695,7 @@
     "attributes": {
       "tvg-id": "DDSahyadri.in@SD"
     },
-    "language": "en"
+    "language": "hindi"
   },
   {
     "id": "dd-saptagiri",
@@ -1717,7 +1717,7 @@
     "attributes": {
       "tvg-id": "DDSports.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "dd-tamil",
@@ -1728,7 +1728,7 @@
     "attributes": {
       "tvg-id": "DDTamil.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "dd-tripura",
@@ -1750,7 +1750,7 @@
     "attributes": {
       "tvg-id": "DDUrdu.in@SD"
     },
-    "language": "ur"
+    "language": "urdu"
   },
   {
     "id": "dd-uttar-pradesh",
@@ -1761,7 +1761,7 @@
     "attributes": {
       "tvg-id": "DDUttarPradesh.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "dd-uttarakhand",
@@ -1772,7 +1772,7 @@
     "attributes": {
       "tvg-id": "DDUttarakhand.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "desi-channel",
@@ -1783,7 +1783,7 @@
     "attributes": {
       "tvg-id": "DesiChannel.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "dhamaal",
@@ -1794,7 +1794,7 @@
     "attributes": {
       "tvg-id": "Dhamaal.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "dharshan-tv",
@@ -1805,7 +1805,7 @@
     "attributes": {
       "tvg-id": "DharshanTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "dheeran-tv",
@@ -1816,7 +1816,7 @@
     "attributes": {
       "tvg-id": "DheeranTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "dhoom-music",
@@ -1838,7 +1838,7 @@
     "attributes": {
       "tvg-id": "DisneyChannel.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "disney-channel-hd",
@@ -1849,7 +1849,7 @@
     "attributes": {
       "tvg-id": "DisneyChannel.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "disney-international-hd",
@@ -1860,7 +1860,7 @@
     "attributes": {
       "tvg-id": "DisneyInternationalHD.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "disney-junior",
@@ -1871,7 +1871,7 @@
     "attributes": {
       "tvg-id": "DisneyJunior.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "divyavani-tv",
@@ -1882,7 +1882,7 @@
     "attributes": {
       "tvg-id": "DivyavaniTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "doctor-live",
@@ -1893,7 +1893,7 @@
     "attributes": {
       "tvg-id": "DoctorLive.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "dy-365",
@@ -1904,7 +1904,7 @@
     "attributes": {
       "tvg-id": "DY365.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "e-24",
@@ -1926,7 +1926,7 @@
     "attributes": {
       "tvg-id": "EagleOneNews.us@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "eet-tv",
@@ -1937,7 +1937,7 @@
     "attributes": {
       "tvg-id": "EETTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "enter10-bangla",
@@ -1948,7 +1948,7 @@
     "attributes": {
       "tvg-id": "Enter10Bangla.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "epic-tv",
@@ -1959,7 +1959,7 @@
     "attributes": {
       "tvg-id": "EpicTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "et-now",
@@ -1970,7 +1970,7 @@
     "attributes": {
       "tvg-id": "ETNow.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "et-now-swadesh",
@@ -1981,7 +1981,7 @@
     "attributes": {
       "tvg-id": "ETNowSwadesh.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "etv-abhiruchi",
@@ -1992,7 +1992,7 @@
     "attributes": {
       "tvg-id": "ETVAbhiruchi.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "etv-andhra-pradesh",
@@ -2003,7 +2003,7 @@
     "attributes": {
       "tvg-id": "ETVAndhraPradesh.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "etv-cinema-hd",
@@ -2014,7 +2014,7 @@
     "attributes": {
       "tvg-id": "ETVCinema.in@HD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "etv-life",
@@ -2025,7 +2025,7 @@
     "attributes": {
       "tvg-id": "ETVLife.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "etv-plus-hd",
@@ -2036,7 +2036,7 @@
     "attributes": {
       "tvg-id": "ETVPlus.in@HD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "etv-telangana",
@@ -2047,7 +2047,7 @@
     "attributes": {
       "tvg-id": "ETVTelangana.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "etv-telugu-hd",
@@ -2058,7 +2058,7 @@
     "attributes": {
       "tvg-id": "ETVTelugu.in@HD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "fakt-marathi",
@@ -2069,7 +2069,7 @@
     "attributes": {
       "tvg-id": "FaktMarathi.in@SD"
     },
-    "language": "mr"
+    "language": "marathi"
   },
   {
     "id": "fateh-tv",
@@ -2080,7 +2080,7 @@
     "attributes": {
       "tvg-id": "FatehTV.in@SD"
     },
-    "language": "en"
+    "language": "hindi"
   },
   {
     "id": "filamchi-bhojpuri",
@@ -2091,7 +2091,7 @@
     "attributes": {
       "tvg-id": "FilamchiBhojpuri.in@SD"
     },
-    "language": "bh"
+    "language": "bhojpuri"
   },
   {
     "id": "first-india-news",
@@ -2102,7 +2102,7 @@
     "attributes": {
       "tvg-id": "FirstIndiaNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "food-food",
@@ -2113,7 +2113,7 @@
     "attributes": {
       "tvg-id": "FoodFood.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "gemini-tv",
@@ -2124,7 +2124,7 @@
     "attributes": {
       "tvg-id": "GeminiTV.in@HD"
     },
-    "language": "en"
+    "language": "telugu"
   },
   {
     "id": "global-punjab",
@@ -2135,7 +2135,7 @@
     "attributes": {
       "tvg-id": "GlobalPunjab.in@SD"
     },
-    "language": "en"
+    "language": "punjabi"
   },
   {
     "id": "global-punjab",
@@ -2146,7 +2146,7 @@
     "attributes": {
       "tvg-id": "GlobalPunjab.in@SD"
     },
-    "language": "en"
+    "language": "punjabi"
   },
   {
     "id": "goa365",
@@ -2168,7 +2168,7 @@
     "attributes": {
       "tvg-id": "GoodNewsToday.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "good-news-today",
@@ -2179,7 +2179,7 @@
     "attributes": {
       "tvg-id": "GoodNewsToday.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "goodnews-tv",
@@ -2190,7 +2190,7 @@
     "attributes": {
       "tvg-id": "GoodNewsTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "gstv",
@@ -2201,7 +2201,7 @@
     "attributes": {
       "tvg-id": "GSTV.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "gubbare",
@@ -2212,7 +2212,7 @@
     "attributes": {
       "tvg-id": "Gubbare.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "gujarat-first",
@@ -2223,7 +2223,7 @@
     "attributes": {
       "tvg-id": "GujaratFirst.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "gulistan-news",
@@ -2234,7 +2234,7 @@
     "attributes": {
       "tvg-id": "GulistanNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "gyandarshan",
@@ -2256,7 +2256,7 @@
     "attributes": {
       "tvg-id": "HamdardTV.ca@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "hare-krsna-tv",
@@ -2267,7 +2267,7 @@
     "attributes": {
       "tvg-id": "HareKrsnaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "harvest-tv",
@@ -2278,7 +2278,7 @@
     "attributes": {
       "tvg-id": "HarvestTV.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "harvest-tv-keralam",
@@ -2289,7 +2289,7 @@
     "attributes": {
       "tvg-id": "HarvestTVKeralam.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "harvest-usa",
@@ -2311,7 +2311,7 @@
     "attributes": {
       "tvg-id": "HebronTV.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "hi-dost",
@@ -2333,7 +2333,7 @@
     "attributes": {
       "tvg-id": "HighNews.in@SD"
     },
-    "language": "en"
+    "language": "hindi"
   },
   {
     "id": "hindi-khabar",
@@ -2344,7 +2344,7 @@
     "attributes": {
       "tvg-id": "HindiKhabar.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "hindu-dharmam",
@@ -2355,7 +2355,7 @@
     "attributes": {
       "tvg-id": "HinduDharmam.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "history-tv18-hd",
@@ -2366,7 +2366,7 @@
     "attributes": {
       "tvg-id": "HistoryTV18.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "history-tv18-hd",
@@ -2377,7 +2377,7 @@
     "attributes": {
       "tvg-id": "HistoryTV18.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "history-tv18-hd-hindi",
@@ -2388,7 +2388,7 @@
     "attributes": {
       "tvg-id": "HistoryTV18.in@HD"
     },
-    "language": "en"
+    "language": "hindi"
   },
   {
     "id": "hmtv",
@@ -2399,7 +2399,7 @@
     "attributes": {
       "tvg-id": "HMTV.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "hnn-24x7",
@@ -2421,7 +2421,7 @@
     "attributes": {
       "tvg-id": "HopeChannelIndia.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "hornbill-tv",
@@ -2432,7 +2432,7 @@
     "attributes": {
       "tvg-id": "HornbillTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "ibc-24",
@@ -2443,7 +2443,7 @@
     "attributes": {
       "tvg-id": "IBC24.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "ind-24",
@@ -2465,7 +2465,7 @@
     "attributes": {
       "tvg-id": "IndTVUSA.us@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "india-news",
@@ -2477,7 +2477,7 @@
       "tvg-id": "IndiaNews.in@SD",
       "vlc-opts": "ttp-referrer=https://newsxott.in/embed.html?channel=indianewsnational; ttp-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "india-news-gujarati",
@@ -2488,7 +2488,7 @@
     "attributes": {
       "tvg-id": "IndiaNewsGujarati.in@SD"
     },
-    "language": "gu"
+    "language": "gujarati"
   },
   {
     "id": "india-news-haryana",
@@ -2499,7 +2499,7 @@
     "attributes": {
       "tvg-id": "IndiaNewsHaryana.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "india-news-madhya-pradesh-chhattisgarh",
@@ -2510,7 +2510,7 @@
     "attributes": {
       "tvg-id": "IndiaNewsMadhyaPradeshChhattisgarh.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "india-news-punjab-himachal",
@@ -2521,7 +2521,7 @@
     "attributes": {
       "tvg-id": "IndiaNewsPunjabHimachal.in@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "india-news-uttar-pradesh",
@@ -2532,7 +2532,7 @@
     "attributes": {
       "tvg-id": "IndiaNewsUttarPradesh.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "india-today",
@@ -2543,7 +2543,7 @@
     "attributes": {
       "tvg-id": "IndiaToday.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "india-today",
@@ -2554,7 +2554,7 @@
     "attributes": {
       "tvg-id": "IndiaToday.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "india-tv",
@@ -2565,7 +2565,7 @@
     "attributes": {
       "tvg-id": "IndiaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "india-tv-aap-ki-adalat",
@@ -2576,7 +2576,7 @@
     "attributes": {
       "tvg-id": "IndiaTVAapKiAdalat.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "india-tv-speed-news",
@@ -2587,7 +2587,7 @@
     "attributes": {
       "tvg-id": "IndiaTVSpeedNews.in@HD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "india-tv-speed-news",
@@ -2599,7 +2599,7 @@
       "tvg-id": "IndiaTVSpeedNews.in@HD",
       "vlc-opts": "ttp-referrer=https://www.indiatvspeednews.com/; ttp-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "indywood-tv",
@@ -2610,7 +2610,7 @@
     "attributes": {
       "tvg-id": "IndywoodTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "inews",
@@ -2621,7 +2621,7 @@
     "attributes": {
       "tvg-id": "INews.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "inh-24x7",
@@ -2643,7 +2643,7 @@
     "attributes": {
       "tvg-id": "IPlusTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "isai-aruvi",
@@ -2676,7 +2676,7 @@
     "attributes": {
       "tvg-id": "IsharaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "ishwar-bhakti-tv",
@@ -2687,7 +2687,7 @@
     "attributes": {
       "tvg-id": "IshwarBhaktiTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "j-movie",
@@ -2720,7 +2720,7 @@
     "attributes": {
       "tvg-id": "JanTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "janam-tv",
@@ -2731,7 +2731,7 @@
     "attributes": {
       "tvg-id": "JanamTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "jantantra-tv",
@@ -2742,7 +2742,7 @@
     "attributes": {
       "tvg-id": "JantantraTV.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "jaya-tv",
@@ -2753,7 +2753,7 @@
     "attributes": {
       "tvg-id": "JayaTV.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "jeevan-tv",
@@ -2764,7 +2764,7 @@
     "attributes": {
       "tvg-id": "JeevanTV.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "jinvani-channel",
@@ -2775,7 +2775,7 @@
     "attributes": {
       "tvg-id": "JinvaniChannel.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "jk-24x7-news",
@@ -2786,7 +2786,7 @@
     "attributes": {
       "tvg-id": "JK24x7News.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "jonack-tv",
@@ -2797,7 +2797,7 @@
     "attributes": {
       "tvg-id": "Jonack.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "k-news-india",
@@ -2808,7 +2808,7 @@
     "attributes": {
       "tvg-id": "KNewsIndia.in@SD"
     },
-    "language": "en"
+    "language": "hindi"
   },
   {
     "id": "kairali-news",
@@ -2819,7 +2819,7 @@
     "attributes": {
       "tvg-id": "KairaliNews.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "kairali-we",
@@ -2830,7 +2830,7 @@
     "attributes": {
       "tvg-id": "KairaliWe.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "kalaignar-murasu",
@@ -2841,7 +2841,7 @@
     "attributes": {
       "tvg-id": "KalaignarMurasu.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "kalaignar-murasu",
@@ -2852,7 +2852,7 @@
     "attributes": {
       "tvg-id": "KalaignarMurasu.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "kalaignar-tv",
@@ -2863,7 +2863,7 @@
     "attributes": {
       "tvg-id": "KalaignarTV.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "kalaignar-tv",
@@ -2874,7 +2874,7 @@
     "attributes": {
       "tvg-id": "KalaignarTV.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "kalinga-tv",
@@ -2885,7 +2885,7 @@
     "attributes": {
       "tvg-id": "KalingaTV.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "kanak-news",
@@ -2896,7 +2896,7 @@
     "attributes": {
       "tvg-id": "KanakNews.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "kannur-vision",
@@ -2918,7 +2918,7 @@
     "attributes": {
       "tvg-id": "KappaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "kashish-news",
@@ -2929,7 +2929,7 @@
     "attributes": {
       "tvg-id": "KashishNews.in@SD"
     },
-    "language": "en"
+    "language": "hindi"
   },
   {
     "id": "kaumudy-tv",
@@ -2940,7 +2940,7 @@
     "attributes": {
       "tvg-id": "KaumudyTV.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "kcl-tv",
@@ -2951,7 +2951,7 @@
     "attributes": {
       "tvg-id": "KCLTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "kerala-vision",
@@ -2995,7 +2995,7 @@
     "attributes": {
       "tvg-id": "KhushbooBangla.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "kite-victers-kerala",
@@ -3017,7 +3017,7 @@
     "attributes": {
       "tvg-id": "KolkataTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "living-india-news",
@@ -3028,7 +3028,7 @@
     "attributes": {
       "tvg-id": "LivingIndiaNews.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "m-nadu-tv",
@@ -3039,7 +3039,7 @@
     "attributes": {
       "tvg-id": "MNaduTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "m-sign-media",
@@ -3061,7 +3061,7 @@
     "attributes": {
       "tvg-id": "MadhaTV.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "madhimugam-tv",
@@ -3072,7 +3072,7 @@
     "attributes": {
       "tvg-id": "MadhimugamTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "maha-movie",
@@ -3083,7 +3083,7 @@
     "attributes": {
       "tvg-id": "MahaMovie.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "mahaa-news",
@@ -3094,7 +3094,7 @@
     "attributes": {
       "tvg-id": "MahaaNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "maiboli",
@@ -3116,7 +3116,7 @@
     "attributes": {
       "tvg-id": "MakkalTV.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "malabar-news",
@@ -3127,7 +3127,7 @@
     "attributes": {
       "tvg-id": "MalabarNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "malai-murasu-tv",
@@ -3138,7 +3138,7 @@
     "attributes": {
       "tvg-id": "MalaiMurasuTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "malar-tv",
@@ -3149,7 +3149,7 @@
     "attributes": {
       "tvg-id": "MalarTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "mandra-tv",
@@ -3160,7 +3160,7 @@
     "attributes": {
       "tvg-id": "MandraTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "manorama-news",
@@ -3171,7 +3171,7 @@
     "attributes": {
       "tvg-id": "ManoramaNews.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "manoranjan-grand",
@@ -3182,7 +3182,7 @@
     "attributes": {
       "tvg-id": "ManoranjanGrand.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "manoranjan-movies",
@@ -3193,7 +3193,7 @@
     "attributes": {
       "tvg-id": "ManoranjanMovies.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "manoranjan-tv",
@@ -3204,7 +3204,7 @@
     "attributes": {
       "tvg-id": "ManoranjanTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "mantavya-news",
@@ -3215,7 +3215,7 @@
     "attributes": {
       "tvg-id": "MantavyaNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "mastiii",
@@ -3237,7 +3237,7 @@
     "attributes": {
       "tvg-id": "MathrubhumiNews.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "max-middle-east",
@@ -3271,7 +3271,7 @@
     "attributes": {
       "tvg-id": "MazhavilManorama.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "mazhavil-manorama-hd",
@@ -3282,7 +3282,7 @@
     "attributes": {
       "tvg-id": "MazhavilManorama.in@HD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "media-one",
@@ -3293,7 +3293,7 @@
     "attributes": {
       "tvg-id": "MediaOne.in@SD"
     },
-    "language": "ml"
+    "language": "english"
   },
   {
     "id": "mercy-tv",
@@ -3304,7 +3304,7 @@
     "attributes": {
       "tvg-id": "MercyTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "metro-tv",
@@ -3315,7 +3315,7 @@
     "attributes": {
       "tvg-id": "MetroTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "mh-1-music",
@@ -3337,7 +3337,7 @@
     "attributes": {
       "tvg-id": "Mh1News.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "mh-one-shraddha",
@@ -3360,7 +3360,7 @@
       "tvg-id": "MirrorNow.in@SD",
       "vlc-opts": "ttp-referrer=https://www.timesnownews.com/"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "mirror-now",
@@ -3371,7 +3371,7 @@
     "attributes": {
       "tvg-id": "MirrorNow.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "mk-six",
@@ -3404,7 +3404,7 @@
     "attributes": {
       "tvg-id": "MKTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "mntv",
@@ -3415,7 +3415,7 @@
     "attributes": {
       "tvg-id": "MarutamTV.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "mntv-music",
@@ -3426,7 +3426,7 @@
     "attributes": {
       "tvg-id": "MarutamMusic.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "mnx-sd",
@@ -3448,7 +3448,7 @@
     "attributes": {
       "tvg-id": "MONTVBangla.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "moon-tv",
@@ -3459,7 +3459,7 @@
     "attributes": {
       "tvg-id": "MoonTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "movieplus",
@@ -3481,7 +3481,7 @@
     "attributes": {
       "tvg-id": "MoviesNow.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "munsif-tv",
@@ -3492,7 +3492,7 @@
     "attributes": {
       "tvg-id": "MunsifTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "music-india",
@@ -3503,7 +3503,7 @@
     "attributes": {
       "tvg-id": "MusicIndia.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "naaptol-kannada",
@@ -3514,7 +3514,7 @@
     "attributes": {
       "tvg-id": "NaaptolKannada.in@SD"
     },
-    "language": "kn"
+    "language": "kannada"
   },
   {
     "id": "naaptol-malayalam",
@@ -3525,7 +3525,7 @@
     "attributes": {
       "tvg-id": "NaaptolMalayalam.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "naaptol-tamil",
@@ -3536,7 +3536,7 @@
     "attributes": {
       "tvg-id": "NaaptolTamil.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "naaptol-telugu",
@@ -3547,7 +3547,7 @@
     "attributes": {
       "tvg-id": "NaaptolTelugu.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "nagaland-tv",
@@ -3558,7 +3558,7 @@
     "attributes": {
       "tvg-id": "NagalandTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "nambikkai-tv",
@@ -3569,7 +3569,7 @@
     "attributes": {
       "tvg-id": "NambikkaiTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "namdhari",
@@ -3591,7 +3591,7 @@
     "attributes": {
       "tvg-id": "NandighoshaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "national-geographic-hd",
@@ -3602,7 +3602,7 @@
     "attributes": {
       "tvg-id": "NationalGeographic.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "national-geographic-wild-hd",
@@ -3613,7 +3613,7 @@
     "attributes": {
       "tvg-id": "NationalGeographicWild.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "naxatra-news",
@@ -3624,7 +3624,7 @@
     "attributes": {
       "tvg-id": "NaxatraNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "nazara",
@@ -3635,7 +3635,7 @@
     "attributes": {
       "tvg-id": "Nazara.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "ncv",
@@ -3657,7 +3657,7 @@
     "attributes": {
       "tvg-id": "NDTV24x7.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "ndtv-good-times",
@@ -3668,7 +3668,7 @@
     "attributes": {
       "tvg-id": "NDTVGoodTimes.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "ndtv-india",
@@ -3679,7 +3679,7 @@
     "attributes": {
       "tvg-id": "NDTVIndia.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "ndtv-marathi",
@@ -3691,7 +3691,7 @@
       "tvg-id": "NDTVMarathi.in@SD",
       "vlc-opts": "ttp-referrer=https://marathi.ndtv.com/"
     },
-    "language": "hi"
+    "language": "marathi"
   },
   {
     "id": "ndtv-profit",
@@ -3702,7 +3702,7 @@
     "attributes": {
       "tvg-id": "NDTVProfit.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "ndtv-profit",
@@ -3713,7 +3713,7 @@
     "attributes": {
       "tvg-id": "NDTVProfit.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "nepal-1",
@@ -3735,7 +3735,7 @@
     "attributes": {
       "tvg-id": "Network10.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "news-1-india",
@@ -3746,7 +3746,7 @@
     "attributes": {
       "tvg-id": "News1India.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news-7-tamil",
@@ -3757,7 +3757,7 @@
     "attributes": {
       "tvg-id": "News7Tamil.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "news9live",
@@ -3768,7 +3768,7 @@
     "attributes": {
       "tvg-id": "News9Live.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news18-bihar-jharkhand",
@@ -3779,7 +3779,7 @@
     "attributes": {
       "tvg-id": "News18BiharJharkhand.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news18-bihar-jharkhand",
@@ -3790,7 +3790,7 @@
     "attributes": {
       "tvg-id": "News18BiharJharkhand.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news18-gujarati",
@@ -3801,7 +3801,7 @@
     "attributes": {
       "tvg-id": "News18Gujarati.in@SD"
     },
-    "language": "hi"
+    "language": "gujarati"
   },
   {
     "id": "news18-india",
@@ -3812,7 +3812,7 @@
     "attributes": {
       "tvg-id": "News18India.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news18-jklh",
@@ -3823,7 +3823,7 @@
     "attributes": {
       "tvg-id": "News18JKLH.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news18-kannada",
@@ -3835,7 +3835,7 @@
       "tvg-id": "News18Kannada.in@SD",
       "vlc-opts": "ttp-referrer=https://kannada.news18.com/; ttp-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
     },
-    "language": "kn"
+    "language": "kannada"
   },
   {
     "id": "news18-kerala",
@@ -3846,7 +3846,7 @@
     "attributes": {
       "tvg-id": "News18Kerala.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news18-lokmat",
@@ -3857,7 +3857,7 @@
     "attributes": {
       "tvg-id": "News18Lokmat.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news-24",
@@ -3868,7 +3868,7 @@
     "attributes": {
       "tvg-id": "News24.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news-24-mp-chhattisgarh",
@@ -3879,7 +3879,7 @@
     "attributes": {
       "tvg-id": "News24MPChhattisgarh.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news-daily-24",
@@ -3890,7 +3890,7 @@
     "attributes": {
       "tvg-id": "NewsDaily24.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news-j",
@@ -3901,7 +3901,7 @@
     "attributes": {
       "tvg-id": "NewsJ.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news-live",
@@ -3912,7 +3912,7 @@
     "attributes": {
       "tvg-id": "NewsLive.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news-malayalam-24x7",
@@ -3923,7 +3923,7 @@
     "attributes": {
       "tvg-id": "NewsMalayalam24x7.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "news-nation",
@@ -3934,7 +3934,7 @@
     "attributes": {
       "tvg-id": "NewsNation.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news-state-maharashtra-goa",
@@ -3945,7 +3945,7 @@
     "attributes": {
       "tvg-id": "NewsStateMaharashtraGoa.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news-state-mp-chg",
@@ -3956,7 +3956,7 @@
     "attributes": {
       "tvg-id": "NewsStateMPCHG.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news-state-up-uk",
@@ -3967,7 +3967,7 @@
     "attributes": {
       "tvg-id": "NewsStateUPUK.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "news-tamil-24x7",
@@ -3978,7 +3978,7 @@
     "attributes": {
       "tvg-id": "NewsTamil24x7.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "news-x",
@@ -3989,7 +3989,7 @@
     "attributes": {
       "tvg-id": "NewsX.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "newstime-bangla",
@@ -4000,7 +4000,7 @@
     "attributes": {
       "tvg-id": "NewsTimeBangla.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "newsx-world",
@@ -4012,7 +4012,7 @@
       "tvg-id": "NewsXWorld.in@HD",
       "vlc-opts": "ttp-referrer=https://newsxott.in/embed.html?channel=newsxworld; ttp-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "nick-jr",
@@ -4023,7 +4023,7 @@
     "attributes": {
       "tvg-id": "NickJr.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "nickelodeon",
@@ -4034,7 +4034,7 @@
     "attributes": {
       "tvg-id": "Nickelodeon.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "nireekshana-tv",
@@ -4045,7 +4045,7 @@
     "attributes": {
       "tvg-id": "NireekshanaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "nk-tv-24x7",
@@ -4056,7 +4056,7 @@
     "attributes": {
       "tvg-id": "NKTV24x7.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "northeast-live",
@@ -4079,7 +4079,7 @@
     "attributes": {
       "tvg-id": "NTCTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "ntv-telugu",
@@ -4090,7 +4090,7 @@
     "attributes": {
       "tvg-id": "NTVTelugu.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "odisha-tv",
@@ -4101,7 +4101,7 @@
     "attributes": {
       "tvg-id": "OdishaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "one-tv",
@@ -4112,7 +4112,7 @@
     "attributes": {
       "tvg-id": "OneTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "orange-bangla-tv",
@@ -4123,7 +4123,7 @@
     "attributes": {
       "tvg-id": "OrangeBanglaTV.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "oscar-movies-bhojpuri",
@@ -4134,7 +4134,7 @@
     "attributes": {
       "tvg-id": "OscarMoviesBhojpuri.in@SD"
     },
-    "language": "bh"
+    "language": "bhojpuri"
   },
   {
     "id": "paras-gold",
@@ -4156,7 +4156,7 @@
     "attributes": {
       "tvg-id": "PasandTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "peace-of-mind-tv",
@@ -4167,7 +4167,7 @@
     "attributes": {
       "tvg-id": "PeaceofMindTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "peppers-tv",
@@ -4178,7 +4178,7 @@
     "attributes": {
       "tvg-id": "PeppersTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "pitaara",
@@ -4200,7 +4200,7 @@
     "attributes": {
       "tvg-id": "PolimerNews.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "polimer-tv",
@@ -4211,7 +4211,7 @@
     "attributes": {
       "tvg-id": "PolimerTV.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "power-tv",
@@ -4223,7 +4223,7 @@
       "tvg-id": "PowerTV.in@SD",
       "vlc-opts": "ttp-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "prameya-news7",
@@ -4234,7 +4234,7 @@
     "attributes": {
       "tvg-id": "PrameyaNews7.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "prarthana-bhawan-tv",
@@ -4245,7 +4245,7 @@
     "attributes": {
       "tvg-id": "PrarthanaBhawanTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "prarthana-tv",
@@ -4256,7 +4256,7 @@
     "attributes": {
       "tvg-id": "PrarthanaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "pratham-khabar-24x7",
@@ -4278,7 +4278,7 @@
     "attributes": {
       "tvg-id": "PratidinTime.in@SD"
     },
-    "language": "as"
+    "language": "assamese"
   },
   {
     "id": "pratidin-time",
@@ -4289,7 +4289,7 @@
     "attributes": {
       "tvg-id": "PratidinTime.in@SD"
     },
-    "language": "as"
+    "language": "assamese"
   },
   {
     "id": "pravasi-channel",
@@ -4300,7 +4300,7 @@
     "attributes": {
       "tvg-id": "PravasiChannel.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "prime9-news",
@@ -4311,7 +4311,7 @@
     "attributes": {
       "tvg-id": "Prime9News.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "prudent-media",
@@ -4322,7 +4322,7 @@
     "attributes": {
       "tvg-id": "PrudentMedia.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "ptc-chakde",
@@ -4333,7 +4333,7 @@
     "attributes": {
       "tvg-id": "PTCChakde.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "ptc-dhol",
@@ -4344,7 +4344,7 @@
     "attributes": {
       "tvg-id": "PTCDholTV.in@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "ptc-music",
@@ -4355,7 +4355,7 @@
     "attributes": {
       "tvg-id": "PTCMusic.in@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "ptc-news",
@@ -4366,7 +4366,7 @@
     "attributes": {
       "tvg-id": "PTCNews.in@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "ptc-punjabi",
@@ -4377,7 +4377,7 @@
     "attributes": {
       "tvg-id": "PTCPunjabi.in@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "ptc-punjabi-gold",
@@ -4388,7 +4388,7 @@
     "attributes": {
       "tvg-id": "PTCPunjabiGold.in@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "ptc-simran",
@@ -4399,7 +4399,7 @@
     "attributes": {
       "tvg-id": "PTCSimran.in@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "public-music",
@@ -4421,7 +4421,7 @@
     "attributes": {
       "tvg-id": "PublicTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "pudhari-news",
@@ -4432,7 +4432,7 @@
     "attributes": {
       "tvg-id": "PudhariNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "pulari-tv",
@@ -4443,7 +4443,7 @@
     "attributes": {
       "tvg-id": "PulariTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "punjabi-hits",
@@ -4454,7 +4454,7 @@
     "attributes": {
       "tvg-id": "PunjabiHits.in@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "punjabi-zindabad",
@@ -4465,7 +4465,7 @@
     "attributes": {
       "tvg-id": "PunjabiZindabadTV.in@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "puthiya-thalaimurai",
@@ -4476,7 +4476,7 @@
     "attributes": {
       "tvg-id": "PuthiyaThalaimurai.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "puthuyugam-tv",
@@ -4487,7 +4487,7 @@
     "attributes": {
       "tvg-id": "PuthuyugamTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "r-plus",
@@ -4498,7 +4498,7 @@
     "attributes": {
       "tvg-id": "RPlus.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "r-plus-gold",
@@ -4520,7 +4520,7 @@
     "attributes": {
       "tvg-id": "RaftaarMedia.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "raj-digital-plus",
@@ -4542,7 +4542,7 @@
     "attributes": {
       "tvg-id": "RajMusixTamil.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "raj-musix-telugu",
@@ -4553,7 +4553,7 @@
     "attributes": {
       "tvg-id": "RajMusixTelugu.in@SD"
     },
-    "language": "ta"
+    "language": "telugu"
   },
   {
     "id": "raj-news",
@@ -4564,7 +4564,7 @@
     "attributes": {
       "tvg-id": "RajNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "raj-tv",
@@ -4575,7 +4575,7 @@
     "attributes": {
       "tvg-id": "RajTV.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "rdx-goa",
@@ -4597,7 +4597,7 @@
     "attributes": {
       "tvg-id": "RealNewsKerala.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "real-tv",
@@ -4608,7 +4608,7 @@
     "attributes": {
       "tvg-id": "RealTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "rengoni",
@@ -4630,7 +4630,7 @@
     "attributes": {
       "tvg-id": "ReporterTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "republic-bangla",
@@ -4641,7 +4641,7 @@
     "attributes": {
       "tvg-id": "RepublicBangla.in@SD"
     },
-    "language": "hi"
+    "language": "bengali"
   },
   {
     "id": "republic-bharat",
@@ -4652,7 +4652,7 @@
     "attributes": {
       "tvg-id": "RepublicBharat.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "republic-kannada",
@@ -4663,7 +4663,7 @@
     "attributes": {
       "tvg-id": "RepublicKannada.in@SD"
     },
-    "language": "kn"
+    "language": "kannada"
   },
   {
     "id": "republic-tv",
@@ -4674,7 +4674,7 @@
     "attributes": {
       "tvg-id": "RepublicTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "republic-tv",
@@ -4685,7 +4685,7 @@
     "attributes": {
       "tvg-id": "RepublicTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "romedy-now",
@@ -4696,7 +4696,7 @@
     "attributes": {
       "tvg-id": "RomedyNow.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "rongeen-tv",
@@ -4707,7 +4707,7 @@
     "attributes": {
       "tvg-id": "RongeenTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "rt-india",
@@ -4718,7 +4718,7 @@
     "attributes": {
       "tvg-id": "RTIndia.in@HD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "rupasi-bangla",
@@ -4729,7 +4729,7 @@
     "attributes": {
       "tvg-id": "RupasiBangla.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "saam-tv",
@@ -4740,7 +4740,7 @@
     "attributes": {
       "tvg-id": "SaamTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sach-bedhadak",
@@ -4762,7 +4762,7 @@
     "attributes": {
       "tvg-id": "SADATV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sadhna",
@@ -4784,7 +4784,7 @@
     "attributes": {
       "tvg-id": "SadhnaPlusNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "safari-tv",
@@ -4795,7 +4795,7 @@
     "attributes": {
       "tvg-id": "SafariTV.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "sai-tv",
@@ -4806,7 +4806,7 @@
     "attributes": {
       "tvg-id": "SaiTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sakshi-tv",
@@ -4817,7 +4817,7 @@
     "attributes": {
       "tvg-id": "SakshiTV.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "salvation-tv",
@@ -4828,7 +4828,7 @@
     "attributes": {
       "tvg-id": "SalvationTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "samachar-plus",
@@ -4850,7 +4850,7 @@
     "attributes": {
       "tvg-id": "SamayKolkata.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "sana-plus",
@@ -4872,7 +4872,7 @@
     "attributes": {
       "tvg-id": "SanaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sandesh-news",
@@ -4883,7 +4883,7 @@
     "attributes": {
       "tvg-id": "SandeshNews.in@SD"
     },
-    "language": "gu"
+    "language": "gujarati"
   },
   {
     "id": "sangeet-bangla",
@@ -4894,7 +4894,7 @@
     "attributes": {
       "tvg-id": "SangeetBangla.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "sangeet-marathi",
@@ -4905,7 +4905,7 @@
     "attributes": {
       "tvg-id": "SangeetMarathi.in@SD"
     },
-    "language": "mr"
+    "language": "marathi"
   },
   {
     "id": "sansad-tv-1",
@@ -4917,7 +4917,7 @@
       "tvg-id": "SansadTV1.in@SD",
       "vlc-opts": "ttp-referrer=https://webcast.gov.in/"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sansad-tv-1",
@@ -4929,7 +4929,7 @@
       "tvg-id": "SansadTV1.in@SD",
       "vlc-opts": "ttp-referrer=https://webcast.gov.in/"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sansad-tv-2",
@@ -4940,7 +4940,7 @@
     "attributes": {
       "tvg-id": "SansadTV2.in@HD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sansad-tv-2",
@@ -4952,7 +4952,7 @@
       "tvg-id": "SansadTV2.in@HD",
       "vlc-opts": "ttp-referrer=https://webcast.gov.in/"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sanskar-tv",
@@ -4963,7 +4963,7 @@
     "attributes": {
       "tvg-id": "SanskarTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sanskar-uk",
@@ -4974,7 +4974,7 @@
     "attributes": {
       "tvg-id": "SanskarUK.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sanskar-usa",
@@ -4985,7 +4985,7 @@
     "attributes": {
       "tvg-id": "SanskarUSA.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sanskar-web-tv",
@@ -4996,7 +4996,7 @@
     "attributes": {
       "tvg-id": "SanskarWebTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "santvani-channel",
@@ -5007,7 +5007,7 @@
     "attributes": {
       "tvg-id": "SantvaniChannel.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "satsang-tv",
@@ -5018,7 +5018,7 @@
     "attributes": {
       "tvg-id": "SatsangTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "satsang-web-tv",
@@ -5029,7 +5029,7 @@
     "attributes": {
       "tvg-id": "SatsangWebTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "shalini-tv",
@@ -5040,7 +5040,7 @@
     "attributes": {
       "tvg-id": "ShaliniTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "shalom",
@@ -5051,7 +5051,7 @@
     "attributes": {
       "tvg-id": "Shalom.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "shalom-global",
@@ -5062,7 +5062,7 @@
     "attributes": {
       "tvg-id": "Shalom.in@Global"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "shekinah-tv",
@@ -5073,7 +5073,7 @@
     "attributes": {
       "tvg-id": "ShekinahTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "shemaroo-josh",
@@ -5095,7 +5095,7 @@
     "attributes": {
       "tvg-id": "ShemarooMarathiBana.in@SD"
     },
-    "language": "mr"
+    "language": "marathi"
   },
   {
     "id": "shemaroo-tv",
@@ -5106,7 +5106,7 @@
     "attributes": {
       "tvg-id": "ShemarooTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "showbox",
@@ -5117,7 +5117,7 @@
     "attributes": {
       "tvg-id": "ShowBox.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "shubh-cinema-tv",
@@ -5128,7 +5128,7 @@
     "attributes": {
       "tvg-id": "ShubhCinemaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "shubh-tv",
@@ -5139,7 +5139,7 @@
     "attributes": {
       "tvg-id": "ShubhTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "shubhsandesh",
@@ -5150,7 +5150,7 @@
     "attributes": {
       "tvg-id": "Shubhsandesh.in@SD"
     },
-    "language": "gu"
+    "language": "gujarati"
   },
   {
     "id": "siri-kannada",
@@ -5161,7 +5161,7 @@
     "attributes": {
       "tvg-id": "SiriKannada.in@SD"
     },
-    "language": "kn"
+    "language": "kannada"
   },
   {
     "id": "sirippoli-tv",
@@ -5172,7 +5172,7 @@
     "attributes": {
       "tvg-id": "SirippoliTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sirippoli-tv",
@@ -5183,7 +5183,7 @@
     "attributes": {
       "tvg-id": "SirippoliTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "songdew-tv",
@@ -5194,7 +5194,7 @@
     "attributes": {
       "tvg-id": "SongdewTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sonic",
@@ -5205,7 +5205,7 @@
     "attributes": {
       "tvg-id": "Sonic.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "sony-bbc-earth",
@@ -5216,7 +5216,7 @@
     "attributes": {
       "tvg-id": "SonyBBCEarth.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sony-entertainment-television",
@@ -5227,7 +5227,7 @@
     "attributes": {
       "tvg-id": "SonyEntertainmentTelevision.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sony-kal",
@@ -5238,7 +5238,7 @@
     "attributes": {
       "tvg-id": "SonyKALHindi.us@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sony-max-2",
@@ -5249,7 +5249,7 @@
     "attributes": {
       "tvg-id": "SonyMax2.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sony-pal",
@@ -5260,7 +5260,7 @@
     "attributes": {
       "tvg-id": "SonyPal.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sony-pix",
@@ -5271,7 +5271,7 @@
     "attributes": {
       "tvg-id": "SonyPix.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sony-sports-ten-1",
@@ -5282,7 +5282,7 @@
     "attributes": {
       "tvg-id": "SonySportsTen1.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sony-sports-ten-2",
@@ -5293,7 +5293,7 @@
     "attributes": {
       "tvg-id": "SonySportsTen2.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sony-sports-ten-5",
@@ -5304,7 +5304,7 @@
     "attributes": {
       "tvg-id": "SonySportsTen5.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sony-yay",
@@ -5315,7 +5315,7 @@
     "attributes": {
       "tvg-id": "SonyYay.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "star-family",
@@ -5348,7 +5348,7 @@
     "attributes": {
       "tvg-id": "StarGold.in@HD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "star-gold-romance",
@@ -5381,7 +5381,7 @@
     "attributes": {
       "tvg-id": "StarMovies.in@HD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "star-movies-select-hd",
@@ -5403,7 +5403,7 @@
     "attributes": {
       "tvg-id": "StarSports1.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "star-sports-1-hindi-hd",
@@ -5414,7 +5414,7 @@
     "attributes": {
       "tvg-id": "StarSports1Hindi.in@HD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "star-sports-2-hd",
@@ -5425,7 +5425,7 @@
     "attributes": {
       "tvg-id": "StarSports2.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "star-sports-2-hindi",
@@ -5436,7 +5436,7 @@
     "attributes": {
       "tvg-id": "StarSports2Hindi.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "star-sports-select-1-hd",
@@ -5447,7 +5447,7 @@
     "attributes": {
       "tvg-id": "StarSportsSelect1.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "star-sports-select-2-hd",
@@ -5458,7 +5458,7 @@
     "attributes": {
       "tvg-id": "StarSportsSelect2.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "star-utsav",
@@ -5469,7 +5469,7 @@
     "attributes": {
       "tvg-id": "StarUtsav.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "starnet",
@@ -5480,7 +5480,7 @@
     "attributes": {
       "tvg-id": "Starnet.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "starplus-hd",
@@ -5491,7 +5491,7 @@
     "attributes": {
       "tvg-id": "StarPlus.in@HD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "steelbird-music",
@@ -5535,7 +5535,7 @@
     "attributes": {
       "tvg-id": "SubhartiTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "subhavaartha-tv",
@@ -5546,7 +5546,7 @@
     "attributes": {
       "tvg-id": "SubhavaarthaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "subin-tv",
@@ -5557,7 +5557,7 @@
     "attributes": {
       "tvg-id": "SubinTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sudarshan-news",
@@ -5568,7 +5568,7 @@
     "attributes": {
       "tvg-id": "SudarshanNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "sun-bangla",
@@ -5579,7 +5579,7 @@
     "attributes": {
       "tvg-id": "SunBangla.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "sun-bangla",
@@ -5590,7 +5590,7 @@
     "attributes": {
       "tvg-id": "SunBangla.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "sun-neo",
@@ -5601,7 +5601,7 @@
     "attributes": {
       "tvg-id": "SunNeo.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "sun-tv",
@@ -5612,7 +5612,7 @@
     "attributes": {
       "tvg-id": "SunTV.in@HD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "suriya-tv",
@@ -5623,7 +5623,7 @@
     "attributes": {
       "tvg-id": "SuriyaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "suriyan-tv",
@@ -5634,7 +5634,7 @@
     "attributes": {
       "tvg-id": "SuriyanTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "surya-tv",
@@ -5645,7 +5645,7 @@
     "attributes": {
       "tvg-id": "SuryaTV.in@HD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "svbc-3",
@@ -5678,7 +5678,7 @@
     "attributes": {
       "tvg-id": "SVBC.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "swadesh-news",
@@ -5689,7 +5689,7 @@
     "attributes": {
       "tvg-id": "SwadeshNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "swantham",
@@ -5711,7 +5711,7 @@
     "attributes": {
       "tvg-id": "SwarajExpressSMBC.in@SD"
     },
-    "language": "or"
+    "language": "odia"
   },
   {
     "id": "t-news",
@@ -5722,7 +5722,7 @@
     "attributes": {
       "tvg-id": "TNews.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "taaza-tv",
@@ -5733,7 +5733,7 @@
     "attributes": {
       "tvg-id": "TaazaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "tamilan-tv",
@@ -5744,7 +5744,7 @@
     "attributes": {
       "tvg-id": "TamilanTV.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "tarang-music",
@@ -5766,7 +5766,7 @@
     "attributes": {
       "tvg-id": "TarangTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "tehzeeb-tv",
@@ -5777,7 +5777,7 @@
     "attributes": {
       "tvg-id": "TehzeebTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "thanthi-tv",
@@ -5788,7 +5788,7 @@
     "attributes": {
       "tvg-id": "ThanthiTV.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "thendral-tv",
@@ -5799,7 +5799,7 @@
     "attributes": {
       "tvg-id": "ThendralTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "time-vision-news",
@@ -5810,7 +5810,7 @@
     "attributes": {
       "tvg-id": "TimeVisionNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "times-now",
@@ -5822,7 +5822,7 @@
       "tvg-id": "TimesNow.in@SD",
       "vlc-opts": "ttp-referrer=https://www.timesnownews.com/"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "times-now",
@@ -5833,7 +5833,7 @@
     "attributes": {
       "tvg-id": "TimesNow.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "times-now-navbharat",
@@ -5844,7 +5844,7 @@
     "attributes": {
       "tvg-id": "TimesNowNavbharat.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "times-now-navbharat",
@@ -5856,7 +5856,7 @@
       "tvg-id": "TimesNowNavbharat.in@SD",
       "vlc-opts": "ttp-referrer=https://www.timesnownews.com"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "toonz-kids-indonesian-dub",
@@ -5900,7 +5900,7 @@
     "attributes": {
       "tvg-id": "TotalTVHaryana.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "travelxp",
@@ -5933,7 +5933,7 @@
     "attributes": {
       "tvg-id": "TribeTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "tv5-kannada",
@@ -5944,7 +5944,7 @@
     "attributes": {
       "tvg-id": "TV5Kannada.in@SD"
     },
-    "language": "kn"
+    "language": "kannada"
   },
   {
     "id": "tv5-news",
@@ -5955,7 +5955,7 @@
     "attributes": {
       "tvg-id": "TV5News.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "tv9-bangla",
@@ -5966,7 +5966,7 @@
     "attributes": {
       "tvg-id": "TV9Bangla.in@SD"
     },
-    "language": "bn"
+    "language": "bengali"
   },
   {
     "id": "tv9-bharatvarsh",
@@ -5977,7 +5977,7 @@
     "attributes": {
       "tvg-id": "TV9Bharatvarsh.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "tv9-gujarati",
@@ -5988,7 +5988,7 @@
     "attributes": {
       "tvg-id": "TV9Gujarati.in@SD"
     },
-    "language": "gu"
+    "language": "gujarati"
   },
   {
     "id": "tv9-kannada",
@@ -5999,7 +5999,7 @@
     "attributes": {
       "tvg-id": "TV9Kannada.in@SD"
     },
-    "language": "kn"
+    "language": "kannada"
   },
   {
     "id": "tv9-marathi",
@@ -6010,7 +6010,7 @@
     "attributes": {
       "tvg-id": "TV9Marathi.in@SD"
     },
-    "language": "mr"
+    "language": "marathi"
   },
   {
     "id": "tv9-telugu",
@@ -6021,7 +6021,7 @@
     "attributes": {
       "tvg-id": "TV9Telugu.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "tv84",
@@ -6032,7 +6032,7 @@
     "attributes": {
       "tvg-id": "TV84.us@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "tv-100",
@@ -6043,7 +6043,7 @@
     "attributes": {
       "tvg-id": "TV100.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "tv-punjab",
@@ -6054,7 +6054,7 @@
     "attributes": {
       "tvg-id": "TVPunjab.ca@SD"
     },
-    "language": "pa"
+    "language": "punjabi"
   },
   {
     "id": "twenty-four-news",
@@ -6065,7 +6065,7 @@
     "attributes": {
       "tvg-id": "TwentyFourNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "ultimate-tv",
@@ -6076,7 +6076,7 @@
     "attributes": {
       "tvg-id": "UltimateTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "v6-news",
@@ -6087,7 +6087,7 @@
     "attributes": {
       "tvg-id": "V6News.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "vaanavil-tv",
@@ -6098,7 +6098,7 @@
     "attributes": {
       "tvg-id": "VaanavilTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "vanitha-tv",
@@ -6109,7 +6109,7 @@
     "attributes": {
       "tvg-id": "VanithaTV.in@SD"
     },
-    "language": "te"
+    "language": "telugu"
   },
   {
     "id": "vasanth-tv",
@@ -6120,7 +6120,7 @@
     "attributes": {
       "tvg-id": "VasanthTV.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "vasanth-tv",
@@ -6131,7 +6131,7 @@
     "attributes": {
       "tvg-id": "VasanthTV.in@SD"
     },
-    "language": "ta"
+    "language": "tamil"
   },
   {
     "id": "vathanam-tv",
@@ -6142,7 +6142,7 @@
     "attributes": {
       "tvg-id": ""
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "vbc-news",
@@ -6153,7 +6153,7 @@
     "attributes": {
       "tvg-id": "VBCNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "vcv",
@@ -6175,7 +6175,7 @@
     "attributes": {
       "tvg-id": "Vedic.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "velicham",
@@ -6186,7 +6186,7 @@
     "attributes": {
       "tvg-id": "Velicham.in@SD"
     },
-    "language": "ml"
+    "language": "unknown"
   },
   {
     "id": "venad-news",
@@ -6197,7 +6197,7 @@
     "attributes": {
       "tvg-id": "VenadNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "vendhar-tv",
@@ -6208,7 +6208,7 @@
     "attributes": {
       "tvg-id": "VendharTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "vip-news",
@@ -6219,7 +6219,7 @@
     "attributes": {
       "tvg-id": "VIPNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "vision",
@@ -6230,7 +6230,7 @@
     "attributes": {
       "tvg-id": "Vision.in@SD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "vissa-tv",
@@ -6241,7 +6241,7 @@
     "attributes": {
       "tvg-id": "VissaTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "vtv-news",
@@ -6252,7 +6252,7 @@
     "attributes": {
       "tvg-id": "VTVNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "vtv-news",
@@ -6263,7 +6263,7 @@
     "attributes": {
       "tvg-id": "VTVNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "vyas-nic",
@@ -6308,7 +6308,7 @@
     "attributes": {
       "tvg-id": "WinTV.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "wion",
@@ -6319,7 +6319,7 @@
     "attributes": {
       "tvg-id": "WION.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "wion",
@@ -6330,7 +6330,7 @@
     "attributes": {
       "tvg-id": "WION.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "wion",
@@ -6341,7 +6341,7 @@
     "attributes": {
       "tvg-id": "WION.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "wion",
@@ -6352,7 +6352,7 @@
     "attributes": {
       "tvg-id": "WION.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "wion",
@@ -6363,7 +6363,7 @@
     "attributes": {
       "tvg-id": "WION.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "wion",
@@ -6374,7 +6374,7 @@
     "attributes": {
       "tvg-id": "WION.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "wion",
@@ -6385,7 +6385,7 @@
     "attributes": {
       "tvg-id": "WION.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "wion-adaptive",
@@ -6396,7 +6396,7 @@
     "attributes": {
       "tvg-id": "WION.in@SD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "yoganadam-news",
@@ -6407,7 +6407,7 @@
     "attributes": {
       "tvg-id": "YoganadamNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zainabia-channel",
@@ -6418,7 +6418,7 @@
     "attributes": {
       "tvg-id": "ZainabiaChannel.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zb-bhakti",
@@ -6440,7 +6440,7 @@
     "attributes": {
       "tvg-id": "ZBCartoon.in@HD"
     },
-    "language": "en"
+    "language": "english"
   },
   {
     "id": "zb-cinema",
@@ -6462,7 +6462,7 @@
     "attributes": {
       "tvg-id": "ZBMusic.in@HD"
     },
-    "language": "en"
+    "language": "unknown"
   },
   {
     "id": "zee-24-ghanta",
@@ -6473,7 +6473,7 @@
     "attributes": {
       "tvg-id": "Zee24Ghanta.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-24-taas",
@@ -6484,7 +6484,7 @@
     "attributes": {
       "tvg-id": "Zee24Taas.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-action",
@@ -6495,7 +6495,7 @@
     "attributes": {
       "tvg-id": "ZeeAction.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-alwan",
@@ -6506,7 +6506,7 @@
     "attributes": {
       "tvg-id": ""
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-bharat",
@@ -6517,7 +6517,7 @@
     "attributes": {
       "tvg-id": "ZeeBharat.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-bihar-jharkhand",
@@ -6528,7 +6528,7 @@
     "attributes": {
       "tvg-id": "ZeeBiharJharkhand.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-bihar-jharkhand",
@@ -6539,7 +6539,7 @@
     "attributes": {
       "tvg-id": "ZeeBiharJharkhand.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-bollymovies",
@@ -6550,7 +6550,7 @@
     "attributes": {
       "tvg-id": "ZeeBollymovies.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-bollymovies-australia",
@@ -6561,7 +6561,7 @@
     "attributes": {
       "tvg-id": "ZeeBollymovies.in@Australia"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-bollywood",
@@ -6572,7 +6572,7 @@
     "attributes": {
       "tvg-id": "ZeeBollywood.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-business",
@@ -6583,7 +6583,7 @@
     "attributes": {
       "tvg-id": "ZeeBusiness.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-business",
@@ -6594,7 +6594,7 @@
     "attributes": {
       "tvg-id": "ZeeBusiness.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-cafe",
@@ -6605,7 +6605,7 @@
     "attributes": {
       "tvg-id": "ZeeCafe.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-cinema",
@@ -6616,7 +6616,7 @@
     "attributes": {
       "tvg-id": "ZeeCinema.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-cinema-apac",
@@ -6627,7 +6627,7 @@
     "attributes": {
       "tvg-id": "ZeeCinema.in@APAC"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-cinema-apac",
@@ -6638,7 +6638,7 @@
     "attributes": {
       "tvg-id": "ZeeCinema.in@APAC"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-classic",
@@ -6649,7 +6649,7 @@
     "attributes": {
       "tvg-id": "ZeeClassic.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-delhi-ncr-haryana",
@@ -6660,7 +6660,7 @@
     "attributes": {
       "tvg-id": "ZeeDelhiNCRHaryana.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-kannada-news",
@@ -6671,7 +6671,7 @@
     "attributes": {
       "tvg-id": "ZeeKannadaNews.in@SD"
     },
-    "language": "kn"
+    "language": "kannada"
   },
   {
     "id": "zee-madhya-pradesh-chhattisgarh",
@@ -6682,7 +6682,7 @@
     "attributes": {
       "tvg-id": "ZeeMadhyaPradeshChhattisgarh.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-news",
@@ -6693,7 +6693,7 @@
     "attributes": {
       "tvg-id": "ZeeNews.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-news-malayalam",
@@ -6704,7 +6704,7 @@
     "attributes": {
       "tvg-id": "ZeeNewsMalayalam.in@SD"
     },
-    "language": "ml"
+    "language": "malayalam"
   },
   {
     "id": "zee-punjab-haryana-himachal",
@@ -6715,7 +6715,7 @@
     "attributes": {
       "tvg-id": "ZeePunjabHaryanaHimachal.in@SD"
     },
-    "language": "hi"
+    "language": "punjabi"
   },
   {
     "id": "zee-rajasthan",
@@ -6726,7 +6726,7 @@
     "attributes": {
       "tvg-id": "ZeeRajasthan.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-salaam",
@@ -6737,7 +6737,7 @@
     "attributes": {
       "tvg-id": ""
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-tv",
@@ -6748,7 +6748,7 @@
     "attributes": {
       "tvg-id": "ZeeTV.in@HD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zee-uttar-pradesh-uttarakhand",
@@ -6759,7 +6759,7 @@
     "attributes": {
       "tvg-id": "ZeeUttarPradeshUttarakhand.in@SD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zillarbarta-news",
@@ -6770,7 +6770,7 @@
     "attributes": {
       "tvg-id": "ZillarBartaNews.in@HD"
     },
-    "language": "hi"
+    "language": "hindi"
   },
   {
     "id": "zoom-global",
@@ -6781,6 +6781,6 @@
     "attributes": {
       "tvg-id": "Zoom.in@Global"
     },
-    "language": "en"
+    "language": "english"
   }
 ]

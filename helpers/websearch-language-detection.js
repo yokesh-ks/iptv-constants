@@ -50,22 +50,22 @@ const ISO_TO_LANGUAGE = Object.fromEntries(
   Object.entries(LANGUAGE_CODES).map(([lang, code]) => [code, lang])
 );
 
-// Franc ISO 639-3 to ISO 639-1 mapping (for Indian languages)
-const FRANC_TO_ISO_639_1 = {
-  tam: 'ta',   // Tamil
-  tel: 'te',   // Telugu
-  hin: 'hi',   // Hindi
-  kan: 'kn',   // Kannada
-  mal: 'ml',   // Malayalam
-  eng: 'en',   // English
-  ben: 'bn',   // Bengali
-  mar: 'mr',   // Marathi
-  pan: 'pa',   // Punjabi
-  guj: 'gu',   // Gujarati
-  urd: 'ur',   // Urdu
-  asm: 'as',   // Assamese
-  ori: 'or',   // Odia
-  bho: 'bh',   // Bhojpuri
+// Franc ISO 639-3 to full language name mapping (for Indian languages)
+const FRANC_TO_LANGUAGE_NAME = {
+  tam: 'tamil',
+  tel: 'telugu',
+  hin: 'hindi',
+  kan: 'kannada',
+  mal: 'malayalam',
+  eng: 'english',
+  ben: 'bengali',
+  mar: 'marathi',
+  pan: 'punjabi',
+  guj: 'gujarati',
+  urd: 'urdu',
+  asm: 'assamese',
+  ori: 'odia',
+  bho: 'bhojpuri',
   und: null    // Undetermined
 };
 
@@ -216,19 +216,19 @@ function analyzeTextLanguage(text) {
   // If we have strong script detection (>5% of content), use it
   if (maxScript.count > 50 && scriptRatio > 0.05) {
     const scriptMap = {
-      tamil: 'ta',
-      telugu: 'te',
-      kannada: 'kn',
-      malayalam: 'ml',
-      bengali: 'bn',
-      gujarati: 'gu',
-      punjabi: 'pa',
-      devanagari: 'hi',
-      latin: 'en'
+      tamil: 'tamil',
+      telugu: 'telugu',
+      kannada: 'kannada',
+      malayalam: 'malayalam',
+      bengali: 'bengali',
+      gujarati: 'gujarati',
+      punjabi: 'punjabi',
+      devanagari: 'hindi',
+      latin: 'english'
     };
 
     const language = scriptMap[maxScript.script];
-    if (language && language !== 'en') {
+    if (language && language !== 'english') {
       // Very high confidence for non-English scripts
       return {
         language,
@@ -241,21 +241,21 @@ function analyzeTextLanguage(text) {
   // Step 2: Statistical detection with franc (for English/mixed content)
   if (cleanText.length >= 100) {
     const detected = franc(cleanText, { minLength: 100 });
-    const isoCode = FRANC_TO_ISO_639_1[detected];
+    const language = FRANC_TO_LANGUAGE_NAME[detected];
 
-    if (isoCode && isoCode !== 'en') {
+    if (language && language !== 'english') {
       // Medium confidence for franc detection (non-English)
       return {
-        language: isoCode,
+        language,
         confidence: 0.7,
         method: 'franc-statistical'
       };
     }
 
-    if (isoCode === 'en' && scriptRatio > 0.3 && maxScript.script === 'latin') {
+    if (language === 'english' && scriptRatio > 0.3 && maxScript.script === 'latin') {
       // High Latin script ratio = likely English
       return {
-        language: 'en',
+        language: 'english',
         confidence: 0.6,
         method: 'franc-english'
       };
@@ -265,15 +265,15 @@ function analyzeTextLanguage(text) {
   // Step 3: Fallback to script detection with lower threshold
   if (maxScript.count > 20) {
     const scriptMap = {
-      tamil: 'ta',
-      telugu: 'te',
-      kannada: 'kn',
-      malayalam: 'ml',
-      bengali: 'bn',
-      gujarati: 'gu',
-      punjabi: 'pa',
-      devanagari: 'hi',
-      latin: 'en'
+      tamil: 'tamil',
+      telugu: 'telugu',
+      kannada: 'kannada',
+      malayalam: 'malayalam',
+      bengali: 'bengali',
+      gujarati: 'gujarati',
+      punjabi: 'punjabi',
+      devanagari: 'hindi',
+      latin: 'english'
     };
 
     const language = scriptMap[maxScript.script];
@@ -369,7 +369,7 @@ function normalizeLanguageCode(value) {
  * This helps catch channels that describe their broadcast language in English.
  *
  * @param {string} description - Description text to analyze
- * @returns {string|null} - ISO 639-1 language code or null
+ * @returns {string|null} - Full language name or null
  */
 function detectLanguageFromDescription(description) {
   if (!description || typeof description !== 'string') {
@@ -380,20 +380,20 @@ function detectLanguageFromDescription(description) {
 
   // Language mention patterns (e.g., "Tamil language channel", "Telugu TV", "Hindi news")
   const languageMentions = {
-    ta: /\b(tamil|tamizh)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
-    te: /\b(telugu)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
-    hi: /\b(hindi)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
-    kn: /\b(kannada)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
-    ml: /\b(malayalam)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
-    bn: /\b(bengali|bangla)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
-    mr: /\b(marathi)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
-    gu: /\b(gujarati)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
-    pa: /\b(punjabi)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i
+    tamil: /\b(tamil|tamizh)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
+    telugu: /\b(telugu)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
+    hindi: /\b(hindi)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
+    kannada: /\b(kannada)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
+    malayalam: /\b(malayalam)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
+    bengali: /\b(bengali|bangla)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
+    marathi: /\b(marathi)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
+    gujarati: /\b(gujarati)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i,
+    punjabi: /\b(punjabi)\s+(language|channel|tv|music|news|cinema|movies|satellite)\b/i
   };
 
-  for (const [code, pattern] of Object.entries(languageMentions)) {
+  for (const [language, pattern] of Object.entries(languageMentions)) {
     if (pattern.test(text)) {
-      return code;
+      return language;
     }
   }
 
@@ -624,22 +624,57 @@ function detectLanguageFromHTML(html, options = {}) {
 }
 
 /**
+ * Detect explicit language mentions in channel name
+ * Examples: "6 TV Telugu", "Sun TV Tamil", "Zee Hindi"
+ *
+ * @param {string} channelName - TV channel name
+ * @returns {string|null} - Language name or null
+ */
+function detectExplicitLanguageInName(channelName) {
+  const name = channelName.toLowerCase();
+
+  // Explicit language word patterns (must match whole word)
+  const explicitPatterns = {
+    tamil: /\btamil\b|\btamizh\b/i,
+    telugu: /\btelugu\b/i,
+    kannada: /\bkannada\b/i,
+    malayalam: /\bmalayalam\b/i,
+    hindi: /\bhindi\b/i,
+    bengali: /\bbengali\b|\bbangla\b/i,
+    marathi: /\bmarathi\b/i,
+    punjabi: /\bpunjabi\b|\bpunjab\b/i,
+    gujarati: /\bgujarati\b/i,
+    english: /\benglish\b/i,
+    urdu: /\burdu\b/i,
+    bhojpuri: /\bbhojpuri\b/i
+  };
+
+  for (const [language, pattern] of Object.entries(explicitPatterns)) {
+    if (pattern.test(name)) {
+      return language; // Return full language name
+    }
+  }
+
+  return null;
+}
+
+/**
  * Pattern-based language detection (fallback)
  * @param {string} channelName - TV channel name
- * @returns {string} - ISO 639-1 language code
+ * @returns {string} - Language name (not ISO code)
  */
 function detectLanguageByPattern(channelName) {
   const name = channelName.toLowerCase();
 
   for (const [language, pattern] of Object.entries(LANGUAGE_PATTERNS)) {
     if (pattern.test(name)) {
-      return LANGUAGE_CODES[language];
+      return language; // Return full language name
     }
   }
 
   // Default to Hindi for most Indian channels
   if (/tv|channel|news|bharat|india|desi/.test(name)) {
-    return 'hi';
+    return 'hindi';
   }
 
   return 'unknown';
@@ -653,6 +688,17 @@ function detectLanguageByPattern(channelName) {
  */
 async function detectLanguage(channel, cache) {
   const domain = extractDomain(channel.tvgId);
+
+  // Strategy 0: Check for EXPLICIT language mention in channel name (HIGHEST PRIORITY)
+  // Examples: "6 TV Telugu", "Sun TV Tamil", "Zee Hindi"
+  const explicitLang = detectExplicitLanguageInName(channel.name);
+  if (explicitLang) {
+    // Explicit language in name overrides everything else
+    if (domain) {
+      cache.set(domain, explicitLang, 'name-explicit');
+    }
+    return { language: explicitLang, source: 'name-explicit' };
+  }
 
   // Strategy 1: Check cache
   if (domain && cache.has(domain)) {
@@ -692,7 +738,6 @@ module.exports = {
   CONFIG,
   LANGUAGE_CODES,
   ISO_TO_LANGUAGE,
-  FRANC_TO_ISO_639_1,
   LANGUAGE_PATTERNS,
 
   // Utility functions

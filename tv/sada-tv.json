@@ -4,6 +4,6 @@
   "categoryId": "entertainment",
   "streamUrl": "http://cdn12.henico.net:8080/live/sadatv/index.m3u8",
   "tvgId": "SADATV.in@SD",
-  "isActive": true,
-  "language": "hi"
+  "isActive": false,
+  "language": "hindi"
 }

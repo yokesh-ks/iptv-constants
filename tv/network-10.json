@@ -4,6 +4,6 @@
   "categoryId": "general",
   "streamUrl": "http://202.164.50.194:8000/play/a01j/index.m3u8",
   "tvgId": "Network10.in@SD",
-  "isActive": true,
-  "language": "en"
+  "isActive": false,
+  "language": "unknown"
 }
