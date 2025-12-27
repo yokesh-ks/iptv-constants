@@ -1,0 +1,32 @@
+[
+  {
+    "id": "abp-asmita",
+    "name": "ABP Asmita",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABP_Asmita_logo.svg/512px-ABP_Asmita_logo.svg.png"
+  },
+  {
+    "id": "india-news-gujarati",
+    "name": "India News Gujarati",
+    "logo": "https://i.imgur.com/3atyWZ2.png"
+  },
+  {
+    "id": "news18-gujarati",
+    "name": "News18 Gujarati",
+    "logo": "https://i.imgur.com/eOE40nk.png"
+  },
+  {
+    "id": "sandesh-news",
+    "name": "Sandesh News",
+    "logo": "https://i.imgur.com/JAJxEj3.png"
+  },
+  {
+    "id": "shubhsandesh",
+    "name": "Shubhsandesh",
+    "logo": "https://i.imgur.com/XsuFVlf.png"
+  },
+  {
+    "id": "tv9-gujarati",
+    "name": "TV9 Gujarati",
+    "logo": "https://i.imgur.com/Cvuthal.png"
+  }
+]

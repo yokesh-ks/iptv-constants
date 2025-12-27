@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Tamil",
+    "slug": "tamil",
+    "count": 15
+  },
+  {
+    "name": "Telugu",
+    "slug": "telugu",
+    "count": 26
+  },
+  {
+    "name": "Kannada",
+    "slug": "kannada",
+    "count": 9
+  },
+  {
+    "name": "Malayalam",
+    "slug": "malayalam",
+    "count": 14
+  },
+  {
+    "name": "Assamese",
+    "slug": "assamese",
+    "count": 2
+  },
+  {
+    "name": "Bengali",
+    "slug": "bengali",
+    "count": 17
+  },
+  {
+    "name": "Bhojpuri",
+    "slug": "bhojpuri",
+    "count": 4
+  },
+  {
+    "name": "English",
+    "slug": "english",
+    "count": 37
+  },
+  {
+    "name": "Gujarati",
+    "slug": "gujarati",
+    "count": 6
+  },
+  {
+    "name": "Hindi",
+    "slug": "hindi",
+    "count": 195
+  },
+  {
+    "name": "Marathi",
+    "slug": "marathi",
+    "count": 5
+  },
+  {
+    "name": "Odia",
+    "slug": "odia",
+    "count": 3
+  },
+  {
+    "name": "Punjabi",
+    "slug": "punjabi",
+    "count": 15
+  },
+  {
+    "name": "Urdu",
+    "slug": "urdu",
+    "count": 2
+  }
+]

@@ -1,0 +1,971 @@
+[
+  {
+    "id": "9x-jalwa",
+    "name": "9X Jalwa",
+    "logo": "https://i.imgur.com/qubgOi5.png"
+  },
+  {
+    "id": "9x-jhakaas",
+    "name": "9X Jhakaas",
+    "logo": "https://i.imgur.com/aZ0f85I.png"
+  },
+  {
+    "id": "aaj-tak",
+    "name": "Aaj Tak",
+    "logo": "https://i.imgur.com/RpIdCB3.png"
+  },
+  {
+    "id": "aastha-bhajan",
+    "name": "Aastha Bhajan",
+    "logo": "https://i.imgur.com/LyDxqnF.png"
+  },
+  {
+    "id": "aastha-prime-1",
+    "name": "Aastha Prime 1",
+    "logo": "https://i.imgur.com/LyWSMJS.png"
+  },
+  {
+    "id": "abp-news",
+    "name": "ABP News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png"
+  },
+  {
+    "id": "abzy-dhakad",
+    "name": "Abzy Dhakad",
+    "logo": "https://i.imgur.com/5ORC4tn.png"
+  },
+  {
+    "id": "anandham-tv",
+    "name": "Anandham TV",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-25/2511253358000.jpg"
+  },
+  {
+    "id": "angel-tv-africa",
+    "name": "Angel TV Africa",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv-america",
+    "name": "Angel TV America",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv-arabia",
+    "name": "Angel TV Arabia",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv-australia",
+    "name": "Angel TV Australia",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv-chinese",
+    "name": "Angel TV Chinese",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv-europe",
+    "name": "Angel TV Europe",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv-fareast",
+    "name": "Angel TV FarEast",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv-hebrew",
+    "name": "Angel TV Hebrew",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv-indo-china",
+    "name": "Angel TV Indo-China",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv-indonesia",
+    "name": "Angel TV Indonesia",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv-portuguese",
+    "name": "Angel TV Portuguese",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv-russian",
+    "name": "Angel TV Russian",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv-spanish",
+    "name": "Angel TV Spanish",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "angel-tv",
+    "name": "Angel TV",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "aradana-tv",
+    "name": "Aradana TV",
+    "logo": "https://i.imgur.com/w48yzLu.png"
+  },
+  {
+    "id": "bharat24",
+    "name": "Bharat24",
+    "logo": "https://i.imgur.com/Jx1OX9N.png"
+  },
+  {
+    "id": "channel-win",
+    "name": "Channel WIN",
+    "logo": "https://i.imgur.com/yrBBCO4.png"
+  },
+  {
+    "id": "chardikla-gurbaani-tv",
+    "name": "Chardikla Gurbaani TV",
+    "logo": "https://i.imgur.com/NXD8CPq.png"
+  },
+  {
+    "id": "chardikla-time-tv-north-america",
+    "name": "Chardikla Time TV North America",
+    "logo": "https://i.imgur.com/IUeMFey.jpg"
+  },
+  {
+    "id": "chardikla-time-tv",
+    "name": "Chardikla Time TV",
+    "logo": "https://i.imgur.com/tvoIZ3o.png"
+  },
+  {
+    "id": "cnbc-tv18",
+    "name": "CNBC TV18",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png"
+  },
+  {
+    "id": "dangal-tv",
+    "name": "Dangal TV",
+    "logo": "https://i.imgur.com/6JTb3cd.png"
+  },
+  {
+    "id": "dd-bharati",
+    "name": "DD Bharati",
+    "logo": "https://i.imgur.com/4tfUIEo.png"
+  },
+  {
+    "id": "dd-bihar",
+    "name": "DD Bihar",
+    "logo": "https://i.imgur.com/C7KQiZI.png"
+  },
+  {
+    "id": "dd-india",
+    "name": "DD India",
+    "logo": "https://i.imgur.com/45uptR8.png"
+  },
+  {
+    "id": "dd-jharkhand",
+    "name": "DD Jharkhand",
+    "logo": "https://i.imgur.com/VKpjoD9.png"
+  },
+  {
+    "id": "dd-madhya-pradesh",
+    "name": "DD Madhya Pradesh",
+    "logo": "https://i.imgur.com/Z1yIY4M.png"
+  },
+  {
+    "id": "dd-national-hd",
+    "name": "DD National HD",
+    "logo": "https://i.imgur.com/MohlE5B.png"
+  },
+  {
+    "id": "dd-rajasthan",
+    "name": "DD Rajasthan",
+    "logo": "https://i.imgur.com/t8KCi4L.png"
+  },
+  {
+    "id": "dd-sahyadri",
+    "name": "DD Sahyadri",
+    "logo": "https://i.imgur.com/svjI6U6.png"
+  },
+  {
+    "id": "dd-uttar-pradesh",
+    "name": "DD Uttar Pradesh",
+    "logo": "https://i.imgur.com/oKsUqBs.png"
+  },
+  {
+    "id": "dd-uttarakhand",
+    "name": "DD Uttarakhand",
+    "logo": "https://i.imgur.com/GzBsbos.png"
+  },
+  {
+    "id": "dharshan-tv",
+    "name": "Dharshan TV",
+    "logo": "https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ"
+  },
+  {
+    "id": "dheeran-tv",
+    "name": "Dheeran TV",
+    "logo": "https://i.imgur.com/jSedjXf.png"
+  },
+  {
+    "id": "eagle-one-news",
+    "name": "Eagle One News",
+    "logo": "https://i.imgur.com/qelJwNi.png"
+  },
+  {
+    "id": "eet-tv",
+    "name": "EET TV",
+    "logo": "https://i.imgur.com/rMldFW8.png"
+  },
+  {
+    "id": "epic-tv",
+    "name": "Epic TV",
+    "logo": "https://i.imgur.com/h1Ofnon.png"
+  },
+  {
+    "id": "et-now-swadesh",
+    "name": "ET Now Swadesh",
+    "logo": "https://i.imgur.com/AJpMZIv.png"
+  },
+  {
+    "id": "fateh-tv",
+    "name": "Fateh TV",
+    "logo": "https://i.imgur.com/c4ItNkB.png"
+  },
+  {
+    "id": "first-india-news",
+    "name": "First India News",
+    "logo": "https://i.imgur.com/MUTe7cu.png"
+  },
+  {
+    "id": "goodnews-tv",
+    "name": "GoodNews TV",
+    "logo": "https://i.imgur.com/ZrvoGqS.png"
+  },
+  {
+    "id": "gulistan-news",
+    "name": "Gulistan News",
+    "logo": "https://i.imgur.com/q5z6ycZ.png"
+  },
+  {
+    "id": "hamdard-tv",
+    "name": "Hamdard TV",
+    "logo": "https://i.ibb.co/JcD2xck/logo-hamda.png"
+  },
+  {
+    "id": "harvest-tv-keralam",
+    "name": "Harvest TV Keralam",
+    "logo": "https://i.imgur.com/1DyPuIt.png"
+  },
+  {
+    "id": "high-news",
+    "name": "High News",
+    "logo": "https://pbs.twimg.com/profile_images/1104268476858937351/USUT4ykS_400x400.png"
+  },
+  {
+    "id": "hindi-khabar",
+    "name": "Hindi Khabar",
+    "logo": "https://i.imgur.com/iuz6K6i.png"
+  },
+  {
+    "id": "history-tv18-hd-hindi",
+    "name": "History TV18 HD Hindi",
+    "logo": "https://i.imgur.com/zNJKdRf.png"
+  },
+  {
+    "id": "hornbill-tv",
+    "name": "Hornbill TV",
+    "logo": "https://i.imgur.com/7Y4vQnG.png"
+  },
+  {
+    "id": "ibc-24",
+    "name": "IBC 24",
+    "logo": "https://i.imgur.com/2LbR2a0.png"
+  },
+  {
+    "id": "ind-tv-usa",
+    "name": "Ind TV USA",
+    "logo": "https://i.imgur.com/DibiJ1l.png"
+  },
+  {
+    "id": "india-news-haryana",
+    "name": "India News Haryana",
+    "logo": "https://i.imgur.com/Ot8FDqS.png"
+  },
+  {
+    "id": "india-news-madhya-pradesh-chhattisgarh",
+    "name": "India News Madhya Pradesh/Chhattisgarh",
+    "logo": "https://i.imgur.com/3IoC5QR.png"
+  },
+  {
+    "id": "india-news-uttar-pradesh",
+    "name": "India News Uttar Pradesh",
+    "logo": "https://i.imgur.com/nMsMlig.png"
+  },
+  {
+    "id": "india-news",
+    "name": "India News",
+    "logo": "https://i.imgur.com/l54AGtz.png"
+  },
+  {
+    "id": "india-tv-aap-ki-adalat",
+    "name": "India TV Aap Ki Adalat",
+    "logo": "https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA"
+  },
+  {
+    "id": "india-tv-speed-news",
+    "name": "India TV Speed News",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Speed_News.png"
+  },
+  {
+    "id": "india-tv",
+    "name": "India TV",
+    "logo": "https://i.imgur.com/ztn2IR8.png"
+  },
+  {
+    "id": "indywood-tv",
+    "name": "Indywood TV",
+    "logo": "https://i.ibb.co/jT3NCPp/logo-tv.png"
+  },
+  {
+    "id": "iplus-tv",
+    "name": "iPlus TV",
+    "logo": "https://i.imgur.com/rnfEh0c.png"
+  },
+  {
+    "id": "ishara-tv",
+    "name": "Ishara TV",
+    "logo": "https://i.imgur.com/W5YlC2v.png"
+  },
+  {
+    "id": "ishwar-bhakti-tv",
+    "name": "Ishwar Bhakti TV",
+    "logo": "https://i.imgur.com/tsPPU1Y.png"
+  },
+  {
+    "id": "jan-tv",
+    "name": "Jan TV",
+    "logo": "https://i.imgur.com/RfJBuf5.png"
+  },
+  {
+    "id": "janam-tv",
+    "name": "Janam TV",
+    "logo": "https://i.imgur.com/NMDqooF.png"
+  },
+  {
+    "id": "jinvani-channel",
+    "name": "Jinvani Channel",
+    "logo": "https://i.imgur.com/lztyGVi.png"
+  },
+  {
+    "id": "jk-24x7-news",
+    "name": "JK 24x7 News",
+    "logo": "https://i.imgur.com/VIPPB6t.png"
+  },
+  {
+    "id": "k-news-india",
+    "name": "K News India",
+    "logo": "https://i.imgur.com/LeBL7ML.png"
+  },
+  {
+    "id": "kappa-tv",
+    "name": "Kappa TV",
+    "logo": "https://i.imgur.com/e9qTjgB.png"
+  },
+  {
+    "id": "kashish-news",
+    "name": "Kashish News",
+    "logo": "https://i.imgur.com/qfINs2r.png"
+  },
+  {
+    "id": "kcl-tv",
+    "name": "KCL TV",
+    "logo": "https://i.imgur.com/bkp9dIm.png"
+  },
+  {
+    "id": "kolkata-tv",
+    "name": "Kolkata TV",
+    "logo": "https://i.imgur.com/Umi45ZJ.png"
+  },
+  {
+    "id": "madhimugam-tv",
+    "name": "Madhimugam TV",
+    "logo": "https://i.imgur.com/YKCo0hU.png"
+  },
+  {
+    "id": "mahaa-news",
+    "name": "Mahaa News",
+    "logo": "https://i.imgur.com/buT76vR.png"
+  },
+  {
+    "id": "malai-murasu-tv",
+    "name": "Malai Murasu TV",
+    "logo": "https://i.imgur.com/M92IDhq.png"
+  },
+  {
+    "id": "malar-tv",
+    "name": "Malar TV",
+    "logo": "https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png"
+  },
+  {
+    "id": "manoranjan-grand",
+    "name": "Manoranjan Grand",
+    "logo": "https://i.imgur.com/qfMEz78.png"
+  },
+  {
+    "id": "manoranjan-movies",
+    "name": "Manoranjan Movies",
+    "logo": "https://i.imgur.com/oTBVML2.png"
+  },
+  {
+    "id": "manoranjan-tv",
+    "name": "Manoranjan TV",
+    "logo": "https://i.imgur.com/YvAAgPo.png"
+  },
+  {
+    "id": "mantavya-news",
+    "name": "Mantavya News"
+  },
+  {
+    "id": "mercy-tv",
+    "name": "Mercy TV",
+    "logo": "https://i.imgur.com/klNH4tV.png"
+  },
+  {
+    "id": "metro-tv",
+    "name": "Metro TV",
+    "logo": "https://i.ibb.co/CBgJ4QV/metro-logo.jpg"
+  },
+  {
+    "id": "mh-1-news",
+    "name": "Mh 1 News",
+    "logo": "https://i.imgur.com/RH52BX4.png"
+  },
+  {
+    "id": "mk-tv",
+    "name": "MK TV",
+    "logo": "https://i.imgur.com/RyYmyWy.png"
+  },
+  {
+    "id": "moon-tv",
+    "name": "Moon TV",
+    "logo": "https://i.imgur.com/3l25EZI.png"
+  },
+  {
+    "id": "munsif-tv",
+    "name": "Munsif TV",
+    "logo": "https://i.imgur.com/FQLqnE8.png"
+  },
+  {
+    "id": "music-india",
+    "name": "Music India",
+    "logo": "https://i.imgur.com/kXTCYqg.png"
+  },
+  {
+    "id": "nagaland-tv",
+    "name": "Nagaland TV",
+    "logo": "https://i.imgur.com/EBEIpPo.png"
+  },
+  {
+    "id": "nandighosha-tv",
+    "name": "Nandighosha TV",
+    "logo": "https://i.imgur.com/cxneGRS.png"
+  },
+  {
+    "id": "ndtv-24x7",
+    "name": "NDTV 24X7",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png"
+  },
+  {
+    "id": "ndtv-good-times",
+    "name": "NDTV Good Times",
+    "logo": "https://i.imgur.com/7cruYvo.png"
+  },
+  {
+    "id": "ndtv-india",
+    "name": "NDTV India",
+    "logo": "https://i.imgur.com/PyDjUZB.png"
+  },
+  {
+    "id": "ndtv-profit",
+    "name": "NDTV Profit",
+    "logo": "https://i.imgur.com/WK4tZ6p.png"
+  },
+  {
+    "id": "news-24",
+    "name": "News 24",
+    "logo": "https://i.imgur.com/x72O77X.png"
+  },
+  {
+    "id": "news-daily-24",
+    "name": "News Daily 24",
+    "logo": "https://i.imgur.com/lT8rihP.png"
+  },
+  {
+    "id": "news-j",
+    "name": "News J",
+    "logo": "https://i.imgur.com/RqeF8RR.png"
+  },
+  {
+    "id": "news-live",
+    "name": "News Live",
+    "logo": "https://i.imgur.com/OvSc7dc.png"
+  },
+  {
+    "id": "news-nation",
+    "name": "News Nation",
+    "logo": "https://i.imgur.com/9xeIWqm.png"
+  },
+  {
+    "id": "news-x",
+    "name": "News X",
+    "logo": "https://i.imgur.com/Zpxsc0Q.png"
+  },
+  {
+    "id": "news18-bihar-jharkhand",
+    "name": "News18 Bihar Jharkhand",
+    "logo": "https://i.imgur.com/FQ3zDZE.png"
+  },
+  {
+    "id": "news18-india",
+    "name": "News18 India",
+    "logo": "https://i.imgur.com/5VLCwbt.png"
+  },
+  {
+    "id": "news18-jklh",
+    "name": "News18 JKLH"
+  },
+  {
+    "id": "news18-kerala",
+    "name": "News18 Kerala",
+    "logo": "https://i.imgur.com/AsIdc9P.png"
+  },
+  {
+    "id": "news18-lokmat",
+    "name": "News18 Lokmat",
+    "logo": "https://i.imgur.com/SjbtAFh.png"
+  },
+  {
+    "id": "news9live",
+    "name": "News9Live",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/News9live-logo_1_300x.png"
+  },
+  {
+    "id": "newsx-world",
+    "name": "NewsX World",
+    "logo": "https://newsx-prod.s3.ap-south-1.amazonaws.com/wp-content/uploads/2025/08/04174249/News-X-no-bg-3-1.png"
+  },
+  {
+    "id": "nireekshana-tv",
+    "name": "Nireekshana TV",
+    "logo": "https://i.imgur.com/nGJv6QR.png"
+  },
+  {
+    "id": "nk-tv-24x7",
+    "name": "NK TV 24x7",
+    "logo": "https://i.imgur.com/xMJ2bv9.png"
+  },
+  {
+    "id": "ntc-tv",
+    "name": "NTC TV",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-21/2511213393009.jpg"
+  },
+  {
+    "id": "odisha-tv",
+    "name": "Odisha TV",
+    "logo": "https://i.imgur.com/tCT3qL9.png"
+  },
+  {
+    "id": "pasand-tv",
+    "name": "Pasand TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Pasand-TV.png"
+  },
+  {
+    "id": "peppers-tv",
+    "name": "Peppers TV",
+    "logo": "https://i.imgur.com/5PyJj2n.png"
+  },
+  {
+    "id": "power-tv",
+    "name": "Power TV",
+    "logo": "https://i.imgur.com/7wqqA1n.png"
+  },
+  {
+    "id": "prameya-news7",
+    "name": "Prameya News7",
+    "logo": "https://i.imgur.com/zTgkqdS.png"
+  },
+  {
+    "id": "prarthana-tv",
+    "name": "Prarthana TV",
+    "logo": "https://i.imgur.com/gj7dtNF.png"
+  },
+  {
+    "id": "pravasi-channel",
+    "name": "Pravasi Channel",
+    "logo": "https://i.imgur.com/1dHarb7.png"
+  },
+  {
+    "id": "prime9-news",
+    "name": "Prime9 News"
+  },
+  {
+    "id": "public-tv",
+    "name": "Public TV",
+    "logo": "https://i.imgur.com/wczSawd.png"
+  },
+  {
+    "id": "pulari-tv",
+    "name": "Pulari TV",
+    "logo": "https://i.imgur.com/v5urG30.png"
+  },
+  {
+    "id": "real-news-kerala",
+    "name": "Real News Kerala",
+    "logo": "https://i.imgur.com/8hnJuxa.png"
+  },
+  {
+    "id": "reporter-tv",
+    "name": "Reporter TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg"
+  },
+  {
+    "id": "republic-bharat",
+    "name": "Republic Bharat",
+    "logo": "https://i.imgur.com/NEAoh6O.png"
+  },
+  {
+    "id": "republic-tv",
+    "name": "Republic TV",
+    "logo": "https://i.imgur.com/K9KX8un.png"
+  },
+  {
+    "id": "rongeen-tv",
+    "name": "Rongeen TV",
+    "logo": "https://i.imgur.com/9gImDY5.png"
+  },
+  {
+    "id": "rt-india",
+    "name": "RT India",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg"
+  },
+  {
+    "id": "saam-tv",
+    "name": "Saam TV",
+    "logo": "https://i.imgur.com/SNsjJjt.png"
+  },
+  {
+    "id": "sadhna-plus-news",
+    "name": "Sadhna Plus News",
+    "logo": "https://i.imgur.com/h4UehKC.png"
+  },
+  {
+    "id": "sai-tv",
+    "name": "Sai TV",
+    "logo": "https://i.imgur.com/3e0tsrx.png"
+  },
+  {
+    "id": "salvation-tv",
+    "name": "Salvation TV",
+    "logo": "https://content.jdmagicbox.com/comp/bangalore/l5/080pxx80.xx80.150207120517.e4l5/catalogue/salvation-tv-network-pvt-m-g-road-bangalore-religious-organizations-1sabn2d.jpg"
+  },
+  {
+    "id": "sana-tv",
+    "name": "Sana TV",
+    "logo": "https://i.imgur.com/CR7DGBv.png"
+  },
+  {
+    "id": "sansad-tv-1",
+    "name": "Sansad TV 1",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sansad-TV-New-B-transparenti.png"
+  },
+  {
+    "id": "sansad-tv-2",
+    "name": "Sansad TV 2",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANSAD2_HINDI_2000_X_1125_Transpharent.png"
+  },
+  {
+    "id": "sanskar-tv",
+    "name": "Sanskar TV",
+    "logo": "https://i.imgur.com/SDkiMvR.png"
+  },
+  {
+    "id": "sanskar-uk",
+    "name": "Sanskar UK",
+    "logo": "https://i.imgur.com/AU5vSPF.png"
+  },
+  {
+    "id": "sanskar-usa",
+    "name": "Sanskar USA",
+    "logo": "https://i.imgur.com/5WBWruX.png"
+  },
+  {
+    "id": "sanskar-web-tv",
+    "name": "Sanskar Web TV",
+    "logo": "https://i.imgur.com/mu2B6hw.png"
+  },
+  {
+    "id": "satsang-tv",
+    "name": "Satsang TV",
+    "logo": "https://i.imgur.com/jnsaMrJ.png"
+  },
+  {
+    "id": "satsang-web-tv",
+    "name": "Satsang Web TV",
+    "logo": "https://i.imgur.com/40kNu1w.png"
+  },
+  {
+    "id": "shalini-tv",
+    "name": "Shalini TV",
+    "logo": "https://i.imgur.com/fDdG6Y2.png"
+  },
+  {
+    "id": "shekinah-tv",
+    "name": "Shekinah TV",
+    "logo": "https://i.imgur.com/6hTshsG.png"
+  },
+  {
+    "id": "shemaroo-tv",
+    "name": "Shemaroo TV",
+    "logo": "https://i.imgur.com/UNNcOef.png"
+  },
+  {
+    "id": "shubh-cinema-tv",
+    "name": "Shubh Cinema TV",
+    "logo": "https://i.imgur.com/RQhorAG.png"
+  },
+  {
+    "id": "shubh-tv",
+    "name": "Shubh TV",
+    "logo": "https://i.imgur.com/QHv8CL2.png"
+  },
+  {
+    "id": "sirippoli-tv",
+    "name": "Sirippoli TV",
+    "logo": "https://i.imgur.com/nsplwFc.png"
+  },
+  {
+    "id": "songdew-tv",
+    "name": "Songdew TV",
+    "logo": "https://i.imgur.com/aFlKqH4.png"
+  },
+  {
+    "id": "sony-kal",
+    "name": "Sony Kal",
+    "logo": "https://i.imgur.com/9Qq8DKh.png"
+  },
+  {
+    "id": "subhavaartha-tv",
+    "name": "Subhavaartha TV",
+    "logo": "https://i.imgur.com/hfk5jKE.png"
+  },
+  {
+    "id": "subin-tv",
+    "name": "Subin TV",
+    "logo": "https://www.subintv.in/SUBINLOGO.png"
+  },
+  {
+    "id": "sudarshan-news",
+    "name": "Sudarshan News",
+    "logo": "https://i.imgur.com/7AV1VI9.png"
+  },
+  {
+    "id": "suriyan-tv",
+    "name": "Suriyan TV",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-06/2511063356010.jpg"
+  },
+  {
+    "id": "svbc-sri-venkateswara-bhakti-channel",
+    "name": "SVBC Sri Venkateswara Bhakti Channel",
+    "logo": "https://i.imgur.com/LSMvXAl.png"
+  },
+  {
+    "id": "swadesh-news",
+    "name": "Swadesh News",
+    "logo": "https://i.imgur.com/iQ2CYsn.png"
+  },
+  {
+    "id": "tarang-tv",
+    "name": "Tarang TV",
+    "logo": "https://i.imgur.com/WMhd6V2.png"
+  },
+  {
+    "id": "tehzeeb-tv",
+    "name": "Tehzeeb TV",
+    "logo": "https://i.imgur.com/PCVOdup.png"
+  },
+  {
+    "id": "thendral-tv",
+    "name": "Thendral TV",
+    "logo": "https://i.imgur.com/kQK80gB.png"
+  },
+  {
+    "id": "times-now-navbharat",
+    "name": "Times Now Navbharat",
+    "logo": "https://i.imgur.com/kSCozXg.png"
+  },
+  {
+    "id": "times-now",
+    "name": "Times Now",
+    "logo": "https://i.imgur.com/C6QK1LB.png"
+  },
+  {
+    "id": "total-tv-haryana",
+    "name": "Total TV Haryana",
+    "logo": "https://i.imgur.com/AHB00KG.png"
+  },
+  {
+    "id": "tribe-tv",
+    "name": "Tribe TV",
+    "logo": "https://i.imgur.com/zG2P1WZ.png"
+  },
+  {
+    "id": "tv5-news",
+    "name": "TV5 News",
+    "logo": "https://i.imgur.com/aOrvsYj.png"
+  },
+  {
+    "id": "tv84",
+    "name": "TV84",
+    "logo": "https://i.imgur.com/Eh4kfwR.png"
+  },
+  {
+    "id": "tv9-bharatvarsh",
+    "name": "TV9 Bharatvarsh",
+    "logo": "https://i.imgur.com/GEqUslW.png"
+  },
+  {
+    "id": "twenty-four-news",
+    "name": "Twenty Four News",
+    "logo": "https://i.imgur.com/eS2fVDh.png"
+  },
+  {
+    "id": "ultimate-tv",
+    "name": "Ultimate TV",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-10/2511103396001.jpg"
+  },
+  {
+    "id": "vaanavil-tv",
+    "name": "Vaanavil TV",
+    "logo": "https://i.imgur.com/etr1k08.png"
+  },
+  {
+    "id": "vbc-news",
+    "name": "VBC News",
+    "logo": "https://i.imgur.com/SvXCjha.png"
+  },
+  {
+    "id": "venad-news",
+    "name": "Venad News",
+    "logo": "https://i.imgur.com/MC6edvH.jpg"
+  },
+  {
+    "id": "vendhar-tv",
+    "name": "Vendhar TV",
+    "logo": "https://i.imgur.com/okesED3.png"
+  },
+  {
+    "id": "vip-news",
+    "name": "VIP News",
+    "logo": "https://i.imgur.com/84kRaW1.png"
+  },
+  {
+    "id": "vissa-tv",
+    "name": "Vissa TV",
+    "logo": "https://i.imgur.com/aPirjJ2.png"
+  },
+  {
+    "id": "vtv-news",
+    "name": "VTV News",
+    "logo": "https://i.imgur.com/Ni8pZLF.png"
+  },
+  {
+    "id": "win-tv",
+    "name": "Win TV",
+    "logo": "https://i.imgur.com/xQutJMq.png"
+  },
+  {
+    "id": "yoganadam-news",
+    "name": "Yoganadam News",
+    "logo": "https://i.imgur.com/y3UoKhx.png"
+  },
+  {
+    "id": "zainabia-channel",
+    "name": "Zainabia Channel"
+  },
+  {
+    "id": "zee-24-taas",
+    "name": "Zee 24 Taas",
+    "logo": "https://i.imgur.com/KVDGQI1.png"
+  },
+  {
+    "id": "zee-alwan",
+    "name": "Zee Alwan"
+  },
+  {
+    "id": "zee-bharat",
+    "name": "Zee Bharat",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Bharat_2025.svg/512px-Zee_Bharat_2025.svg.png"
+  },
+  {
+    "id": "zee-bihar-jharkhand",
+    "name": "Zee Bihar Jharkhand",
+    "logo": "https://i.imgur.com/e26mQ7x.png"
+  },
+  {
+    "id": "zee-bollymovies-australia",
+    "name": "Zee Bollymovies Australia",
+    "logo": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512"
+  },
+  {
+    "id": "zee-bollymovies",
+    "name": "Zee Bollymovies",
+    "logo": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512"
+  },
+  {
+    "id": "zee-business",
+    "name": "Zee Business",
+    "logo": "https://i.imgur.com/vkWBtL4.png"
+  },
+  {
+    "id": "zee-cinema-apac",
+    "name": "Zee Cinema APAC",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/512px-Zee_Cinema_2025.svg.png"
+  },
+  {
+    "id": "zee-delhi-ncr-haryana",
+    "name": "Zee Delhi NCR Haryana",
+    "logo": "https://i.imgur.com/jeBUXYz.png"
+  },
+  {
+    "id": "zee-madhya-pradesh-chhattisgarh",
+    "name": "Zee Madhya Pradesh Chhattisgarh",
+    "logo": "https://i.imgur.com/YccuVVI.png"
+  },
+  {
+    "id": "zee-news",
+    "name": "Zee News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png"
+  },
+  {
+    "id": "zee-rajasthan",
+    "name": "Zee Rajasthan",
+    "logo": "https://i.imgur.com/iYrrGlL.png"
+  },
+  {
+    "id": "zee-salaam",
+    "name": "Zee Salaam"
+  },
+  {
+    "id": "zee-uttar-pradesh-uttarakhand",
+    "name": "Zee Uttar Pradesh/Uttarakhand",
+    "logo": "https://i.imgur.com/gxKFKRG.png"
+  },
+  {
+    "id": "zillarbarta-news",
+    "name": "ZillarBarta News",
+    "logo": "https://i.imgur.com/6uestzY.jpeg"
+  }
+]

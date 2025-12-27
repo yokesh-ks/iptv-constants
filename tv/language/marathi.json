@@ -1,0 +1,27 @@
+[
+  {
+    "id": "fakt-marathi",
+    "name": "Fakt Marathi",
+    "logo": "https://i.imgur.com/y0VS4QN.png"
+  },
+  {
+    "id": "ndtv-marathi",
+    "name": "NDTV Marathi",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png"
+  },
+  {
+    "id": "sangeet-marathi",
+    "name": "Sangeet Marathi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sangeet_Marathi.jpg/512px-Sangeet_Marathi.jpg"
+  },
+  {
+    "id": "shemaroo-marathi-bana",
+    "name": "Shemaroo Marathi Bana",
+    "logo": "https://i.imgur.com/U63jUUq.png"
+  },
+  {
+    "id": "tv9-marathi",
+    "name": "TV9 Marathi",
+    "logo": "https://i.imgur.com/5AshBho.png"
+  }
+]
