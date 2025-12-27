@@ -1,0 +1,9 @@
+{
+    "id": "news-7-tamil",
+    "name": "News 7 Tamil",
+    "categoryId": "news",
+    "streamUrl": "https://segment.yuppcdn.net/240122/news7/playlist.m3u8",
+    "quality": "576p",
+    "tvgId": "News7Tamil.in@SD",
+    "isActive": true
+  }

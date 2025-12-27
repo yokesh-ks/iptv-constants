@@ -1,0 +1,9 @@
+{
+    "id": "sun-tv",
+    "name": "Sun TV",
+    "categoryId": "entertainment",
+    "streamUrl": "https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8",
+    "quality": "1080p",
+    "tvgId": "SunTV.in@HD",
+    "isActive": true
+  }

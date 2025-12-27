@@ -1,0 +1,71 @@
+[
+  {
+    "id": "aastha-tamil",
+    "name": "Aastha Tamil",
+    "categoryId": "devotional",
+    "quality": "480p",
+    "isActive": true
+  },
+  {
+    "id": "blessing-tv-tamil",
+    "name": "Blessing TV Tamil",
+    "categoryId": "regional",
+    "quality": "576p",
+    "isActive": true
+  },
+  {
+    "id": "dd-tamil",
+    "name": "DD Tamil",
+    "categoryId": "regional",
+    "quality": "1080p",
+    "isActive": true
+  },
+  {
+    "id": "naaptol-tamil",
+    "name": "Naaptol Tamil",
+    "categoryId": "regional",
+    "quality": "576p",
+    "isActive": true
+  },
+  {
+    "id": "news-7-tamil",
+    "name": "News 7 Tamil",
+    "categoryId": "news",
+    "quality": "576p",
+    "isActive": true
+  },
+  {
+    "id": "news-tamil-24x7",
+    "name": "News Tamil 24x7",
+    "categoryId": "news",
+    "quality": "1080p",
+    "isActive": true
+  },
+  {
+    "id": "raj-musix-tamil",
+    "name": "Raj Musix Tamil",
+    "categoryId": "regional",
+    "quality": "1080p",
+    "isActive": false
+  },
+  {
+    "id": "raj-tv",
+    "name": "Raj TV",
+    "categoryId": "entertainment",
+    "isActive": true
+  },
+  {
+    "id": "sun-tv",
+    "name": "Sun TV",
+    "categoryId": "entertainment",
+    "quality": "1080p",
+    "isActive": true
+  },
+  {
+    "id": "tamilan-tv",
+    "name": "Tamilan TV",
+    "categoryId": "regional",
+    "quality": "1080p",
+    "isActive": true
+  }
+]

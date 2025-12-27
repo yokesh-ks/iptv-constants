@@ -1,0 +1,9 @@
+{
+    "id": "blessing-tv-tamil",
+    "name": "Blessing TV Tamil",
+    "categoryId": "regional",
+    "streamUrl": "http://202.164.50.194:8000/play/a02p/index.m3u8",
+    "quality": "576p",
+    "tvgId": "AaseervathamTV.in@SD",
+    "isActive": true
+}
