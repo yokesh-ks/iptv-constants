@@ -5,5 +5,6 @@
   "streamUrl": "https://www.nandighoshatvlive.com/hls/stream/index.m3u8",
   "tvgId": "NandighoshaTV.in@SD",
   "isActive": true,
-  "language": "hindi"
+  "language": "hindi",
+  "logo": "https://i.imgur.com/cxneGRS.png"
 }

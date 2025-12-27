@@ -5,5 +5,6 @@
   "streamUrl": "https://epiconvh.akamaized.net/live/nazara/master.m3u8",
   "tvgId": "Nazara.in@SD",
   "isActive": true,
-  "language": "unknown"
+  "language": "unknown",
+  "logo": "https://www.epicon.in/img/nazara-logo.png"
 }

@@ -5,5 +5,6 @@
   "streamUrl": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
   "tvgId": "WION.in@SD",
   "isActive": true,
-  "language": "english"
+  "language": "english",
+  "logo": "https://i.imgur.com/Wc5Z3iS.png"
 }

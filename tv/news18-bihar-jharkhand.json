@@ -5,5 +5,6 @@
   "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8",
   "tvgId": "News18BiharJharkhand.in@SD",
   "isActive": true,
-  "language": "hindi"
+  "language": "hindi",
+  "logo": "https://i.imgur.com/FQ3zDZE.png"
 }

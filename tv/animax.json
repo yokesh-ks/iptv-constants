@@ -5,5 +5,6 @@
   "streamUrl": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
   "tvgId": "Animax.in@SD",
   "isActive": true,
-  "language": "unknown"
+  "language": "unknown",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"
 }

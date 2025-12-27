@@ -5,5 +5,6 @@
   "streamUrl": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
   "tvgId": "SVBC4.in@SD",
   "isActive": true,
-  "language": "unknown"
+  "language": "unknown",
+  "logo": "https://i.imgur.com/vCFdZny.png"
 }

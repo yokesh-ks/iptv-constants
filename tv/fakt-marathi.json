@@ -5,5 +5,6 @@
   "streamUrl": "https://cdn-6.pishow.tv/live/10002/master.m3u8",
   "tvgId": "FaktMarathi.in@SD",
   "isActive": true,
-  "language": "marathi"
+  "language": "marathi",
+  "logo": "https://i.imgur.com/y0VS4QN.png"
 }

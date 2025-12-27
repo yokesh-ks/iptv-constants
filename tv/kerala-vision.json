@@ -5,5 +5,6 @@
   "streamUrl": "http://202.164.50.194:8000/play/a02c/index.m3u8",
   "tvgId": "KeralaVision.in@SD",
   "isActive": false,
-  "language": "unknown"
+  "language": "unknown",
+  "logo": "https://i.imgur.com/SWNjyyp.png"
 }

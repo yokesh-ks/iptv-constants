@@ -5,5 +5,6 @@
   "streamUrl": "http://202.164.50.194:8000/play/a009/index.m3u8",
   "tvgId": "DivyavaniTV.in@SD",
   "isActive": false,
-  "language": "hindi"
+  "language": "hindi",
+  "logo": "https://www.lyngsat.com/logo/tv/dd/divyavani_tv_in.png"
 }

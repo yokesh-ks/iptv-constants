@@ -5,5 +5,6 @@
   "streamUrl": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8",
   "tvgId": "FilamchiBhojpuri.in@SD",
   "isActive": true,
-  "language": "bhojpuri"
+  "language": "bhojpuri",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg"
 }

@@ -5,5 +5,6 @@
   "streamUrl": "https://cdn-1.pishow.tv/live/224/master.m3u8",
   "tvgId": "HiDost.in@SD",
   "isActive": true,
-  "language": "unknown"
+  "language": "unknown",
+  "logo": "https://i.imgur.com/bnST6y5.png"
 }

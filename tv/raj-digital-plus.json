@@ -5,5 +5,6 @@
   "streamUrl": "http://livestream.rajtv.tv/cluster1/Content/Channel/RajDigitalPlus/HLS/master.m3u8",
   "tvgId": "RajDigitalPlus.in@SD",
   "isActive": false,
-  "language": "unknown"
+  "language": "unknown",
+  "logo": "https://i.imgur.com/m7lm99w.png"
 }

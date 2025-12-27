@@ -5,5 +5,6 @@
   "streamUrl": "http://66.102.120.18:8000/play/a070/index.m3u8",
   "tvgId": "DisneyChannel.in@SD",
   "isActive": false,
-  "language": "english"
+  "language": "english",
+  "logo": "https://i.postimg.cc/854KwmH1/disneychannel.png"
 }

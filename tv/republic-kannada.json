@@ -5,5 +5,6 @@
   "streamUrl": "https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8",
   "tvgId": "RepublicKannada.in@SD",
   "isActive": true,
-  "language": "kannada"
+  "language": "kannada",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Republic_Kannada_logo.svg/1280px-Republic_Kannada_logo.svg.png"
 }

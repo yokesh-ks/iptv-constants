@@ -5,5 +5,6 @@
   "streamUrl": "http://103.140.254.2:3500/live/3381.m3u8",
   "tvgId": "BrioTV.in@SD",
   "isActive": false,
-  "language": "english"
+  "language": "english",
+  "logo": "https://www.lyngsat.com/logo/tv/bb/brio-tv-in.png"
 }

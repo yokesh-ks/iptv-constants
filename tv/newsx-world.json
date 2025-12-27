@@ -5,5 +5,6 @@
   "streamUrl": "https://newsxott.in/hls/newsxworld.m3u8",
   "tvgId": "NewsXWorld.in@HD",
   "isActive": true,
-  "language": "hindi"
+  "language": "hindi",
+  "logo": "https://newsx-prod.s3.ap-south-1.amazonaws.com/wp-content/uploads/2025/08/04174249/News-X-no-bg-3-1.png"
 }

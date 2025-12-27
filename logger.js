@@ -1,22 +1,23 @@
-const pino = require('pino');
+const pino = require('pino')
 
 const logger = pino({
   level: process.env.LOG_LEVEL || 'info',
-  transport: process.env.NODE_ENV === 'development' 
-    ? {
-        target: 'pino-pretty',
-        options: {
-          colorize: true,
-          translateTime: 'SYS:standard',
-          ignore: 'pid,hostname',
+  transport:
+    process.env.NODE_ENV === 'development'
+      ? {
+          target: 'pino-pretty',
+          options: {
+            colorize: true,
+            translateTime: 'SYS:standard',
+            ignore: 'pid,hostname',
+          },
         }
-      } 
-    : undefined,
+      : undefined,
   formatters: {
     level(label, number) {
-      return { level: label };
-    }
-  }
-});
+      return { level: label }
+    },
+  },
+})
 
-module.exports = logger;
+module.exports = logger

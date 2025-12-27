@@ -5,5 +5,6 @@
   "streamUrl": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
   "tvgId": "ZBCinema.in@HD",
   "isActive": true,
-  "language": "unknown"
+  "language": "unknown",
+  "logo": "https://i.imgur.com/kUg6WSk.jpeg"
 }

@@ -5,5 +5,6 @@
   "streamUrl": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
   "tvgId": "KCLTV.in@SD",
   "isActive": true,
-  "language": "hindi"
+  "language": "hindi",
+  "logo": "https://i.imgur.com/bkp9dIm.png"
 }

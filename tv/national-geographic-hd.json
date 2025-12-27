@@ -5,5 +5,6 @@
   "streamUrl": "http://66.102.120.18:8000/play/a01f/index.m3u8",
   "tvgId": "NationalGeographic.in@HD",
   "isActive": false,
-  "language": "english"
+  "language": "english",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
 }

@@ -15,45 +15,45 @@
  * @author Senior Backend Automation Engineer
  */
 
-const fs = require('fs');
-const path = require('path');
+const fs = require('fs')
+const path = require('path')
 
 // Configuration
 const CONFIG = {
   dataFile: path.join(__dirname, '../data/in.json'),
   tvDir: path.join(__dirname, '../tv'),
   cacheFile: path.join(__dirname, '../.language-cache.json'),
-  defaultLanguage: 'unknown'
-};
+  defaultLanguage: 'unknown',
+}
 
 // Parse command line arguments
-const args = process.argv.slice(2);
-const clearCache = args.includes('--clear-cache');
+const args = process.argv.slice(2)
+const clearCache = args.includes('--clear-cache')
 
 /**
  * Reset language field in consolidated data file
  */
 function resetDataFile() {
-  console.log('\n📄 Resetting language in data/in.json...');
+  console.log('\n📄 Resetting language in data/in.json...')
 
   try {
-    const data = JSON.parse(fs.readFileSync(CONFIG.dataFile, 'utf-8'));
-    let resetCount = 0;
+    const data = JSON.parse(fs.readFileSync(CONFIG.dataFile, 'utf-8'))
+    let resetCount = 0
 
     for (const channel of data) {
       if (channel.language && channel.language !== CONFIG.defaultLanguage) {
-        channel.language = CONFIG.defaultLanguage;
-        resetCount++;
+        channel.language = CONFIG.defaultLanguage
+        resetCount++
       }
     }
 
-    fs.writeFileSync(CONFIG.dataFile, JSON.stringify(data, null, 2));
-    console.log(`   ✓ Reset ${resetCount} channels in data/in.json`);
+    fs.writeFileSync(CONFIG.dataFile, JSON.stringify(data, null, 2))
+    console.log(`   ✓ Reset ${resetCount} channels in data/in.json`)
 
-    return resetCount;
+    return resetCount
   } catch (error) {
-    console.error(`   ✗ Error resetting data/in.json: ${error.message}`);
-    return 0;
+    console.error(`   ✗ Error resetting data/in.json: ${error.message}`)
+    return 0
   }
 }
 
@@ -61,36 +61,37 @@ function resetDataFile() {
  * Reset language field in all individual TV files
  */
 function resetTvFiles() {
-  console.log('\n📺 Resetting language in tv/*.json files...');
+  console.log('\n📺 Resetting language in tv/*.json files...')
 
   try {
-    const files = fs.readdirSync(CONFIG.tvDir)
-      .filter(file => file.endsWith('.json'));
+    const files = fs
+      .readdirSync(CONFIG.tvDir)
+      .filter((file) => file.endsWith('.json'))
 
-    let resetCount = 0;
+    let resetCount = 0
 
     for (const file of files) {
-      const filePath = path.join(CONFIG.tvDir, file);
+      const filePath = path.join(CONFIG.tvDir, file)
 
       try {
-        const channel = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+        const channel = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
 
         if (channel.language && channel.language !== CONFIG.defaultLanguage) {
-          channel.language = CONFIG.defaultLanguage;
-          fs.writeFileSync(filePath, JSON.stringify(channel, null, 2));
-          resetCount++;
+          channel.language = CONFIG.defaultLanguage
+          fs.writeFileSync(filePath, JSON.stringify(channel, null, 2))
+          resetCount++
         }
       } catch (error) {
-        console.error(`   ✗ Error processing ${file}: ${error.message}`);
+        console.error(`   ✗ Error processing ${file}: ${error.message}`)
       }
     }
 
-    console.log(`   ✓ Reset ${resetCount} of ${files.length} channel files`);
+    console.log(`   ✓ Reset ${resetCount} of ${files.length} channel files`)
 
-    return resetCount;
+    return resetCount
   } catch (error) {
-    console.error(`   ✗ Error reading tv/ directory: ${error.message}`);
-    return 0;
+    console.error(`   ✗ Error reading tv/ directory: ${error.message}`)
+    return 0
   }
 }
 
@@ -98,17 +99,17 @@ function resetTvFiles() {
  * Clear the language detection cache
  */
 function clearLanguageCache() {
-  console.log('\n🗑️  Clearing language cache...');
+  console.log('\n🗑️  Clearing language cache...')
 
   try {
     if (fs.existsSync(CONFIG.cacheFile)) {
-      fs.unlinkSync(CONFIG.cacheFile);
-      console.log('   ✓ Cache file deleted');
+      fs.unlinkSync(CONFIG.cacheFile)
+      console.log('   ✓ Cache file deleted')
     } else {
-      console.log('   ℹ No cache file found');
+      console.log('   ℹ No cache file found')
     }
   } catch (error) {
-    console.error(`   ✗ Error clearing cache: ${error.message}`);
+    console.error(`   ✗ Error clearing cache: ${error.message}`)
   }
 }
 
@@ -116,33 +117,35 @@ function clearLanguageCache() {
  * Main execution
  */
 function main() {
-  console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  console.log('🔄 RESET LANGUAGE FIELD');
-  console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+  console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
+  console.log('🔄 RESET LANGUAGE FIELD')
+  console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
 
   // Reset data file
-  const dataReset = resetDataFile();
+  const dataReset = resetDataFile()
 
   // Reset TV files
-  const tvReset = resetTvFiles();
+  const tvReset = resetTvFiles()
 
   // Clear cache if requested
   if (clearCache) {
-    clearLanguageCache();
+    clearLanguageCache()
   } else {
-    console.log('\n💡 Tip: Use --clear-cache to also clear the language detection cache');
+    console.log(
+      '\n💡 Tip: Use --clear-cache to also clear the language detection cache',
+    )
   }
 
   // Summary
-  console.log('\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  console.log('📊 SUMMARY');
-  console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  console.log(`   data/in.json:      ${dataReset} channels reset`);
-  console.log(`   tv/*.json:         ${tvReset} files reset`);
-  console.log(`   Cache cleared:     ${clearCache ? 'Yes' : 'No'}`);
-  console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  console.log('\n✅ Reset complete! You can now run: npm run enrich\n');
+  console.log('\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
+  console.log('📊 SUMMARY')
+  console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
+  console.log(`   data/in.json:      ${dataReset} channels reset`)
+  console.log(`   tv/*.json:         ${tvReset} files reset`)
+  console.log(`   Cache cleared:     ${clearCache ? 'Yes' : 'No'}`)
+  console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
+  console.log('\n✅ Reset complete! You can now run: npm run enrich\n')
 }
 
 // Run the script
-main();
+main()

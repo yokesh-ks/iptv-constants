@@ -5,5 +5,6 @@
   "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-asmita/master.m3u8",
   "tvgId": "ABPAsmita.in@SD",
   "isActive": true,
-  "language": "gujarati"
+  "language": "gujarati",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABP_Asmita_logo.svg/512px-ABP_Asmita_logo.svg.png"
 }

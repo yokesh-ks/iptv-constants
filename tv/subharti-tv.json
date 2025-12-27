@@ -5,5 +5,6 @@
   "streamUrl": "http://202.164.50.194:8000/play/a02y/index.m3u8",
   "tvgId": "SubhartiTV.in@SD",
   "isActive": false,
-  "language": "hindi"
+  "language": "hindi",
+  "logo": "https://i.imgur.com/9hdNFtt.png"
 }

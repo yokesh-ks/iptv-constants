@@ -5,5 +5,6 @@
   "streamUrl": "http://66.102.120.18:8000/play/a006/index.m3u8",
   "tvgId": "ZeeClassic.in@SD",
   "isActive": false,
-  "language": "hindi"
+  "language": "hindi",
+  "logo": "https://i.imgur.com/BdXVfBp.png"
 }

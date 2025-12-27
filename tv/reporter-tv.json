@@ -5,5 +5,6 @@
   "streamUrl": "https://segment.yuppcdn.net/050522/reporter/playlist.m3u8",
   "tvgId": "ReporterTV.in@SD",
   "isActive": true,
-  "language": "hindi"
+  "language": "hindi",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg"
 }

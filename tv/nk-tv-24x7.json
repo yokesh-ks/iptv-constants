@@ -5,5 +5,6 @@
   "streamUrl": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
   "tvgId": "NKTV24x7.in@SD",
   "isActive": true,
-  "language": "hindi"
+  "language": "hindi",
+  "logo": "https://i.imgur.com/xMJ2bv9.png"
 }

@@ -5,5 +5,6 @@
   "streamUrl": "https://live.gulistannews.in/hls/gul.m3u8",
   "tvgId": "GulistanNews.in@SD",
   "isActive": true,
-  "language": "hindi"
+  "language": "hindi",
+  "logo": "https://i.imgur.com/q5z6ycZ.png"
 }

@@ -5,5 +5,6 @@
   "streamUrl": "http://202.164.50.194:8000/play/a04a/index.m3u8",
   "tvgId": "SachBedhadak.in@SD",
   "isActive": false,
-  "language": "unknown"
+  "language": "unknown",
+  "logo": "https://www.lyngsat.com/logo/tv/ss/sach-bedhadak-in.png"
 }

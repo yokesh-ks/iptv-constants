@@ -5,5 +5,6 @@
   "streamUrl": "http://66.102.120.18:8000/play/a01v/index.m3u8",
   "tvgId": "AnmolCinema.in@SD",
   "isActive": false,
-  "language": "unknown"
+  "language": "unknown",
+  "logo": "https://static.wikia.nocookie.net/logopedia/images/d/db/Anmol_Cinema_2025_Logo_%28Low_Quality%29.jpg"
 }

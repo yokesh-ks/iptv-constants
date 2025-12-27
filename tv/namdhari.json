@@ -5,5 +5,6 @@
   "streamUrl": "https://namdhari.tv/live/sbs1.m3u8",
   "tvgId": "NamdhariTV.in@SD",
   "isActive": true,
-  "language": "unknown"
+  "language": "unknown",
+  "logo": "https://i.imgur.com/NalsXTo.png"
 }

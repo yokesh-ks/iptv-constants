@@ -5,5 +5,6 @@
   "streamUrl": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
   "tvgId": "ShemarooJosh.in@SD",
   "isActive": true,
-  "language": "unknown"
+  "language": "unknown",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutWZzQySLPpaZvaSHq1SnpV0dXNSFZimyag&s"
 }
