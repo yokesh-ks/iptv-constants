@@ -1,0 +1,9 @@
+{
+  "id": "shemaroo-tv",
+  "name": "Shemaroo TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-3.pishow.tv/live/230/master.m3u8",
+  "tvgId": "ShemarooTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

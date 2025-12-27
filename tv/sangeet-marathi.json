@@ -1,0 +1,9 @@
+{
+  "id": "sangeet-marathi",
+  "name": "Sangeet Marathi",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-3.pishow.tv/live/1229/master.m3u8",
+  "tvgId": "SangeetMarathi.in@SD",
+  "isActive": true,
+  "language": "mr"
+}

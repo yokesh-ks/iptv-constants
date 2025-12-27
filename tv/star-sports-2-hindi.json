@@ -1,0 +1,9 @@
+{
+  "id": "star-sports-2-hindi",
+  "name": "Star Sports 2 Hindi",
+  "categoryId": "entertainment",
+  "streamUrl": "http://66.102.120.18:8000/play/a00v/index.m3u8",
+  "tvgId": "StarSports2Hindi.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "sadhna-plus-news",
+  "name": "Sadhna Plus News",
+  "categoryId": "news",
+  "streamUrl": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8",
+  "tvgId": "SadhnaPlusNews.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

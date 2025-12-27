@@ -1,0 +1,9 @@
+{
+  "id": "amrita-tv",
+  "name": "Amrita TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://ddash74r36xqp.cloudfront.net/master.m3u8",
+  "tvgId": "AmritaTV.in@SD",
+  "isActive": true,
+  "language": "ml"
+}

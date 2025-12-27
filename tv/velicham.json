@@ -1,0 +1,9 @@
+{
+  "id": "velicham",
+  "name": "Velicham",
+  "categoryId": "general",
+  "streamUrl": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
+  "tvgId": "Velicham.in@SD",
+  "isActive": true,
+  "language": "ml"
+}

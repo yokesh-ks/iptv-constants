@@ -1,0 +1,9 @@
+{
+  "id": "india-news-madhya-pradesh-chhattisgarh",
+  "name": "India News Madhya Pradesh/Chhattisgarh",
+  "categoryId": "news",
+  "streamUrl": "https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8",
+  "tvgId": "IndiaNewsMadhyaPradeshChhattisgarh.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

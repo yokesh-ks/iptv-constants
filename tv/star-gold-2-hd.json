@@ -1,0 +1,9 @@
+{
+  "id": "star-gold-2-hd",
+  "name": "Star Gold 2 HD",
+  "categoryId": "entertainment",
+  "streamUrl": "http://66.102.120.18:8000/play/a077/index.m3u8",
+  "tvgId": "StarGold2.in@HD",
+  "isActive": true,
+  "language": "unknown"
+}

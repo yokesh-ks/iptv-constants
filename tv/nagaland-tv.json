@@ -1,0 +1,9 @@
+{
+  "id": "nagaland-tv",
+  "name": "Nagaland TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-6.pishow.tv/live/10014/master.m3u8",
+  "tvgId": "NagalandTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

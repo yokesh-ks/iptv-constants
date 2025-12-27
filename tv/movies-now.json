@@ -1,0 +1,9 @@
+{
+  "id": "movies-now",
+  "name": "Movies Now",
+  "categoryId": "movies",
+  "streamUrl": "http://163.61.227.29:8000/play/a01y/index.m3u8",
+  "tvgId": "MoviesNow.in@HD",
+  "isActive": true,
+  "language": "en"
+}

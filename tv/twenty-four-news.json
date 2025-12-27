@@ -1,0 +1,9 @@
+{
+  "id": "twenty-four-news",
+  "name": "Twenty Four News",
+  "categoryId": "news",
+  "streamUrl": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8",
+  "tvgId": "TwentyFourNews.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

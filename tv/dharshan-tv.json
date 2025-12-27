@@ -1,0 +1,9 @@
+{
+  "id": "dharshan-tv",
+  "name": "Dharshan TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://galaxyott.live/hls/dharshantv.m3u8",
+  "tvgId": "DharshanTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

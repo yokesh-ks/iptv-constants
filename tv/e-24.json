@@ -1,0 +1,9 @@
+{
+  "id": "e-24",
+  "name": "E 24",
+  "categoryId": "general",
+  "streamUrl": "https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8",
+  "tvgId": "E24.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

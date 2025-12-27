@@ -1,0 +1,9 @@
+{
+  "id": "filamchi-bhojpuri",
+  "name": "Filamchi Bhojpuri",
+  "categoryId": "general",
+  "streamUrl": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8",
+  "tvgId": "FilamchiBhojpuri.in@SD",
+  "isActive": true,
+  "language": "bh"
+}

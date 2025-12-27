@@ -1,0 +1,9 @@
+{
+  "id": "zee-classic",
+  "name": "Zee Classic",
+  "categoryId": "entertainment",
+  "streamUrl": "http://66.102.120.18:8000/play/a006/index.m3u8",
+  "tvgId": "ZeeClassic.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "angel-tv-arabia",
+  "name": "Angel TV Arabia",
+  "categoryId": "entertainment",
+  "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8",
+  "tvgId": "AngelTV.in@Arabia",
+  "isActive": true,
+  "language": "hi"
+}

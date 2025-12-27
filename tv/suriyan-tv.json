@@ -1,0 +1,9 @@
+{
+  "id": "suriyan-tv",
+  "name": "Suriyan TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://stream.galaxyott.live/live/suriyantv/index.m3u8",
+  "tvgId": "SuriyanTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "tv-100",
+  "name": "TV 100",
+  "categoryId": "entertainment",
+  "streamUrl": "http://202.164.50.194:8000/play/a03b/index.m3u8",
+  "tvgId": "TV100.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

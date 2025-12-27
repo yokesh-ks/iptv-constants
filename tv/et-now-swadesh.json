@@ -1,0 +1,9 @@
+{
+  "id": "et-now-swadesh",
+  "name": "ET Now Swadesh",
+  "categoryId": "general",
+  "streamUrl": "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8",
+  "tvgId": "ETNowSwadesh.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

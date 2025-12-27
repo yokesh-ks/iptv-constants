@@ -1,0 +1,9 @@
+{
+  "id": "dd-urdu",
+  "name": "DD Urdu",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-4.pishow.tv/live/8/master.m3u8",
+  "tvgId": "DDUrdu.in@SD",
+  "isActive": true,
+  "language": "ur"
+}

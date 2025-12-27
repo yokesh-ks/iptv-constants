@@ -1,0 +1,9 @@
+{
+  "id": "mk-tunes",
+  "name": "MK Tunes",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-3.pishow.tv/live/433/master.m3u8",
+  "tvgId": "MKTunes.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cnbc-bajar",
+  "name": "CNBC Bajar",
+  "categoryId": "general",
+  "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8",
+  "tvgId": "CNBCBajar.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

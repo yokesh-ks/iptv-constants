@@ -1,0 +1,9 @@
+{
+  "id": "sony-pix",
+  "name": "Sony Pix",
+  "categoryId": "entertainment",
+  "streamUrl": "http://66.102.120.18:8000/play/a01z/index.m3u8",
+  "tvgId": "SonyPix.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "brio-tv",
+  "name": "Brio TV",
+  "categoryId": "entertainment",
+  "streamUrl": "http://103.140.254.2:3500/live/3381.m3u8",
+  "tvgId": "BrioTV.in@SD",
+  "isActive": true,
+  "language": "en"
+}

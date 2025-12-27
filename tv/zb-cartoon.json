@@ -1,0 +1,9 @@
+{
+  "id": "zb-cartoon",
+  "name": "ZB Cartoon",
+  "categoryId": "kids",
+  "streamUrl": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+  "tvgId": "ZBCartoon.in@HD",
+  "isActive": true,
+  "language": "en"
+}

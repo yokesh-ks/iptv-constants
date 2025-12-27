@@ -1,0 +1,9 @@
+{
+  "id": "prime9-news",
+  "name": "Prime9 News",
+  "categoryId": "news",
+  "streamUrl": "https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8",
+  "tvgId": "Prime9News.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

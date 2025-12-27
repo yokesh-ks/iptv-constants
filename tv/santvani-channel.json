@@ -1,0 +1,9 @@
+{
+  "id": "santvani-channel",
+  "name": "Santvani Channel",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-2.pishow.tv/live/475/master.m3u8",
+  "tvgId": "SantvaniChannel.in@SD",
+  "isActive": true,
+  "language": "te"
+}

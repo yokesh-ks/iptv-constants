@@ -1,0 +1,9 @@
+{
+  "id": "dd-bharati",
+  "name": "DD Bharati",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-1.pishow.tv/live/10/master.m3u8",
+  "tvgId": "DDBharati.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

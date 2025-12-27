@@ -1,0 +1,9 @@
+{
+  "id": "fakt-marathi",
+  "name": "Fakt Marathi",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-6.pishow.tv/live/10002/master.m3u8",
+  "tvgId": "FaktMarathi.in@SD",
+  "isActive": true,
+  "language": "mr"
+}

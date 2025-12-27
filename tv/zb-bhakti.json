@@ -1,0 +1,9 @@
+{
+  "id": "zb-bhakti",
+  "name": "ZB Bhakti",
+  "categoryId": "general",
+  "streamUrl": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
+  "tvgId": "ZBBhakti.in@HD",
+  "isActive": true,
+  "language": "unknown"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "sony-kal",
+  "name": "Sony Kal",
+  "categoryId": "entertainment",
+  "streamUrl": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8",
+  "tvgId": "SonyKALHindi.us@SD",
+  "isActive": true,
+  "language": "hi"
+}

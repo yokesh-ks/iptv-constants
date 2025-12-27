@@ -1,0 +1,9 @@
+{
+  "id": "t-news",
+  "name": "T News",
+  "categoryId": "news",
+  "streamUrl": "https://cdn-1.pishow.tv/live/385/master.m3u8",
+  "tvgId": "TNews.in@SD",
+  "isActive": true,
+  "language": "te"
+}

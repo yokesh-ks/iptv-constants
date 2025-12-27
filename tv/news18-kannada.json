@@ -1,0 +1,9 @@
+{
+  "id": "news18-kannada",
+  "name": "News18 Kannada",
+  "categoryId": "news",
+  "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8",
+  "tvgId": "News18Kannada.in@SD",
+  "isActive": true,
+  "language": "kn"
+}

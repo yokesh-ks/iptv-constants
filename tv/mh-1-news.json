@@ -1,0 +1,9 @@
+{
+  "id": "mh-1-news",
+  "name": "Mh 1 News",
+  "categoryId": "news",
+  "streamUrl": "https://mhonenews.in/hls/stream.m3u8",
+  "tvgId": "Mh1News.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

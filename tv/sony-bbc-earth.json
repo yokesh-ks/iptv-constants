@@ -1,0 +1,9 @@
+{
+  "id": "sony-bbc-earth",
+  "name": "Sony BBC Earth",
+  "categoryId": "entertainment",
+  "streamUrl": "http://66.102.120.18:8000/play/a01r/index.m3u8",
+  "tvgId": "SonyBBCEarth.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

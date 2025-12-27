@@ -1,0 +1,9 @@
+{
+  "id": "news-live",
+  "name": "News Live",
+  "categoryId": "news",
+  "streamUrl": "https://cdn-6.pishow.tv/live/10011/master.m3u8",
+  "tvgId": "NewsLive.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

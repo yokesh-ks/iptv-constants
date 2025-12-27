@@ -1,0 +1,9 @@
+{
+  "id": "hornbill-tv",
+  "name": "Hornbill TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-2.pishow.tv/live/1463/master.m3u8",
+  "tvgId": "HornbillTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

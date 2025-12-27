@@ -1,0 +1,9 @@
+{
+  "id": "hnn-24x7",
+  "name": "HNN 24x7",
+  "categoryId": "general",
+  "streamUrl": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8",
+  "tvgId": "HNN24x7.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

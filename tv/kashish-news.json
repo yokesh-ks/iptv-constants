@@ -1,0 +1,9 @@
+{
+  "id": "kashish-news",
+  "name": "Kashish News",
+  "categoryId": "news",
+  "streamUrl": "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8",
+  "tvgId": "KashishNews.in@SD",
+  "isActive": true,
+  "language": "en"
+}

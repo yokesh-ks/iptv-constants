@@ -1,0 +1,9 @@
+{
+  "id": "thanthi-tv",
+  "name": "Thanthi TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-3.pishow.tv/live/1612/master.m3u8",
+  "tvgId": "ThanthiTV.in@SD",
+  "isActive": true,
+  "language": "ta"
+}

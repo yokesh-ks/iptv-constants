@@ -1,0 +1,9 @@
+{
+  "id": "ndtv-good-times",
+  "name": "NDTV Good Times",
+  "categoryId": "news",
+  "streamUrl": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
+  "tvgId": "NDTVGoodTimes.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

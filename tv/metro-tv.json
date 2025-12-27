@@ -1,0 +1,9 @@
+{
+  "id": "metro-tv",
+  "name": "Metro TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8",
+  "tvgId": "MetroTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

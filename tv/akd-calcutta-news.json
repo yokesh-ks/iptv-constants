@@ -1,0 +1,9 @@
+{
+  "id": "akd-calcutta-news",
+  "name": "AKD Calcutta News",
+  "categoryId": "news",
+  "streamUrl": "https://cdn-2.pishow.tv/live/237/master.m3u8",
+  "tvgId": "AKDCalcuttaNews.in@SD",
+  "isActive": true,
+  "language": "bn"
+}

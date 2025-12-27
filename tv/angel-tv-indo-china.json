@@ -1,0 +1,9 @@
+{
+  "id": "angel-tv-indo-china",
+  "name": "Angel TV Indo-China",
+  "categoryId": "entertainment",
+  "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8",
+  "tvgId": "AngelTV.in@IndoChina",
+  "isActive": true,
+  "language": "hi"
+}

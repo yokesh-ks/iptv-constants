@@ -1,0 +1,9 @@
+{
+  "id": "4tv-news",
+  "name": "4TV News",
+  "categoryId": "news",
+  "streamUrl": "https://cdn-4.pishow.tv/live/1007/master.m3u8",
+  "tvgId": "4TVNews.in@SD",
+  "isActive": true,
+  "language": "te"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "goa365",
+  "name": "Goa365",
+  "categoryId": "general",
+  "streamUrl": "https://ktismaservers.in:3086/live/goa365live.m3u8",
+  "tvgId": "Goa365.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

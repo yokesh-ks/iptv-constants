@@ -1,0 +1,9 @@
+{
+  "id": "zee-business",
+  "name": "Zee Business",
+  "categoryId": "entertainment",
+  "streamUrl": "https://dwby15d04agvq.cloudfront.net/index_1.m3u8",
+  "tvgId": "ZeeBusiness.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

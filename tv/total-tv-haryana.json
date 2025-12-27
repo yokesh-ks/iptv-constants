@@ -1,0 +1,9 @@
+{
+  "id": "total-tv-haryana",
+  "name": "Total TV Haryana",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-2.pishow.tv/live/1522/master.m3u8",
+  "tvgId": "TotalTVHaryana.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

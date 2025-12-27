@@ -1,0 +1,9 @@
+{
+  "id": "colors-cineplex-superhits",
+  "name": "Colors Cineplex Superhits",
+  "categoryId": "entertainment",
+  "streamUrl": "http://163.61.227.29:8000/play/a04c/index.m3u8",
+  "tvgId": "ColorsCineplexSuperhits.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

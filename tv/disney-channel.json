@@ -1,0 +1,9 @@
+{
+  "id": "disney-channel",
+  "name": "Disney Channel",
+  "categoryId": "kids",
+  "streamUrl": "http://66.102.120.18:8000/play/a070/index.m3u8",
+  "tvgId": "DisneyChannel.in@SD",
+  "isActive": true,
+  "language": "en"
+}

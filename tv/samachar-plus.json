@@ -1,0 +1,9 @@
+{
+  "id": "samachar-plus",
+  "name": "Samachar Plus",
+  "categoryId": "general",
+  "streamUrl": "https://samacharplus.livebox.co.in/samacharplushls/live.m3u8",
+  "tvgId": "SamacharPlus24x7.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

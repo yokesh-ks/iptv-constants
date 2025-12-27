@@ -1,0 +1,9 @@
+{
+  "id": "shemaroo-josh",
+  "name": "Shemaroo Josh",
+  "categoryId": "general",
+  "streamUrl": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
+  "tvgId": "ShemarooJosh.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

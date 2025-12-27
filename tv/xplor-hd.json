@@ -1,0 +1,9 @@
+{
+  "id": "xplor-hd",
+  "name": "&xplor HD",
+  "categoryId": "general",
+  "streamUrl": "http://66.102.120.18:8000/play/a012/index.m3u8",
+  "tvgId": "AndxplorHD.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "manoranjan-movies",
+  "name": "Manoranjan Movies",
+  "categoryId": "movies",
+  "streamUrl": "https://cdn-2.pishow.tv/live/228/master.m3u8",
+  "tvgId": "ManoranjanMovies.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

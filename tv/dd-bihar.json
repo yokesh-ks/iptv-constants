@@ -1,0 +1,9 @@
+{
+  "id": "dd-bihar",
+  "name": "DD Bihar",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-4.pishow.tv/live/35/master.m3u8",
+  "tvgId": "DDBihar.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

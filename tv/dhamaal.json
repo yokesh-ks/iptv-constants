@@ -1,0 +1,9 @@
+{
+  "id": "dhamaal",
+  "name": "Dhamaal",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-1.pishow.tv/live/1291/master.m3u8",
+  "tvgId": "Dhamaal.in@SD",
+  "isActive": true,
+  "language": "te"
+}

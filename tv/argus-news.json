@@ -1,0 +1,9 @@
+{
+  "id": "argus-news",
+  "name": "Argus News",
+  "categoryId": "news",
+  "streamUrl": "http://202.164.50.194:8000/play/a01n/index.m3u8",
+  "tvgId": "ArgusNews.in@SD",
+  "isActive": true,
+  "language": "or"
+}

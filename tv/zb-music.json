@@ -1,0 +1,9 @@
+{
+  "id": "zb-music",
+  "name": "ZB Music",
+  "categoryId": "music",
+  "streamUrl": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+  "tvgId": "ZBMusic.in@HD",
+  "isActive": true,
+  "language": "en"
+}

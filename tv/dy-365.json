@@ -1,0 +1,9 @@
+{
+  "id": "dy-365",
+  "name": "DY 365",
+  "categoryId": "general",
+  "streamUrl": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
+  "tvgId": "DY365.in@SD",
+  "isActive": true,
+  "language": "en"
+}

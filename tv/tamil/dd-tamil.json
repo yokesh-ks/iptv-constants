@@ -1,9 +1,0 @@
-{
-    "id": "dd-tamil",
-    "name": "DD Tamil",
-    "categoryId": "regional",
-    "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8",
-    "quality": "1080p",
-    "tvgId": "DDTamil.in@SD",
-    "isActive": true
-}

@@ -1,0 +1,9 @@
+{
+  "id": "dd-goa",
+  "name": "DD Goa",
+  "categoryId": "general",
+  "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8",
+  "tvgId": "DDGoa.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

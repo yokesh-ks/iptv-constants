@@ -1,0 +1,9 @@
+{
+  "id": "news-state-mp-chg",
+  "name": "News State MP & CHG",
+  "categoryId": "news",
+  "streamUrl": "http://202.164.50.194:8000/play/a037/index.m3u8",
+  "tvgId": "NewsStateMPCHG.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

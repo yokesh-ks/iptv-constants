@@ -1,0 +1,9 @@
+{
+  "id": "inh-24x7",
+  "name": "INH 24x7",
+  "categoryId": "general",
+  "streamUrl": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
+  "tvgId": "INH24x7.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

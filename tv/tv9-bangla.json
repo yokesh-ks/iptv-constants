@@ -1,0 +1,9 @@
+{
+  "id": "tv9-bangla",
+  "name": "TV9 Bangla",
+  "categoryId": "entertainment",
+  "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8",
+  "tvgId": "TV9Bangla.in@SD",
+  "isActive": true,
+  "language": "bn"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "news-1-india",
+  "name": "News 1 India",
+  "categoryId": "news",
+  "streamUrl": "http://202.164.50.194:8000/play/a02z/index.m3u8",
+  "tvgId": "News1India.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mercy-tv",
+  "name": "Mercy TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
+  "tvgId": "MercyTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

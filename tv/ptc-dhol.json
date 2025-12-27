@@ -1,0 +1,9 @@
+{
+  "id": "ptc-dhol",
+  "name": "PTC Dhol",
+  "categoryId": "general",
+  "streamUrl": "https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8",
+  "tvgId": "PTCDholTV.in@SD",
+  "isActive": true,
+  "language": "pa"
+}

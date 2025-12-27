@@ -1,0 +1,9 @@
+{
+  "id": "pratham-khabar-24x7",
+  "name": "Pratham Khabar 24x7",
+  "categoryId": "general",
+  "streamUrl": "https://livelegitpro.in/hls2/newstime/index.m3u8",
+  "tvgId": "PrathamKhabar24x7.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

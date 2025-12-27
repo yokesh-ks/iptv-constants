@@ -1,0 +1,9 @@
+{
+  "id": "news18-india",
+  "name": "News18 India",
+  "categoryId": "news",
+  "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
+  "tvgId": "News18India.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

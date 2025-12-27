@@ -1,0 +1,9 @@
+{
+  "id": "dheeran-tv",
+  "name": "Dheeran TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
+  "tvgId": "DheeranTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

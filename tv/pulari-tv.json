@@ -1,0 +1,9 @@
+{
+  "id": "pulari-tv",
+  "name": "Pulari TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8",
+  "tvgId": "PulariTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

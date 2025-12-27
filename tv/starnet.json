@@ -1,0 +1,9 @@
+{
+  "id": "starnet",
+  "name": "Starnet",
+  "categoryId": "entertainment",
+  "streamUrl": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
+  "tvgId": "Starnet.in@SD",
+  "isActive": true,
+  "language": "en"
+}

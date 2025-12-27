@@ -1,0 +1,9 @@
+{
+  "id": "etv-telangana",
+  "name": "ETV Telangana",
+  "categoryId": "entertainment",
+  "streamUrl": "https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8",
+  "tvgId": "ETVTelangana.in@SD",
+  "isActive": true,
+  "language": "te"
+}

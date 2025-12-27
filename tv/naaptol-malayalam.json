@@ -1,0 +1,9 @@
+{
+  "id": "naaptol-malayalam",
+  "name": "Naaptol Malayalam",
+  "categoryId": "general",
+  "streamUrl": "http://202.164.50.194:8000/play/a041/index.m3u8",
+  "tvgId": "NaaptolMalayalam.in@SD",
+  "isActive": true,
+  "language": "ml"
+}

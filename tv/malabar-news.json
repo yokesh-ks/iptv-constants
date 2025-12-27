@@ -1,0 +1,9 @@
+{
+  "id": "malabar-news",
+  "name": "Malabar News",
+  "categoryId": "news",
+  "streamUrl": "http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8",
+  "tvgId": "MalabarNews.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "sana-plus",
+  "name": "Sana Plus",
+  "categoryId": "general",
+  "streamUrl": "https://galaxyott.live/hls/sanaplus.m3u8",
+  "tvgId": "SanaPlus.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

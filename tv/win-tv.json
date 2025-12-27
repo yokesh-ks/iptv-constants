@@ -1,0 +1,9 @@
+{
+  "id": "win-tv",
+  "name": "Win TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-4.pishow.tv/live/1531/master.m3u8",
+  "tvgId": "WinTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

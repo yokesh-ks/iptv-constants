@@ -1,0 +1,9 @@
+{
+  "id": "vedic",
+  "name": "Vedic",
+  "categoryId": "general",
+  "streamUrl": "https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8",
+  "tvgId": "Vedic.in@SD",
+  "isActive": true,
+  "language": "en"
+}

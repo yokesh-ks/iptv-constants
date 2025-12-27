@@ -1,0 +1,9 @@
+{
+  "id": "hamdard-tv",
+  "name": "Hamdard TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://tv.hamdardtv.com/hamdard/index.m3u8",
+  "tvgId": "HamdardTV.ca@SD",
+  "isActive": true,
+  "language": "hi"
+}

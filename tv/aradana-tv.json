@@ -1,0 +1,9 @@
+{
+  "id": "aradana-tv",
+  "name": "Aradana TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-1.pishow.tv/live/961/master.m3u8",
+  "tvgId": "AradanaTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

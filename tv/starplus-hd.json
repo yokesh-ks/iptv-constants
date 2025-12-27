@@ -1,0 +1,9 @@
+{
+  "id": "starplus-hd",
+  "name": "StarPlus HD",
+  "categoryId": "entertainment",
+  "streamUrl": "http://66.102.120.18:8000/play/a008/index.m3u8",
+  "tvgId": "StarPlus.in@HD",
+  "isActive": true,
+  "language": "en"
+}

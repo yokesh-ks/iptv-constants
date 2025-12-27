@@ -1,0 +1,9 @@
+{
+  "id": "balle-balle",
+  "name": "Balle Balle",
+  "categoryId": "general",
+  "streamUrl": "https://mcncdndigital.com/balleballetv/index.m3u8",
+  "tvgId": "BalleBalle.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

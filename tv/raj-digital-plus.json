@@ -1,0 +1,9 @@
+{
+  "id": "raj-digital-plus",
+  "name": "Raj Digital Plus",
+  "categoryId": "general",
+  "streamUrl": "http://livestream.rajtv.tv/cluster1/Content/Channel/RajDigitalPlus/HLS/master.m3u8",
+  "tvgId": "RajDigitalPlus.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

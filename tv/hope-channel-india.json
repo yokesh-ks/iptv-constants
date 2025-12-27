@@ -1,0 +1,9 @@
+{
+  "id": "hope-channel-india",
+  "name": "Hope Channel India",
+  "categoryId": "general",
+  "streamUrl": "http://202.164.50.194:8000/play/a02o/index.m3u8",
+  "tvgId": "HopeChannelIndia.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

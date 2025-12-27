@@ -1,0 +1,9 @@
+{
+  "id": "chardikla-gurbaani-tv",
+  "name": "Chardikla Gurbaani TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
+  "tvgId": "ChardiklaGurbaaniTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

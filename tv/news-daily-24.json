@@ -1,0 +1,9 @@
+{
+  "id": "news-daily-24",
+  "name": "News Daily 24",
+  "categoryId": "news",
+  "streamUrl": "https://cdn-6.pishow.tv/live/10009/master.m3u8",
+  "tvgId": "NewsDaily24.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

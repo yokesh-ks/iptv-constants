@@ -1,0 +1,9 @@
+{
+  "id": "peppers-tv",
+  "name": "Peppers TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-2.pishow.tv/live/1383/master.m3u8",
+  "tvgId": "PeppersTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

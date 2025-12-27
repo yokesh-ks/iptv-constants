@@ -1,0 +1,9 @@
+{
+  "id": "mantavya-news",
+  "name": "Mantavya News",
+  "categoryId": "news",
+  "streamUrl": "https://yuppftalive.akamaized.net/080823/mantavya/playlist.m3u8",
+  "tvgId": "MantavyaNews.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

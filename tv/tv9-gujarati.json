@@ -1,0 +1,9 @@
+{
+  "id": "tv9-gujarati",
+  "name": "TV9 Gujarati",
+  "categoryId": "entertainment",
+  "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8",
+  "tvgId": "TV9Gujarati.in@SD",
+  "isActive": true,
+  "language": "gu"
+}

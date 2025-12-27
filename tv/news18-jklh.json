@@ -1,0 +1,9 @@
+{
+  "id": "news18-jklh",
+  "name": "News18 JKLH",
+  "categoryId": "news",
+  "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8",
+  "tvgId": "News18JKLH.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

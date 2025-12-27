@@ -1,0 +1,9 @@
+{
+  "id": "angel-tv-russian",
+  "name": "Angel TV Russian",
+  "categoryId": "entertainment",
+  "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8",
+  "tvgId": "AngelTV.in@Russian",
+  "isActive": true,
+  "language": "hi"
+}

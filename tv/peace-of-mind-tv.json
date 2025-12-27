@@ -1,0 +1,9 @@
+{
+  "id": "peace-of-mind-tv",
+  "name": "Peace of Mind TV",
+  "categoryId": "entertainment",
+  "streamUrl": "http://202.164.50.194:8000/play/a04c/index.m3u8",
+  "tvgId": "PeaceofMindTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

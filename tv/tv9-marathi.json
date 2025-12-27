@@ -1,0 +1,9 @@
+{
+  "id": "tv9-marathi",
+  "name": "TV9 Marathi",
+  "categoryId": "entertainment",
+  "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
+  "tvgId": "TV9Marathi.in@SD",
+  "isActive": true,
+  "language": "mr"
+}

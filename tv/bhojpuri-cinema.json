@@ -1,0 +1,9 @@
+{
+  "id": "bhojpuri-cinema",
+  "name": "Bhojpuri Cinema",
+  "categoryId": "movies",
+  "streamUrl": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
+  "tvgId": "BhojpuriCinema.in@SD",
+  "isActive": true,
+  "language": "ru"
+}

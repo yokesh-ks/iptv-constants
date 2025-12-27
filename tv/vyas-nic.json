@@ -1,0 +1,9 @@
+{
+  "id": "vyas-nic",
+  "name": "Vyas NIC",
+  "categoryId": "general",
+  "streamUrl": "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
+  "tvgId": "VyasChannel.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

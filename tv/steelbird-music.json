@@ -1,0 +1,9 @@
+{
+  "id": "steelbird-music",
+  "name": "Steelbird Music",
+  "categoryId": "music",
+  "streamUrl": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
+  "tvgId": "SteelbirdMusic.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

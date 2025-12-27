@@ -1,0 +1,9 @@
+{
+  "id": "aastha-kannada",
+  "name": "Aastha Kannada",
+  "categoryId": "devotional",
+  "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8",
+  "tvgId": "AasthaKannada.in@SD",
+  "isActive": true,
+  "language": "kn"
+}

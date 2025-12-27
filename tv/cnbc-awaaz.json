@@ -1,0 +1,9 @@
+{
+  "id": "cnbc-awaaz",
+  "name": "CNBC Awaaz",
+  "categoryId": "general",
+  "streamUrl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8",
+  "tvgId": "CNBCAwaaz.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

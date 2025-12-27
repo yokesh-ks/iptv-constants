@@ -1,0 +1,9 @@
+{
+  "id": "cnbc-tv18",
+  "name": "CNBC TV18",
+  "categoryId": "entertainment",
+  "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8",
+  "tvgId": "CNBCTV18.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

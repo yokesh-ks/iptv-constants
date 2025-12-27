@@ -1,0 +1,9 @@
+{
+  "id": "thendral-tv",
+  "name": "Thendral TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8",
+  "tvgId": "ThendralTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

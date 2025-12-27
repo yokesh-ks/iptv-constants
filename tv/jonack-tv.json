@@ -1,0 +1,9 @@
+{
+  "id": "jonack-tv",
+  "name": "Jonack TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
+  "tvgId": "Jonack.in@SD",
+  "isActive": true,
+  "language": "en"
+}

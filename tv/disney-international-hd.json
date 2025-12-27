@@ -1,0 +1,9 @@
+{
+  "id": "disney-international-hd",
+  "name": "Disney International HD",
+  "categoryId": "kids",
+  "streamUrl": "http://66.102.120.18:8000/play/a078/index.m3u8",
+  "tvgId": "DisneyInternationalHD.in@SD",
+  "isActive": true,
+  "language": "en"
+}

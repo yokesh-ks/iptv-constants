@@ -1,0 +1,9 @@
+{
+  "id": "colors-rishtey-asia",
+  "name": "Colors Rishtey Asia",
+  "categoryId": "entertainment",
+  "streamUrl": "http://163.61.227.29:8000/play/a04k/index.m3u8",
+  "tvgId": "ColorsRishteyAsia.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

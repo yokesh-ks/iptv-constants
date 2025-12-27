@@ -1,0 +1,9 @@
+{
+  "id": "zee-bihar-jharkhand",
+  "name": "Zee Bihar Jharkhand",
+  "categoryId": "entertainment",
+  "streamUrl": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8",
+  "tvgId": "ZeeBiharJharkhand.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

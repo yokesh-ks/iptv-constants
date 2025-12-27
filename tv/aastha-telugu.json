@@ -1,0 +1,9 @@
+{
+  "id": "aastha-telugu",
+  "name": "Aastha Telugu",
+  "categoryId": "devotional",
+  "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8",
+  "tvgId": "AasthaTelugu.in@SD",
+  "isActive": true,
+  "language": "te"
+}

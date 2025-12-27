@@ -1,0 +1,9 @@
+{
+  "id": "romedy-now",
+  "name": "Romedy Now",
+  "categoryId": "general",
+  "streamUrl": "http://66.102.120.18:8000/play/a01j/index.m3u8",
+  "tvgId": "RomedyNow.in@SD",
+  "isActive": true,
+  "language": "en"
+}

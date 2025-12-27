@@ -1,0 +1,9 @@
+{
+  "id": "aathavan-tv",
+  "name": "Aathavan TV",
+  "categoryId": "entertainment",
+  "streamUrl": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
+  "tvgId": "AathavanTV.uk@SD",
+  "isActive": true,
+  "language": "hi"
+}

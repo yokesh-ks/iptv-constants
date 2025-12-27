@@ -1,0 +1,9 @@
+{
+  "id": "subin-tv",
+  "name": "Subin TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://stream.galaxyott.live/live/subintv/index.m3u8",
+  "tvgId": "SubinTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

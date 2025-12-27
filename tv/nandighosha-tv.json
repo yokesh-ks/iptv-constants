@@ -1,0 +1,9 @@
+{
+  "id": "nandighosha-tv",
+  "name": "Nandighosha TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://www.nandighoshatvlive.com/hls/stream/index.m3u8",
+  "tvgId": "NandighoshaTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

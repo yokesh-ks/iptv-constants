@@ -1,0 +1,9 @@
+{
+  "id": "star-sports-1-hd",
+  "name": "Star Sports 1 HD",
+  "categoryId": "entertainment",
+  "streamUrl": "http://66.102.120.18:8000/play/a009/index.m3u8",
+  "tvgId": "StarSports1.in@HD",
+  "isActive": true,
+  "language": "en"
+}

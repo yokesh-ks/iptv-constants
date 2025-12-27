@@ -1,0 +1,9 @@
+{
+  "id": "abp-majha",
+  "name": "ABP Majha",
+  "categoryId": "news",
+  "streamUrl": "https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8",
+  "tvgId": "ABPMajha.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

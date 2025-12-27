@@ -1,0 +1,9 @@
+{
+  "id": "dd-uttar-pradesh",
+  "name": "DD Uttar Pradesh",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-1.pishow.tv/live/36/master.m3u8",
+  "tvgId": "DDUttarPradesh.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

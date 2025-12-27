@@ -1,0 +1,9 @@
+{
+  "id": "channel-win",
+  "name": "Channel WIN",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-4.pishow.tv/live/229/master.m3u8",
+  "tvgId": "ChannelWIN.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

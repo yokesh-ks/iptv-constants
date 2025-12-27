@@ -1,0 +1,9 @@
+{
+  "id": "we-one-kerala",
+  "name": "We One Kerala",
+  "categoryId": "general",
+  "streamUrl": "http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8",
+  "tvgId": "WeOneKerala.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

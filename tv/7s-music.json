@@ -1,0 +1,9 @@
+{
+  "id": "7s-music",
+  "name": "7S Music",
+  "categoryId": "music",
+  "streamUrl": "http://202.164.50.194:8000/play/a026/index.m3u8",
+  "tvgId": "7SMusic.in@SD",
+  "isActive": false,
+  "language": "en"
+}

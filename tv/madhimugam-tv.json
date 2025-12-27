@@ -1,0 +1,9 @@
+{
+  "id": "madhimugam-tv",
+  "name": "Madhimugam TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-3.pishow.tv/live/1476/master.m3u8",
+  "tvgId": "MadhimugamTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

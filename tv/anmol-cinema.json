@@ -1,0 +1,9 @@
+{
+  "id": "anmol-cinema",
+  "name": "Anmol Cinema",
+  "categoryId": "movies",
+  "streamUrl": "http://66.102.120.18:8000/play/a01v/index.m3u8",
+  "tvgId": "AnmolCinema.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

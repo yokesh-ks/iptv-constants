@@ -1,0 +1,9 @@
+{
+  "id": "sai-tv",
+  "name": "Sai TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://account30.livebox.co.in/saitvhls/live.m3u8",
+  "tvgId": "SaiTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

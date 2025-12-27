@@ -1,0 +1,9 @@
+{
+  "id": "angel-tv",
+  "name": "Angel TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8",
+  "tvgId": "AngelTV.in@India",
+  "isActive": true,
+  "language": "hi"
+}

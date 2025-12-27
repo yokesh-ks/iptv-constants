@@ -1,0 +1,9 @@
+{
+  "id": "aaj-tak",
+  "name": "Aaj Tak",
+  "categoryId": "news",
+  "streamUrl": "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
+  "tvgId": "AajTak.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

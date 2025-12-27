@@ -1,0 +1,9 @@
+{
+  "id": "india-news-punjab-himachal",
+  "name": "India News Punjab/Himachal",
+  "categoryId": "news",
+  "streamUrl": "https://newsxott.in/hls/indianewspunjab.m3u8",
+  "tvgId": "IndiaNewsPunjabHimachal.in@SD",
+  "isActive": true,
+  "language": "pa"
+}

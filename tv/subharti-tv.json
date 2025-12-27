@@ -1,0 +1,9 @@
+{
+  "id": "subharti-tv",
+  "name": "Subharti TV",
+  "categoryId": "entertainment",
+  "streamUrl": "http://202.164.50.194:8000/play/a02y/index.m3u8",
+  "tvgId": "SubhartiTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

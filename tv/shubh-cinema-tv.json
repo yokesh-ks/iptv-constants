@@ -1,0 +1,9 @@
+{
+  "id": "shubh-cinema-tv",
+  "name": "Shubh Cinema TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8",
+  "tvgId": "ShubhCinemaTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

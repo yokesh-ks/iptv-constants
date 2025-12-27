@@ -1,0 +1,9 @@
+{
+  "id": "b4u-music",
+  "name": "B4U Music",
+  "categoryId": "music",
+  "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
+  "tvgId": "B4UMusic.in@India",
+  "isActive": true,
+  "language": "en"
+}

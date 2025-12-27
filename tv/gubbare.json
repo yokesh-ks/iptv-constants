@@ -1,0 +1,9 @@
+{
+  "id": "gubbare",
+  "name": "Gubbare",
+  "categoryId": "general",
+  "streamUrl": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
+  "tvgId": "Gubbare.in@SD",
+  "isActive": true,
+  "language": "en"
+}

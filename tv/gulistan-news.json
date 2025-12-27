@@ -1,0 +1,9 @@
+{
+  "id": "gulistan-news",
+  "name": "Gulistan News",
+  "categoryId": "news",
+  "streamUrl": "https://live.gulistannews.in/hls/gul.m3u8",
+  "tvgId": "GulistanNews.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

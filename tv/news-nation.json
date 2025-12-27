@@ -1,0 +1,9 @@
+{
+  "id": "news-nation",
+  "name": "News Nation",
+  "categoryId": "news",
+  "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8",
+  "tvgId": "NewsNation.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

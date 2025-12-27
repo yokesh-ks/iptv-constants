@@ -1,0 +1,9 @@
+{
+  "id": "dd-national-hd",
+  "name": "DD National HD",
+  "categoryId": "general",
+  "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
+  "tvgId": "DDNational.in@HD",
+  "isActive": true,
+  "language": "hi"
+}

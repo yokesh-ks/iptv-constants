@@ -1,0 +1,9 @@
+{
+  "id": "rengoni",
+  "name": "Rengoni",
+  "categoryId": "general",
+  "streamUrl": "https://yuppftalive.akamaized.net/080823/rengonitv/playlist.m3u8",
+  "tvgId": "Rengoni.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

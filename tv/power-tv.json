@@ -1,0 +1,9 @@
+{
+  "id": "power-tv",
+  "name": "Power TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://powertvkannada.com/hls/stream.m3u8",
+  "tvgId": "PowerTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

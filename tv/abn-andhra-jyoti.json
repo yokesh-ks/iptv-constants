@@ -1,0 +1,9 @@
+{
+  "id": "abn-andhra-jyoti",
+  "name": "ABN Andhra Jyoti",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-1.pishow.tv/live/407/master.m3u8",
+  "tvgId": "ABNAndhraJyoti.in@SD",
+  "isActive": true,
+  "language": "te"
+}

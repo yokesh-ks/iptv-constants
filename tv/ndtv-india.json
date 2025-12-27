@@ -1,0 +1,9 @@
+{
+  "id": "ndtv-india",
+  "name": "NDTV India",
+  "categoryId": "news",
+  "streamUrl": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+  "tvgId": "NDTVIndia.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

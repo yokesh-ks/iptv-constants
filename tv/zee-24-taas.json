@@ -1,0 +1,9 @@
+{
+  "id": "zee-24-taas",
+  "name": "Zee 24 Taas",
+  "categoryId": "entertainment",
+  "streamUrl": "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8",
+  "tvgId": "Zee24Taas.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

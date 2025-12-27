@@ -1,0 +1,9 @@
+{
+  "id": "sudarshan-news",
+  "name": "Sudarshan News",
+  "categoryId": "news",
+  "streamUrl": "https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8",
+  "tvgId": "SudarshanNews.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

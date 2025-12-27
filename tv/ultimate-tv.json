@@ -1,0 +1,9 @@
+{
+  "id": "ultimate-tv",
+  "name": "Ultimate TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://stream.galaxyott.live/live/utv/index.m3u8",
+  "tvgId": "UltimateTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

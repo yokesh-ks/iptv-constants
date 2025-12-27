@@ -1,0 +1,9 @@
+{
+  "id": "zee-bharat",
+  "name": "Zee Bharat",
+  "categoryId": "entertainment",
+  "streamUrl": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
+  "tvgId": "ZeeBharat.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "zainabia-channel",
+  "name": "Zainabia Channel",
+  "categoryId": "general",
+  "streamUrl": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
+  "tvgId": "ZainabiaChannel.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

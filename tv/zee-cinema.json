@@ -1,0 +1,9 @@
+{
+  "id": "zee-cinema",
+  "name": "Zee Cinema",
+  "categoryId": "entertainment",
+  "streamUrl": "http://66.102.120.18:8000/play/a06w/index.m3u8",
+  "tvgId": "ZeeCinema.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

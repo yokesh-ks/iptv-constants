@@ -1,0 +1,9 @@
+{
+  "id": "inews",
+  "name": "INews",
+  "categoryId": "news",
+  "streamUrl": "https://cdn-1.pishow.tv/live/411/master.m3u8",
+  "tvgId": "INews.in@SD",
+  "isActive": true,
+  "language": "en"
+}

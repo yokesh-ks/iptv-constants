@@ -1,0 +1,9 @@
+{
+  "id": "namdhari",
+  "name": "Namdhari",
+  "categoryId": "general",
+  "streamUrl": "https://namdhari.tv/live/sbs1.m3u8",
+  "tvgId": "NamdhariTV.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ndtv-profit",
+  "name": "NDTV Profit",
+  "categoryId": "news",
+  "streamUrl": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8",
+  "tvgId": "NDTVProfit.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

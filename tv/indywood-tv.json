@@ -1,0 +1,9 @@
+{
+  "id": "indywood-tv",
+  "name": "Indywood TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
+  "tvgId": "IndywoodTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

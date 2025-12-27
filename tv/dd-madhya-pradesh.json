@@ -1,0 +1,9 @@
+{
+  "id": "dd-madhya-pradesh",
+  "name": "DD Madhya Pradesh",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-1.pishow.tv/live/31/master.m3u8",
+  "tvgId": "DDMadhyaPradesh.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

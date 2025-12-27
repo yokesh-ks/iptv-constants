@@ -1,0 +1,9 @@
+{
+  "id": "prudent-media",
+  "name": "Prudent Media",
+  "categoryId": "general",
+  "streamUrl": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
+  "tvgId": "PrudentMedia.in@SD",
+  "isActive": true,
+  "language": "en"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "northeast-live",
+  "name": "Northeast Live",
+  "categoryId": "general",
+  "streamUrl": "https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8",
+  "tvgId": "NortheastLive.in@HD",
+  "isActive": true,
+  "language": "unknown"
+}

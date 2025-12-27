@@ -1,0 +1,9 @@
+{
+  "id": "raftaar-media",
+  "name": "Raftaar Media",
+  "categoryId": "general",
+  "streamUrl": "http://202.164.50.194:8000/play/a008/index.m3u8",
+  "tvgId": "RaftaarMedia.in@SD",
+  "isActive": true,
+  "language": "en"
+}

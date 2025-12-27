@@ -1,0 +1,9 @@
+{
+  "id": "tv9-telugu",
+  "name": "TV9 Telugu",
+  "categoryId": "entertainment",
+  "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8",
+  "tvgId": "TV9Telugu.in@SD",
+  "isActive": true,
+  "language": "te"
+}

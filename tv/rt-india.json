@@ -1,0 +1,9 @@
+{
+  "id": "rt-india",
+  "name": "RT India",
+  "categoryId": "general",
+  "streamUrl": "https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8",
+  "tvgId": "RTIndia.in@HD",
+  "isActive": true,
+  "language": "hi"
+}

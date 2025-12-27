@@ -1,0 +1,56 @@
+{
+  "name": "iptv-constants",
+  "version": "1.0.0",
+  "description": "IPTV constants and stream data management with authoritative language detection using Unicode script analysis and web content extraction",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node scripts/m3u-to-json.js",
+    "m3u-to-json": "node scripts/m3u-to-json.js",
+    "split": "node scripts/json-to-individual.js",
+    "json-to-individual": "node scripts/json-to-individual.js",
+    "enrich": "node scripts/enrich-tv-with-language.js | npx pino-pretty",
+    "enrich-tv-with-language": "node scripts/enrich-tv-with-language.js | npx pino-pretty",
+    "lint": "biome check .",
+    "lint:fix": "biome check --fix .",
+    "format": "biome format .",
+    "format:write": "biome format --write .",
+    "check": "biome check --apply .",
+    "log:pretty": "tail -f logs/app.log | pino-pretty",
+    "start:dev": "NODE_ENV=development node --watch index.js",
+    "logs:watch": "pino-pretty"
+  },
+  "keywords": [
+    "iptv",
+    "m3u",
+    "streams",
+    "playlist",
+    "language-detection",
+    "unicode-script-detection",
+    "tamil",
+    "telugu",
+    "hindi",
+    "kannada",
+    "malayalam",
+    "indian-languages",
+    "web-scraping",
+    "content-analysis",
+    "html-to-text",
+    "multilingual"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "franc": "^6.2.0",
+    "html-to-text": "^9.0.5",
+    "pino": "^9.5.0",
+    "pino-pretty": "^12.0.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.3.10"
+  }
+}

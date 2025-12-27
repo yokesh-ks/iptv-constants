@@ -1,0 +1,9 @@
+{
+  "id": "ndtv-marathi",
+  "name": "NDTV Marathi",
+  "categoryId": "news",
+  "streamUrl": "https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8",
+  "tvgId": "NDTVMarathi.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

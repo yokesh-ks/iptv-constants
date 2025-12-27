@@ -1,0 +1,9 @@
+{
+  "id": "harvest-tv",
+  "name": "Harvest TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8",
+  "tvgId": "HarvestTV.in@SD",
+  "isActive": true,
+  "language": "en"
+}

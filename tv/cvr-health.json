@@ -1,0 +1,9 @@
+{
+  "id": "cvr-health",
+  "name": "CVR Health",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-6.pishow.tv/live/395/master.m3u8",
+  "tvgId": "CVRHealth.in@SD",
+  "isActive": true,
+  "language": "en"
+}

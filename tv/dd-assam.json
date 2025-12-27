@@ -1,0 +1,9 @@
+{
+  "id": "dd-assam",
+  "name": "DD Assam",
+  "categoryId": "general",
+  "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8",
+  "tvgId": "DDAssam.in@SD",
+  "isActive": true,
+  "language": "as"
+}

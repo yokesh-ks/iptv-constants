@@ -1,0 +1,9 @@
+{
+  "id": "punjabi-zindabad",
+  "name": "Punjabi Zindabad",
+  "categoryId": "general",
+  "streamUrl": "http://stream.pztv.online/pztv/playlist.m3u8",
+  "tvgId": "PunjabiZindabadTV.in@SD",
+  "isActive": true,
+  "language": "pa"
+}

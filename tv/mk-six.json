@@ -1,0 +1,9 @@
+{
+  "id": "mk-six",
+  "name": "MK Six",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-3.pishow.tv/live/1253/master.m3u8",
+  "tvgId": "MKSix.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

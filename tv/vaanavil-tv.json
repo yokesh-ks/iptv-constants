@@ -1,0 +1,9 @@
+{
+  "id": "vaanavil-tv",
+  "name": "Vaanavil TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
+  "tvgId": "VaanavilTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

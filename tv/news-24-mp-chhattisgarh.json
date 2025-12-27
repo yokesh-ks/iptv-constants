@@ -1,0 +1,9 @@
+{
+  "id": "news-24-mp-chhattisgarh",
+  "name": "News 24 MP & Chhattisgarh",
+  "categoryId": "news",
+  "streamUrl": "http://202.164.50.194:8000/play/a053/index.m3u8",
+  "tvgId": "News24MPChhattisgarh.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

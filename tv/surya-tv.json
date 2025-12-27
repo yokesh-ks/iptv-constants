@@ -1,0 +1,9 @@
+{
+  "id": "surya-tv",
+  "name": "Surya TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8",
+  "tvgId": "SuryaTV.in@HD",
+  "isActive": true,
+  "language": "ml"
+}

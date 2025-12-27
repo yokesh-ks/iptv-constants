@@ -1,0 +1,9 @@
+{
+  "id": "pudhari-news",
+  "name": "Pudhari News",
+  "categoryId": "news",
+  "streamUrl": "http://202.164.50.194:8000/play/a04f/index.m3u8",
+  "tvgId": "PudhariNews.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

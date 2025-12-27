@@ -1,0 +1,9 @@
+{
+  "id": "zee-24-ghanta",
+  "name": "Zee 24 Ghanta",
+  "categoryId": "entertainment",
+  "streamUrl": "http://202.164.50.194:8000/play/a04n/index.m3u8",
+  "tvgId": "Zee24Ghanta.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

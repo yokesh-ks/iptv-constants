@@ -1,0 +1,9 @@
+{
+  "id": "showbox",
+  "name": "ShowBox",
+  "categoryId": "general",
+  "streamUrl": "https://epiconvh.akamaized.net/live/showbox/master.m3u8",
+  "tvgId": "ShowBox.in@SD",
+  "isActive": true,
+  "language": "en"
+}

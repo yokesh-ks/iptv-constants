@@ -1,0 +1,9 @@
+{
+  "id": "channel-y",
+  "name": "Channel Y",
+  "categoryId": "general",
+  "streamUrl": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
+  "tvgId": "ChannelY.ca@SD",
+  "isActive": true,
+  "language": "en"
+}

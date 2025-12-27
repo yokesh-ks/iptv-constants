@@ -1,0 +1,9 @@
+{
+  "id": "kanak-news",
+  "name": "Kanak News",
+  "categoryId": "news",
+  "streamUrl": "http://202.164.50.194:8000/play/a064/index.m3u8",
+  "tvgId": "KanakNews.in@SD",
+  "isActive": true,
+  "language": "en"
+}

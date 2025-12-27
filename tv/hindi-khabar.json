@@ -1,0 +1,9 @@
+{
+  "id": "hindi-khabar",
+  "name": "Hindi Khabar",
+  "categoryId": "general",
+  "streamUrl": "https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8",
+  "tvgId": "HindiKhabar.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

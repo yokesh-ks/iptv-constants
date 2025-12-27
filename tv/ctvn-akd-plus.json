@@ -1,0 +1,9 @@
+{
+  "id": "ctvn-akd-plus",
+  "name": "CTVN AKD Plus",
+  "categoryId": "entertainment",
+  "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ctvn-akd-plus/index.m3u8",
+  "tvgId": "CTVNAKDPlus.in@SD",
+  "isActive": true,
+  "language": "bn"
+}

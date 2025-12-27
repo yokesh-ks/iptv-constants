@@ -1,0 +1,9 @@
+{
+  "id": "tribe-tv",
+  "name": "Tribe TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
+  "tvgId": "TribeTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

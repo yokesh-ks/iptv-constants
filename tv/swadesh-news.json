@@ -1,0 +1,9 @@
+{
+  "id": "swadesh-news",
+  "name": "Swadesh News",
+  "categoryId": "news",
+  "streamUrl": "https://cdn-2.pishow.tv/live/465/master.m3u8",
+  "tvgId": "SwadeshNews.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

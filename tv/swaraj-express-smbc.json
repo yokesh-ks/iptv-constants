@@ -1,0 +1,9 @@
+{
+  "id": "swaraj-express-smbc",
+  "name": "Swaraj Express SMBC",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-2.pishow.tv/live/477/master.m3u8",
+  "tvgId": "SwarajExpressSMBC.in@SD",
+  "isActive": true,
+  "language": "or"
+}

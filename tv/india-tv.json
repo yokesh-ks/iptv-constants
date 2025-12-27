@@ -1,0 +1,9 @@
+{
+  "id": "india-tv",
+  "name": "India TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+  "tvgId": "IndiaTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

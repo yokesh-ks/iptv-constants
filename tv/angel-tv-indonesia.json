@@ -1,0 +1,9 @@
+{
+  "id": "angel-tv-indonesia",
+  "name": "Angel TV Indonesia",
+  "categoryId": "entertainment",
+  "streamUrl": "https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8",
+  "tvgId": "AngelTV.in@Indonesia",
+  "isActive": true,
+  "language": "hi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "iplus-tv",
+  "name": "iPlus TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://live.we2live.in/iplustv/iplustv/playlist.m3u8",
+  "tvgId": "IPlusTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

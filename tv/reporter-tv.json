@@ -1,0 +1,9 @@
+{
+  "id": "reporter-tv",
+  "name": "Reporter TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://segment.yuppcdn.net/050522/reporter/playlist.m3u8",
+  "tvgId": "ReporterTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

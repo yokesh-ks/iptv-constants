@@ -1,0 +1,9 @@
+{
+  "id": "khabar-fast",
+  "name": "Khabar Fast",
+  "categoryId": "general",
+  "streamUrl": "https://live.gbtechnology.in/khabarfast/khabarfast/index.m3u8",
+  "tvgId": "KhabarFast.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

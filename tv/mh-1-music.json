@@ -1,0 +1,9 @@
+{
+  "id": "mh-1-music",
+  "name": "Mh 1 Music",
+  "categoryId": "music",
+  "streamUrl": "https://mhonemusic.com/hls/1/stream.m3u8",
+  "tvgId": "Mh1Music.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

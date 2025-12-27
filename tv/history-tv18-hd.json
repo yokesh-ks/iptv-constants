@@ -1,0 +1,9 @@
+{
+  "id": "history-tv18-hd",
+  "name": "History TV18 HD",
+  "categoryId": "entertainment",
+  "streamUrl": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+  "tvgId": "HistoryTV18.in@HD",
+  "isActive": true,
+  "language": "en"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "alankar-tv",
+  "name": "Alankar TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8",
+  "tvgId": "AlankarTV.in@SD",
+  "isActive": true,
+  "language": "or"
+}

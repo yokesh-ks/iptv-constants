@@ -1,0 +1,9 @@
+{
+  "id": "newstime-bangla",
+  "name": "NewsTime Bangla",
+  "categoryId": "news",
+  "streamUrl": "https://cdn-2.pishow.tv/live/1494/master.m3u8",
+  "tvgId": "NewsTimeBangla.in@SD",
+  "isActive": true,
+  "language": "bn"
+}

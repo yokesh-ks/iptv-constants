@@ -1,0 +1,9 @@
+{
+  "id": "bharat-express",
+  "name": "Bharat Express",
+  "categoryId": "general",
+  "streamUrl": "https://stream1.livebox.co.in/VCAREhls/live.m3u8",
+  "tvgId": "BharatExpress.in@SD",
+  "isActive": true,
+  "language": "en"
+}

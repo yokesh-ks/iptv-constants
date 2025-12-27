@@ -1,0 +1,9 @@
+{
+  "id": "rongeen-tv",
+  "name": "Rongeen TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8",
+  "tvgId": "RongeenTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

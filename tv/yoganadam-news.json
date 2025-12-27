@@ -1,0 +1,9 @@
+{
+  "id": "yoganadam-news",
+  "name": "Yoganadam News",
+  "categoryId": "news",
+  "streamUrl": "https://yoganadam.cinesoftcdn.com/yoganadam/live/index.m3u8",
+  "tvgId": "YoganadamNews.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

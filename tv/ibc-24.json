@@ -1,0 +1,9 @@
+{
+  "id": "ibc-24",
+  "name": "IBC 24",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-3.pishow.tv/live/220/master.m3u8",
+  "tvgId": "IBC24.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

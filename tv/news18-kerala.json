@@ -1,0 +1,9 @@
+{
+  "id": "news18-kerala",
+  "name": "News18 Kerala",
+  "categoryId": "news",
+  "streamUrl": "https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8",
+  "tvgId": "News18Kerala.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

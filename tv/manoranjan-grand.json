@@ -1,0 +1,9 @@
+{
+  "id": "manoranjan-grand",
+  "name": "Manoranjan Grand",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-1.pishow.tv/live/1011/master.m3u8",
+  "tvgId": "ManoranjanGrand.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

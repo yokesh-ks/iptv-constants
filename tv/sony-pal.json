@@ -1,0 +1,9 @@
+{
+  "id": "sony-pal",
+  "name": "Sony Pal",
+  "categoryId": "entertainment",
+  "streamUrl": "http://163.61.227.29:8000/play/a04d/index.m3u8",
+  "tvgId": "SonyPal.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

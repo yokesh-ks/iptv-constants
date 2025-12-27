@@ -1,0 +1,9 @@
+{
+  "id": "eet-tv",
+  "name": "EET TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://live.streamjo.com/eetlive/eettv.m3u8",
+  "tvgId": "EETTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

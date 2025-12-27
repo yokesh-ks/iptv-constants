@@ -1,0 +1,9 @@
+{
+  "id": "raj-musix-telugu",
+  "name": "Raj Musix Telugu",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-1.pishow.tv/live/1213/master.m3u8",
+  "tvgId": "RajMusixTelugu.in@SD",
+  "isActive": true,
+  "language": "ta"
+}

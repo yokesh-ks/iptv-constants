@@ -1,0 +1,9 @@
+{
+  "id": "sach-bedhadak",
+  "name": "Sach Bedhadak",
+  "categoryId": "general",
+  "streamUrl": "http://202.164.50.194:8000/play/a04a/index.m3u8",
+  "tvgId": "SachBedhadak.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

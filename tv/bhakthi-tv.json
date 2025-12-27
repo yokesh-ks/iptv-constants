@@ -1,0 +1,9 @@
+{
+  "id": "bhakthi-tv",
+  "name": "Bhakthi TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-1.pishow.tv/live/397/master.m3u8",
+  "tvgId": "BhakthiTV.in@SD",
+  "isActive": true,
+  "language": "en"
+}

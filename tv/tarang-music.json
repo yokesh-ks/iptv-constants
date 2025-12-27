@@ -1,0 +1,9 @@
+{
+  "id": "tarang-music",
+  "name": "Tarang Music",
+  "categoryId": "music",
+  "streamUrl": "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8",
+  "tvgId": "TarangMusic.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

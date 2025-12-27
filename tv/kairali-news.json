@@ -1,0 +1,9 @@
+{
+  "id": "kairali-news",
+  "name": "Kairali News",
+  "categoryId": "news",
+  "streamUrl": "https://cdn-3.pishow.tv/live/1469/master.m3u8",
+  "tvgId": "KairaliNews.in@SD",
+  "isActive": true,
+  "language": "ml"
+}

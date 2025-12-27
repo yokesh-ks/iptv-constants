@@ -1,0 +1,9 @@
+{
+  "id": "aamar-bangla",
+  "name": "Aamar Bangla",
+  "categoryId": "general",
+  "streamUrl": "https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8",
+  "tvgId": "AamarBangla.in@SD",
+  "isActive": true,
+  "language": "en"
+}

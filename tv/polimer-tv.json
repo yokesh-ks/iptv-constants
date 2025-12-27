@@ -1,0 +1,9 @@
+{
+  "id": "polimer-tv",
+  "name": "Polimer TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-2.pishow.tv/live/1241/master.m3u8",
+  "tvgId": "PolimerTV.in@SD",
+  "isActive": true,
+  "language": "ta"
+}

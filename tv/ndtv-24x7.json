@@ -1,0 +1,9 @@
+{
+  "id": "ndtv-24x7",
+  "name": "NDTV 24X7",
+  "categoryId": "news",
+  "streamUrl": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+  "tvgId": "NDTV24x7.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ptc-music",
+  "name": "PTC Music",
+  "categoryId": "music",
+  "streamUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8",
+  "tvgId": "PTCMusic.in@SD",
+  "isActive": true,
+  "language": "pa"
+}

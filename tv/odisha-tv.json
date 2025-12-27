@@ -1,0 +1,9 @@
+{
+  "id": "odisha-tv",
+  "name": "Odisha TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8",
+  "tvgId": "OdishaTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

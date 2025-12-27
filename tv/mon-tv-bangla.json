@@ -1,0 +1,9 @@
+{
+  "id": "mon-tv-bangla",
+  "name": "MON TV Bangla",
+  "categoryId": "entertainment",
+  "streamUrl": "https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8",
+  "tvgId": "MONTVBangla.in@SD",
+  "isActive": true,
+  "language": "bn"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "nick-jr",
+  "name": "Nick Jr.",
+  "categoryId": "kids",
+  "streamUrl": "http://66.102.120.18:8000/play/a00m/index.m3u8",
+  "tvgId": "NickJr.in@SD",
+  "isActive": true,
+  "language": "en"
+}

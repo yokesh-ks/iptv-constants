@@ -1,0 +1,9 @@
+{
+  "id": "times-now-navbharat",
+  "name": "Times Now Navbharat",
+  "categoryId": "news",
+  "streamUrl": "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8",
+  "tvgId": "TimesNowNavbharat.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

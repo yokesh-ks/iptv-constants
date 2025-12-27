@@ -1,0 +1,9 @@
+{
+  "id": "star-utsav",
+  "name": "Star Utsav",
+  "categoryId": "entertainment",
+  "streamUrl": "http://163.61.227.29:8000/play/a04p/index.m3u8",
+  "tvgId": "StarUtsav.in@SD",
+  "isActive": true,
+  "language": "en"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mayyazhi",
+  "name": "Mayyazhi",
+  "categoryId": "general",
+  "streamUrl": "http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8",
+  "tvgId": "Mayyazhi.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

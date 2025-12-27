@@ -1,0 +1,9 @@
+{
+  "id": "m-sign-media",
+  "name": "M Sign Media",
+  "categoryId": "general",
+  "streamUrl": "http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8",
+  "tvgId": "MSignMedia.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "dd-sports",
+  "name": "DD Sports",
+  "categoryId": "sports",
+  "streamUrl": "https://cdn-6.pishow.tv/live/13/master.m3u8",
+  "tvgId": "DDSports.in@SD",
+  "isActive": true,
+  "language": "en"
+}

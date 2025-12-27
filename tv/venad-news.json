@@ -1,0 +1,9 @@
+{
+  "id": "venad-news",
+  "name": "Venad News",
+  "categoryId": "news",
+  "streamUrl": "https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8",
+  "tvgId": "VenadNews.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "chardikla-time-tv",
+  "name": "Chardikla Time TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
+  "tvgId": "ChardiklaTimeTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

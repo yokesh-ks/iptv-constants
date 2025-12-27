@@ -1,0 +1,9 @@
+{
+  "id": "ann-news",
+  "name": "ANN News",
+  "categoryId": "news",
+  "streamUrl": "https://cdn.ottlive.co.in/annnews/index.m3u8",
+  "tvgId": "ANNNews.in@HD",
+  "isActive": true,
+  "language": "en"
+}

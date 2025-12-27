@@ -1,0 +1,9 @@
+{
+  "id": "aastha-prime-1",
+  "name": "Aastha Prime 1",
+  "categoryId": "devotional",
+  "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8",
+  "tvgId": "AasthaPrime1.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

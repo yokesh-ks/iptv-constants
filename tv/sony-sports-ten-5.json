@@ -1,0 +1,9 @@
+{
+  "id": "sony-sports-ten-5",
+  "name": "Sony Sports Ten 5",
+  "categoryId": "entertainment",
+  "streamUrl": "http://66.102.120.18:8000/play/a010/index.m3u8",
+  "tvgId": "SonySportsTen5.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

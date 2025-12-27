@@ -1,0 +1,9 @@
+{
+  "id": "vissa-tv",
+  "name": "Vissa TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Vissa_Tv/master_1.m3u8",
+  "tvgId": "VissaTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

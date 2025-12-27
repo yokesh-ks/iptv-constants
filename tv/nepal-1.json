@@ -1,0 +1,9 @@
+{
+  "id": "nepal-1",
+  "name": "Nepal 1",
+  "categoryId": "general",
+  "streamUrl": "http://202.164.50.194:8000/play/a00o/index.m3u8",
+  "tvgId": "Nepal1.in@SD",
+  "isActive": true,
+  "language": "unknown"
+}

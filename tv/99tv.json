@@ -1,0 +1,9 @@
+{
+  "id": "99tv",
+  "name": "99TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-1.pishow.tv/live/1211/master.m3u8",
+  "tvgId": "99TV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

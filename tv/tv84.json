@@ -1,0 +1,9 @@
+{
+  "id": "tv84",
+  "name": "TV84",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn20.liveonlineservices.com/hls/tv84.m3u8",
+  "tvgId": "TV84.us@SD",
+  "isActive": true,
+  "language": "hi"
+}

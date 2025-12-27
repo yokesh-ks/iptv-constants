@@ -1,0 +1,9 @@
+{
+  "id": "shemaroo-marathi-bana",
+  "name": "Shemaroo Marathi Bana",
+  "categoryId": "general",
+  "streamUrl": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8",
+  "tvgId": "ShemarooMarathiBana.in@SD",
+  "isActive": true,
+  "language": "mr"
+}

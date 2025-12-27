@@ -1,0 +1,10 @@
+{
+  "id": "raj-musix-tamil",
+  "name": "Raj Musix Tamil",
+  "categoryId": "regional",
+  "streamUrl": "http://livestream.rajtv.tv/cluster1/Content/Channel/RajMusix/HLS/master.m3u8",
+  "quality": "1080p",
+  "tvgId": "RajMusixTamil.in@SD",
+  "isActive": false,
+  "language": "ta"
+}

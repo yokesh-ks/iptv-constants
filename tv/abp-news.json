@@ -1,0 +1,9 @@
+{
+  "id": "abp-news",
+  "name": "ABP News",
+  "categoryId": "news",
+  "streamUrl": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8",
+  "tvgId": "ABPNews.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "madha-tv",
+  "name": "Madha TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8",
+  "tvgId": "MadhaTV.in@SD",
+  "isActive": true,
+  "language": "en"
+}

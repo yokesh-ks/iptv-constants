@@ -1,0 +1,9 @@
+{
+  "id": "dd-rajasthan",
+  "name": "DD Rajasthan",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-1.pishow.tv/live/34/master.m3u8",
+  "tvgId": "DDRajasthan.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

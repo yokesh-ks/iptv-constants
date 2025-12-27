@@ -1,0 +1,9 @@
+{
+  "id": "dd-uttarakhand",
+  "name": "DD Uttarakhand",
+  "categoryId": "general",
+  "streamUrl": "https://cdn-1.pishow.tv/live/17/master.m3u8",
+  "tvgId": "DDUttarakhand.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

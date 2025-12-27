@@ -1,0 +1,9 @@
+{
+  "id": "epic-tv",
+  "name": "Epic TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://epiconvh.akamaized.net/live/epic/master.m3u8",
+  "tvgId": "EpicTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

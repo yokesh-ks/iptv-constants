@@ -1,0 +1,9 @@
+{
+  "id": "ptc-punjabi",
+  "name": "PTC Punjabi",
+  "categoryId": "general",
+  "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8",
+  "tvgId": "PTCPunjabi.in@SD",
+  "isActive": true,
+  "language": "pa"
+}

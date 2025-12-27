@@ -1,0 +1,9 @@
+{
+  "id": "anandham-tv",
+  "name": "Anandham TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://stream.galaxyott.live/live/anandhamtv/index.m3u8",
+  "tvgId": "AnandhamTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

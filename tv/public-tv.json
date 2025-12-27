@@ -1,0 +1,9 @@
+{
+  "id": "public-tv",
+  "name": "Public TV",
+  "categoryId": "entertainment",
+  "streamUrl": "https://cdn-3.pishow.tv/live/439/master.m3u8",
+  "tvgId": "PublicTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "nambikkai-tv",
+  "name": "Nambikkai TV",
+  "categoryId": "entertainment",
+  "streamUrl": "http://202.164.50.194:8000/play/a00c/index.m3u8",
+  "tvgId": "NambikkaiTV.in@SD",
+  "isActive": true,
+  "language": "hi"
+}
