@@ -35,21 +35,6 @@
     "logo": "https://i.imgur.com/5ORC4tn.png"
   },
   {
-    "id": "anandham-tv",
-    "name": "Anandham TV",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-25/2511253358000.jpg"
-  },
-  {
-    "id": "angel-tv-africa",
-    "name": "Angel TV Africa",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "angel-tv-america",
-    "name": "Angel TV America",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
     "id": "angel-tv-arabia",
     "name": "Angel TV Arabia",
     "logo": "https://i.imgur.com/qKLEGU7.png"
@@ -105,11 +90,6 @@
     "logo": "https://i.imgur.com/qKLEGU7.png"
   },
   {
-    "id": "angel-tv",
-    "name": "Angel TV",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
     "id": "aradana-tv",
     "name": "Aradana TV",
     "logo": "https://i.imgur.com/w48yzLu.png"
@@ -143,11 +123,6 @@
     "id": "cnbc-tv18",
     "name": "CNBC TV18",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png"
-  },
-  {
-    "id": "dangal-tv",
-    "name": "Dangal TV",
-    "logo": "https://i.imgur.com/6JTb3cd.png"
   },
   {
     "id": "dd-bharati",
@@ -198,16 +173,6 @@
     "id": "dd-uttarakhand",
     "name": "DD Uttarakhand",
     "logo": "https://i.imgur.com/GzBsbos.png"
-  },
-  {
-    "id": "dharshan-tv",
-    "name": "Dharshan TV",
-    "logo": "https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ"
-  },
-  {
-    "id": "dheeran-tv",
-    "name": "Dheeran TV",
-    "logo": "https://i.imgur.com/jSedjXf.png"
   },
   {
     "id": "eagle-one-news",
@@ -370,11 +335,6 @@
     "logo": "https://i.imgur.com/LeBL7ML.png"
   },
   {
-    "id": "kappa-tv",
-    "name": "Kappa TV",
-    "logo": "https://i.imgur.com/e9qTjgB.png"
-  },
-  {
     "id": "kashish-news",
     "name": "Kashish News",
     "logo": "https://i.imgur.com/qfINs2r.png"
@@ -390,24 +350,9 @@
     "logo": "https://i.imgur.com/Umi45ZJ.png"
   },
   {
-    "id": "madhimugam-tv",
-    "name": "Madhimugam TV",
-    "logo": "https://i.imgur.com/YKCo0hU.png"
-  },
-  {
     "id": "mahaa-news",
     "name": "Mahaa News",
     "logo": "https://i.imgur.com/buT76vR.png"
-  },
-  {
-    "id": "malai-murasu-tv",
-    "name": "Malai Murasu TV",
-    "logo": "https://i.imgur.com/M92IDhq.png"
-  },
-  {
-    "id": "malar-tv",
-    "name": "Malar TV",
-    "logo": "https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png"
   },
   {
     "id": "manoranjan-grand",
@@ -447,11 +392,6 @@
     "id": "mk-tv",
     "name": "MK TV",
     "logo": "https://i.imgur.com/RyYmyWy.png"
-  },
-  {
-    "id": "moon-tv",
-    "name": "Moon TV",
-    "logo": "https://i.imgur.com/3l25EZI.png"
   },
   {
     "id": "munsif-tv",
@@ -504,11 +444,6 @@
     "logo": "https://i.imgur.com/lT8rihP.png"
   },
   {
-    "id": "news-j",
-    "name": "News J",
-    "logo": "https://i.imgur.com/RqeF8RR.png"
-  },
-  {
     "id": "news-live",
     "name": "News Live",
     "logo": "https://i.imgur.com/OvSc7dc.png"
@@ -536,11 +471,6 @@
   {
     "id": "news18-jklh",
     "name": "News18 JKLH"
-  },
-  {
-    "id": "news18-kerala",
-    "name": "News18 Kerala",
-    "logo": "https://i.imgur.com/AsIdc9P.png"
   },
   {
     "id": "news18-lokmat",
@@ -742,11 +672,6 @@
     "logo": "https://i.imgur.com/QHv8CL2.png"
   },
   {
-    "id": "sirippoli-tv",
-    "name": "Sirippoli TV",
-    "logo": "https://i.imgur.com/nsplwFc.png"
-  },
-  {
     "id": "songdew-tv",
     "name": "Songdew TV",
     "logo": "https://i.imgur.com/aFlKqH4.png"
@@ -772,11 +697,6 @@
     "logo": "https://i.imgur.com/7AV1VI9.png"
   },
   {
-    "id": "suriyan-tv",
-    "name": "Suriyan TV",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-06/2511063356010.jpg"
-  },
-  {
     "id": "svbc-sri-venkateswara-bhakti-channel",
     "name": "SVBC Sri Venkateswara Bhakti Channel",
     "logo": "https://i.imgur.com/LSMvXAl.png"
@@ -795,11 +715,6 @@
     "id": "tehzeeb-tv",
     "name": "Tehzeeb TV",
     "logo": "https://i.imgur.com/PCVOdup.png"
-  },
-  {
-    "id": "thendral-tv",
-    "name": "Thendral TV",
-    "logo": "https://i.imgur.com/kQK80gB.png"
   },
   {
     "id": "times-now-navbharat",
@@ -847,11 +762,6 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-10/2511103396001.jpg"
   },
   {
-    "id": "vaanavil-tv",
-    "name": "Vaanavil TV",
-    "logo": "https://i.imgur.com/etr1k08.png"
-  },
-  {
     "id": "vbc-news",
     "name": "VBC News",
     "logo": "https://i.imgur.com/SvXCjha.png"
@@ -862,29 +772,14 @@
     "logo": "https://i.imgur.com/MC6edvH.jpg"
   },
   {
-    "id": "vendhar-tv",
-    "name": "Vendhar TV",
-    "logo": "https://i.imgur.com/okesED3.png"
-  },
-  {
     "id": "vip-news",
     "name": "VIP News",
     "logo": "https://i.imgur.com/84kRaW1.png"
   },
   {
-    "id": "vissa-tv",
-    "name": "Vissa TV",
-    "logo": "https://i.imgur.com/aPirjJ2.png"
-  },
-  {
     "id": "vtv-news",
     "name": "VTV News",
     "logo": "https://i.imgur.com/Ni8pZLF.png"
-  },
-  {
-    "id": "win-tv",
-    "name": "Win TV",
-    "logo": "https://i.imgur.com/xQutJMq.png"
   },
   {
     "id": "yoganadam-news",

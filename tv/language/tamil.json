@@ -5,9 +5,28 @@
     "logo": "https://i.imgur.com/YQK9ewf.png"
   },
   {
+    "id": "angel-tv",
+    "name": "Angel TV",
+    "logo": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "id": "dd-podhigai",
+    "name": "DD Podhigai"
+  },
+  {
     "id": "dd-tamil",
     "name": "DD Tamil",
     "logo": "https://yt3.googleusercontent.com/gOPDl0p0Ssungy3AfKG9MNHeW1QEwRmoFw0_dwDsUulDPE5Hv9nicA3MCjYyzYInzw8kbd5C=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": "dheeran-tv",
+    "name": "Dheeran TV",
+    "logo": "https://i.imgur.com/jSedjXf.png"
+  },
+  {
+    "id": "isai-aruvi",
+    "name": "Isai Aruvi",
+    "logo": "https://i.imgur.com/yO18FLo.png"
   },
   {
     "id": "kalaignar-murasu",
@@ -20,14 +39,49 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"
   },
   {
+    "id": "madhimugam-tv",
+    "name": "Madhimugam TV",
+    "logo": "https://i.imgur.com/YKCo0hU.png"
+  },
+  {
     "id": "makkal-tv-576i",
     "name": "Makkal TV (576i)",
     "logo": "https://i.imgur.com/gmnHoRu.png"
   },
   {
+    "id": "malai-murasu-tv",
+    "name": "Malai Murasu TV",
+    "logo": "https://i.imgur.com/M92IDhq.png"
+  },
+  {
+    "id": "malar-tv",
+    "name": "Malar TV",
+    "logo": "https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png"
+  },
+  {
+    "id": "mk-six",
+    "name": "MK Six",
+    "logo": "https://i.imgur.com/wZjEssv.png"
+  },
+  {
+    "id": "mntv",
+    "name": "MNTV",
+    "logo": "https://i.imgur.com/cFNw4Af.png"
+  },
+  {
+    "id": "moon-tv",
+    "name": "Moon TV",
+    "logo": "https://i.imgur.com/3l25EZI.png"
+  },
+  {
     "id": "news-7-tamil",
     "name": "News 7 Tamil",
     "logo": "https://i.imgur.com/UjlbR4o.png"
+  },
+  {
+    "id": "news-j",
+    "name": "News J",
+    "logo": "https://i.imgur.com/RqeF8RR.png"
   },
   {
     "id": "news-tamil-24x7",
@@ -55,9 +109,24 @@
     "logo": "https://i.imgur.com/4oF38ei.png"
   },
   {
+    "id": "sana-plus",
+    "name": "Sana Plus",
+    "logo": "https://i.imgur.com/N6tKUZv.png"
+  },
+  {
+    "id": "sirippoli-tv",
+    "name": "Sirippoli TV",
+    "logo": "https://i.imgur.com/nsplwFc.png"
+  },
+  {
     "id": "sun-tv",
     "name": "Sun TV",
     "logo": "https://i.imgur.com/Z0HJi56.png"
+  },
+  {
+    "id": "suriyan-tv",
+    "name": "Suriyan TV",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-06/2511063356010.jpg"
   },
   {
     "id": "tamilan-tv",
@@ -70,8 +139,28 @@
     "logo": "https://i.imgur.com/200ROjU.png"
   },
   {
+    "id": "thendral-tv",
+    "name": "Thendral TV",
+    "logo": "https://i.imgur.com/kQK80gB.png"
+  },
+  {
+    "id": "vaanavil-tv",
+    "name": "Vaanavil TV",
+    "logo": "https://i.imgur.com/etr1k08.png"
+  },
+  {
     "id": "vasanth-tv",
     "name": "Vasanth TV",
     "logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Vasanth_TV_logo.png"
+  },
+  {
+    "id": "vendhar-tv",
+    "name": "Vendhar TV",
+    "logo": "https://i.imgur.com/okesED3.png"
+  },
+  {
+    "id": "win-tv",
+    "name": "Win TV",
+    "logo": "https://i.imgur.com/xQutJMq.png"
   }
 ]

@@ -5,6 +5,11 @@
     "logo": "https://i.imgur.com/WdSjlPl.png"
   },
   {
+    "id": "asianet-news",
+    "name": "Asianet News",
+    "logo": "https://i.imgur.com/LrHGfdC.png"
+  },
+  {
     "id": "dd-malayalam",
     "name": "DD Malayalam",
     "logo": "https://i.imgur.com/ywm2dTl.png"
@@ -25,9 +30,19 @@
     "logo": "https://i.imgur.com/zXpROBj.png"
   },
   {
+    "id": "kappa-tv",
+    "name": "Kappa TV",
+    "logo": "https://i.imgur.com/e9qTjgB.png"
+  },
+  {
     "id": "kaumudy-tv",
     "name": "Kaumudy TV",
     "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg"
+  },
+  {
+    "id": "kite-victers-kerala",
+    "name": "KITE Victers (Kerala)",
+    "logo": "https://i.imgur.com/kj4OEsb.png"
   },
   {
     "id": "manorama-news",
@@ -55,6 +70,11 @@
     "logo": "https://i.imgur.com/UJ9QUhj.png"
   },
   {
+    "id": "news18-kerala",
+    "name": "News18 Kerala",
+    "logo": "https://i.imgur.com/AsIdc9P.png"
+  },
+  {
     "id": "safari-tv",
     "name": "Safari TV",
     "logo": "https://i.imgur.com/dSOfYyh.png"
@@ -63,6 +83,11 @@
     "id": "surya-tv",
     "name": "Surya TV",
     "logo": "https://i.imgur.com/NqXpFXU.png"
+  },
+  {
+    "id": "vcv",
+    "name": "VCV",
+    "logo": "https://i.imgur.com/KbU36xI.png"
   },
   {
     "id": "zee-news-malayalam",

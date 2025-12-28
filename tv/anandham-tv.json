@@ -4,7 +4,7 @@
   "categoryId": "entertainment",
   "streamUrl": "https://stream.galaxyott.live/live/anandhamtv/index.m3u8",
   "tvgId": "AnandhamTV.in@SD",
-  "isActive": true,
-  "language": "hindi",
+  "isActive": false,
+  "language": "tamil",
   "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-25/2511253358000.jpg"
 }

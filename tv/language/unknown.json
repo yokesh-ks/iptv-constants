@@ -105,10 +105,6 @@
     "logo": "https://i.imgur.com/HUL4aF6.png"
   },
   {
-    "id": "dd-podhigai",
-    "name": "DD Podhigai"
-  },
-  {
     "id": "dd-saptagiri",
     "name": "DD Saptagiri",
     "logo": "https://i.imgur.com/tmMEsEe.png"
@@ -164,11 +160,6 @@
     "logo": "https://i.imgur.com/Es3QiVx.png"
   },
   {
-    "id": "isai-aruvi",
-    "name": "Isai Aruvi",
-    "logo": "https://i.imgur.com/yO18FLo.png"
-  },
-  {
     "id": "jai-maharashtra",
     "name": "Jai Maharashtra",
     "logo": "https://i.imgur.com/nAv3icS.png"
@@ -182,11 +173,6 @@
     "id": "khabar-fast",
     "name": "Khabar Fast",
     "logo": "https://i.imgur.com/l5Li5Pd.png"
-  },
-  {
-    "id": "kite-victers-kerala",
-    "name": "KITE Victers (Kerala)",
-    "logo": "https://i.imgur.com/kj4OEsb.png"
   },
   {
     "id": "maiboli",
@@ -212,11 +198,6 @@
     "id": "mh-one-shraddha",
     "name": "MH One Shraddha",
     "logo": "https://i.imgur.com/Lrm8qTO.png"
-  },
-  {
-    "id": "mk-six",
-    "name": "MK Six",
-    "logo": "https://i.imgur.com/wZjEssv.png"
   },
   {
     "id": "mk-tunes",
@@ -294,11 +275,6 @@
     "logo": "https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg"
   },
   {
-    "id": "sana-plus",
-    "name": "Sana Plus",
-    "logo": "https://i.imgur.com/N6tKUZv.png"
-  },
-  {
     "id": "shalom-global",
     "name": "Shalom Global",
     "logo": "https://i.imgur.com/7Y2bRDD.png"
@@ -364,19 +340,9 @@
     "logo": "https://i.postimg.cc/1tMhRdd1/travelxp.png"
   },
   {
-    "id": "vcv",
-    "name": "VCV",
-    "logo": "https://i.imgur.com/KbU36xI.png"
-  },
-  {
     "id": "vedic",
     "name": "Vedic",
     "logo": "https://i.imgur.com/IuuzdLq.png"
-  },
-  {
-    "id": "velicham",
-    "name": "Velicham",
-    "logo": "https://i.imgur.com/y1voO3k.png"
   },
   {
     "id": "vyas-nic",

@@ -25,11 +25,6 @@
     "logo": "https://i.imgur.com/gcoiZJ3.png"
   },
   {
-    "id": "asianet-news",
-    "name": "Asianet News",
-    "logo": "https://i.imgur.com/LrHGfdC.png"
-  },
-  {
     "id": "bhakthi-tv",
     "name": "Bhakthi TV",
     "logo": "https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg"
@@ -84,11 +79,6 @@
     "name": "MNTV Music"
   },
   {
-    "id": "mntv",
-    "name": "MNTV",
-    "logo": "https://i.imgur.com/cFNw4Af.png"
-  },
-  {
     "id": "ntv-telugu",
     "name": "NTV Telugu",
     "logo": "https://i.imgur.com/WqTIoWS.png"
@@ -127,5 +117,10 @@
     "id": "vanitha-tv",
     "name": "Vanitha TV",
     "logo": "https://i.imgur.com/KuLZt2a.png"
+  },
+  {
+    "id": "vissa-tv",
+    "name": "Vissa TV",
+    "logo": "https://i.imgur.com/aPirjJ2.png"
   }
 ]
